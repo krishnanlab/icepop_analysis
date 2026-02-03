@@ -1,0 +1,17 @@
+#!/bin/bash -login
+#SBATCH --time=03:50:00
+#SBATCH --nodes=1
+#SBATCH --mem=200GB
+#SBATCH --cpus-per-task=1
+#SBATCH --gpus=a100:1
+#SBATCH --job-name=TM_mc
+#SBATCH --account=general
+#SBATCH --output=../slurms/metaq_TM.out
+
+cd ${SLURM_SUBMIT_DIR}
+
+/mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/bin/poetry \
+    run icepop metacell \
+    --h5ad ../data/TM_FACS/TM_FACS_cnt.h5ad \
+    --outdir ../results/TM_FACS_mc \
+    --save_name TM_FACS
