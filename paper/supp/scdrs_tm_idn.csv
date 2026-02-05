@@ -1,0 +1,53 @@
+Trait,Cell type,Pct. of sig. cells,ICePop discovery,Seismic discovery,scDRS discovery
+Coronary artery disease,Smooth muscle cell,0.0,False,False,True
+Coronary artery disease,Brain pericyte,0.0,False,False,True
+Coronary artery disease,Ventricular myocyte,0.0,False,False,True
+Prostate cancer,Epithelial cell of large intestine,0.0,False,False,True
+Prostate cancer,Brush cell of epithelium proper of large intestine,0.0,False,False,True
+Prostate cancer,Secretory cell,0.0,False,False,True
+Prostate cancer,Large intestine goblet cell,0.0,False,False,True
+Basal metabolic rate,Neuron,0.0,False,False,True
+Basal metabolic rate,Interneuron,0.0,False,False,True
+Atrial fibrillation,Aortic endothelial cell,0.0,False,False,True
+Major depressive disorder,Hepatocyte,0.0,False,False,True
+Type 2 diabetes,Endothelial cell of coronary artery,0.0,False,False,True
+Type 2 diabetes,Aortic endothelial cell,0.0,False,False,True
+Balding Type I,Fibroblast of lung,0.0,False,False,True
+Heel bone mineral density T score,Skeletal muscle satellite cell,0.0,False,False,True
+Heel bone mineral density T score,Enteroendocrine cell,0.0,False,False,True
+Heel bone mineral density T score,Pancreatic A cell,0.0,False,False,True
+Heel bone mineral density T score,Pancreatic PP cell,0.0,False,False,True
+Reaction time,Endothelial cell,0.0,False,False,True
+Reaction time,Capillary endothelial cells,0.0,False,False,True
+Reaction time,Vein endothelial cell,0.0,False,False,True
+Reaction time,Fenestrated cell,0.0,False,False,True
+Reaction time,Aortic endothelial cell,0.0,False,False,True
+Reaction time,Bergmann glial cell,0.0,False,False,True
+Reaction time,Astrocyte,0.0,False,False,True
+Lung FVC,Endocardial cell,0.0,False,False,True
+Systemic lupus erythematosus,Brush cell of epithelium proper of large intestine,0.0,False,False,True
+Systolic blood pressure,Kidney collecting duct principal cell,0.0,False,False,True
+Systolic blood pressure,Kidney loop of Henle ascending limb epithelial cell,0.0,False,False,True
+HDL cholesterol,Dendritic cell,0.0,False,False,True
+Neuroticism,Endothelial cell of lymphatic vessel,0.0,False,False,True
+Subjective well being,Neuroepithelial cell,0.0,False,False,True
+Subjective well being,Smooth muscle cell,0.0,False,False,True
+FEV1 FVC ratio,Epithelial cell of thymus,0.0,False,False,True
+Sleep duration,Kidney collecting duct principal cell,0.0,False,False,True
+Sleep duration,Thymocyte,0.0,False,False,True
+Sleep duration,Kidney loop of Henle ascending limb epithelial cell,0.0,False,False,True
+Smoking status,Ependymal cell,0.0,False,False,True
+Years of education,Neuroepithelial cell,0.0,False,False,True
+Red blood cell distribution width,Kupffer cell,0.0,False,False,True
+Red blood cell distribution width,Hepatocyte,0.0,False,False,True
+Red blood cell distribution width,Ciliated columnar cell of tracheobronchial tree,0.0,False,False,True
+Neutrophil count,Brush cell of epithelium proper of large intestine,0.0,False,False,True
+Worry,Endothelial cell of lymphatic vessel,0.0,False,False,True
+Schizophrenia,Ependymal cell,0.0,False,False,True
+Lymphocyte count,Ventricular myocyte,0.0,False,False,True
+Idiopathic pulmonary fibrosis,Mature alpha-beta T cell,0.0,False,False,True
+Hypertension,Microglial cell,0.0,False,False,True
+Hypertension,Monocyte,0.0,False,False,True
+Hypertension,Kidney loop of Henle ascending limb epithelial cell,0.0,False,False,True
+Hypertension,Atrial myocyte,0.0,False,False,True
+Waist hip ratio adjusted BMI,Plasmacytoid dendritic cell,0.0,False,False,True

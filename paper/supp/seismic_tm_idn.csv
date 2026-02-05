@@ -1,0 +1,171 @@
+Trait,Cell type,Pct. of sig. cells,ICePop discovery,Seismic discovery,scDRS discovery
+Hair pigmentation,Respiratory basal cell,0.0,False,True,False
+Hair pigmentation,Valve cell,0.0,False,True,False
+Hair pigmentation,Non-classical monocyte,0.0,False,True,False
+Hair pigmentation,Pericyte cell,0.0,False,True,False
+Hair pigmentation,Type I pneumocyte,0.0,False,True,False
+LDL cholesterol,Luminal epithelial cell of mammary gland,0.0,False,True,False
+LDL cholesterol,Respiratory basal cell,0.0,False,True,False
+LDL cholesterol,Vein endothelial cell,0.0,False,True,False
+LDL cholesterol,Fenestrated cell,0.0,False,True,False
+LDL cholesterol,Pancreatic acinar cell,0.0,False,True,False
+Hair color,Respiratory basal cell,0.0,False,True,False
+Hair color,Non-classical monocyte,0.0,False,True,False
+Hair color,Type I pneumocyte,0.0,False,True,False
+Inflammatory bowel disease,Secretory cell,0.0,False,True,False
+Monocyte count,Pericyte cell,0.0,False,True,False
+Monocyte count,Early pro-B cell,0.0,False,True,False
+Monocyte count,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Coronary artery disease,Hematopoietic stem cell,0.0,False,True,False
+Basal metabolic rate,Respiratory basal cell,0.0,False,True,False
+Basal metabolic rate,Late pro-B cell,0.0,False,True,False
+Basal metabolic rate,Brain pericyte,0.0,False,True,False
+Basal metabolic rate,Type I pneumocyte,0.0,False,True,False
+Basal metabolic rate,Medium spiny neuron,0.0,False,True,False
+Basal metabolic rate,Astrocyte,0.0,False,True,False
+Atrial fibrillation,Pericyte cell,0.0,False,True,False
+Type 2 diabetes,Pancreatic ductal cell,0.0,False,True,False
+Type 2 diabetes,Pancreatic A cell,0.0,False,True,False
+Type 2 diabetes,Pancreatic PP cell,0.0,False,True,False
+Type 2 diabetes,Atrial myocyte,0.0,False,True,False
+Standing height,Intermediate monocyte,0.0,False,True,False
+Standing height,Mucus secreting cell,0.0,False,True,False
+Standing height,Brain pericyte,0.0,False,True,False
+Standing height,Type I pneumocyte,0.0,False,True,False
+Standing height,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Standing height,Plasma cell,0.0,False,True,False
+Standing height,Pancreatic A cell,0.0,False,True,False
+Standing height,Pancreatic PP cell,0.0,False,True,False
+Ulcerative colitis,Pericyte cell,0.0,False,True,False
+Ulcerative colitis,Secretory cell,0.0,False,True,False
+Balding Type I,Respiratory basal cell,0.0,False,True,False
+Balding Type I,Hematopoietic stem cell,0.0,False,True,False
+Balding Type I,Fenestrated cell,0.0,False,True,False
+Balding Type I,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Celiac disease,Early pro-B cell,0.0,False,True,False
+Hemoglobin A1c,Luminal epithelial cell of mammary gland,0.0,False,True,False
+Hemoglobin A1c,Respiratory basal cell,0.0,False,True,False
+Hemoglobin A1c,Pericyte cell,0.0,False,True,False
+Hemoglobin A1c,Brain pericyte,0.0,False,True,False
+Hemoglobin A1c,Type I pneumocyte,0.0,False,True,False
+Hemoglobin A1c,Pancreatic PP cell,0.0,False,True,False
+Heel bone mineral density T score,Type I pneumocyte,0.0,False,True,False
+Heel bone mineral density T score,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Red blood cell count,Luminal epithelial cell of mammary gland,0.0,False,True,False
+Red blood cell count,Respiratory basal cell,0.0,False,True,False
+Red blood cell count,Valve cell,0.0,False,True,False
+Red blood cell count,Pericyte cell,0.0,False,True,False
+Red blood cell count,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Red blood cell count,Microglial cell,0.0,False,True,False
+Red blood cell count,Lung macrophage,0.0,False,True,False
+Red blood cell count,Endocardial cell,0.0,False,True,False
+Sex hormone binding globulin,Valve cell,0.0,False,True,False
+Sex hormone binding globulin,Pancreatic ductal cell,0.0,False,True,False
+Sex hormone binding globulin,Type I pneumocyte,0.0,False,True,False
+Mean corpuscular hemoglobin,Respiratory basal cell,0.0,False,True,False
+Mean corpuscular hemoglobin,Pancreatic ductal cell,0.0,False,True,False
+Mean corpuscular hemoglobin,Lymphocyte,0.0,False,True,False
+Triglycerides,Immature B cell,0.0,False,True,False
+Triglycerides,Respiratory basal cell,0.0,False,True,False
+Triglycerides,Pericyte cell,0.0,False,True,False
+Triglycerides,Pancreatic ductal cell,0.0,False,True,False
+Triglycerides,Brain pericyte,0.0,False,True,False
+Triglycerides,Granulocytopoietic cell,0.0,False,True,False
+Bipolar disorder,Non-classical monocyte,0.0,False,True,False
+Total cholesterol,Respiratory basal cell,0.0,False,True,False
+Total cholesterol,Fenestrated cell,0.0,False,True,False
+Total cholesterol,Leukocyte,0.0,False,True,False
+Total cholesterol,Basophil,0.0,False,True,False
+Number of children ever born,Type I pneumocyte,0.0,False,True,False
+Lung FVC,Medium spiny neuron,0.0,False,True,False
+Lung FVC,Pancreatic A cell,0.0,False,True,False
+Systemic lupus erythematosus,Bulge keratinocyte,0.0,False,True,False
+Systemic lupus erythematosus,Basophil,0.0,False,True,False
+Systemic lupus erythematosus,Early pro-B cell,0.0,False,True,False
+Systemic lupus erythematosus,Plasma cell,0.0,False,True,False
+Systolic blood pressure,Intermediate monocyte,0.0,False,True,False
+Systolic blood pressure,Endothelial cell of lymphatic vessel,0.0,False,True,False
+White blood cell count,Pericyte cell,0.0,False,True,False
+HDL cholesterol,Respiratory basal cell,0.0,False,True,False
+HDL cholesterol,Basophil,0.0,False,True,False
+HDL cholesterol,Brain pericyte,0.0,False,True,False
+HDL cholesterol,Type I pneumocyte,0.0,False,True,False
+HDL cholesterol,Endothelial cell of lymphatic vessel,0.0,False,True,False
+HDL cholesterol,Pancreatic B cell,0.0,False,True,False
+Testosterone male,Pancreatic ductal cell,0.0,False,True,False
+Testosterone male,Pancreatic D cell,0.0,False,True,False
+Testosterone male,Neuronal stem cell,0.0,False,True,False
+Testosterone male,Pancreatic PP cell,0.0,False,True,False
+Total bilirubin,Respiratory basal cell,0.0,False,True,False
+Total bilirubin,Fenestrated cell,0.0,False,True,False
+Total bilirubin,Pericyte cell,0.0,False,True,False
+Total bilirubin,Pulmonary interstitial fibroblast,0.0,False,True,False
+Fasting glucose,Pancreatic PP cell,0.0,False,True,False
+Breast cancer,Respiratory basal cell,0.0,False,True,False
+Primary biliary cirrhosis,Basal cell,0.0,False,True,False
+Primary biliary cirrhosis,Plasmacytoid dendritic cell,0.0,False,True,False
+Primary biliary cirrhosis,Lymphocyte,0.0,False,True,False
+Primary biliary cirrhosis,Kupffer cell,0.0,False,True,False
+Subjective well being,Brush cell of epithelium proper of large intestine,0.0,False,True,False
+Subjective well being,Type I pneumocyte,0.0,False,True,False
+Subjective well being,Endothelial cell of lymphatic vessel,0.0,False,True,False
+FEV1 FVC ratio,Endocardial cell,0.0,False,True,False
+Total protein,Respiratory basal cell,0.0,False,True,False
+Total protein,Type I pneumocyte,0.0,False,True,False
+Total protein,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Respiratory ENT,Respiratory basal cell,0.0,False,True,False
+Respiratory ENT,Neutrophil,0.0,False,True,False
+Autism spectrum disorder,Proerythroblast,0.0,False,True,False
+Red blood cell distribution width,Luminal epithelial cell of mammary gland,0.0,False,True,False
+Red blood cell distribution width,Respiratory basal cell,0.0,False,True,False
+Red blood cell distribution width,Lymphocyte,0.0,False,True,False
+Coronary atherosclerosis,Promonocyte,0.0,False,True,False
+Coronary atherosclerosis,Pericyte cell,0.0,False,True,False
+Coronary atherosclerosis,Myeloid dendritic cell,0.0,False,True,False
+Coronary atherosclerosis,Fibroblast of lung,0.0,False,True,False
+Coronary atherosclerosis,Endocardial cell,0.0,False,True,False
+Vitamin D,Luminal epithelial cell of mammary gland,0.0,False,True,False
+Vitamin D,Respiratory basal cell,0.0,False,True,False
+Vitamin D,Pancreatic A cell,0.0,False,True,False
+Vitamin D,Pancreatic PP cell,0.0,False,True,False
+Neutrophil count,Dendritic cell,0.0,False,True,False
+Neutrophil count,Endocardial cell,0.0,False,True,False
+Platelet count,Respiratory basal cell,0.0,False,True,False
+Platelet count,Pericyte cell,0.0,False,True,False
+Platelet count,Brain pericyte,0.0,False,True,False
+Platelet count,Pulmonary interstitial fibroblast,0.0,False,True,False
+Platelet count,Type I pneumocyte,0.0,False,True,False
+Platelet count,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Platelet count,Lymphocyte,0.0,False,True,False
+Platelet count,Endocardial cell,0.0,False,True,False
+Alkaline phosphatase,Respiratory basal cell,0.0,False,True,False
+Alkaline phosphatase,Basophil,0.0,False,True,False
+Alkaline phosphatase,Pericyte cell,0.0,False,True,False
+Alkaline phosphatase,Pulmonary interstitial fibroblast,0.0,False,True,False
+Insomnia,Bergmann glial cell,0.0,False,True,False
+Insomnia,Pancreatic PP cell,0.0,False,True,False
+Asthma,Respiratory basal cell,0.0,False,True,False
+Morning person,Type I pneumocyte,0.0,False,True,False
+Blood glucose,Pancreatic ductal cell,0.0,False,True,False
+Body mass index,Brain pericyte,0.0,False,True,False
+Body mass index,Pulmonary interstitial fibroblast,0.0,False,True,False
+Lymphocyte count,Pericyte cell,0.0,False,True,False
+Lymphocyte count,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Diastolic blood pressure,Intermediate monocyte,0.0,False,True,False
+Diastolic blood pressure,Pancreatic PP cell,0.0,False,True,False
+Eosinophil count,Fenestrated cell,0.0,False,True,False
+Hypertension,Intermediate monocyte,0.0,False,True,False
+Hypertension,Late pro-B cell,0.0,False,True,False
+Hypertension,Pancreatic ductal cell,0.0,False,True,False
+Hypertension,Type I pneumocyte,0.0,False,True,False
+Hypertension,Endothelial cell of lymphatic vessel,0.0,False,True,False
+Hypertension,Pancreatic PP cell,0.0,False,True,False
+Alanine aminotransferase,Valve cell,0.0,False,True,False
+Alanine aminotransferase,Smooth muscle cell,0.0,False,True,False
+Alanine aminotransferase,Type I pneumocyte,0.0,False,True,False
+Alanine aminotransferase,Lymphocyte,0.0,False,True,False
+Alanine aminotransferase,Kupffer cell,0.0,False,True,False
+Multiple sclerosis,Plasma cell,0.0,False,True,False
+Waist hip ratio adjusted BMI,Respiratory basal cell,0.0,False,True,False
+Waist hip ratio adjusted BMI,Intermediate monocyte,0.0,False,True,False
+Waist hip ratio adjusted BMI,Kidney interstitial fibroblast,0.0,False,True,False
