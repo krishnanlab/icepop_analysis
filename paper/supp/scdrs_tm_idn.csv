@@ -22,8 +22,8 @@ Reaction time,Capillary endothelial cells,0.0,False,False,True
 Reaction time,Vein endothelial cell,0.0,False,False,True
 Reaction time,Fenestrated cell,0.0,False,False,True
 Reaction time,Aortic endothelial cell,0.0,False,False,True
-Reaction time,Bergmann glial cell,0.0,False,False,True
 Reaction time,Astrocyte,0.0,False,False,True
+Reaction time,Bergmann glial cell,0.0,False,False,True
 Lung FVC,Endocardial cell,0.0,False,False,True
 Systemic lupus erythematosus,Brush cell of epithelium proper of large intestine,0.0,False,False,True
 Systolic blood pressure,Kidney collecting duct principal cell,0.0,False,False,True
@@ -39,15 +39,15 @@ Sleep duration,Kidney loop of Henle ascending limb epithelial cell,0.0,False,Fal
 Smoking status,Ependymal cell,0.0,False,False,True
 Years of education,Neuroepithelial cell,0.0,False,False,True
 Red blood cell distribution width,Kupffer cell,0.0,False,False,True
-Red blood cell distribution width,Hepatocyte,0.0,False,False,True
 Red blood cell distribution width,Ciliated columnar cell of tracheobronchial tree,0.0,False,False,True
+Red blood cell distribution width,Hepatocyte,0.0,False,False,True
 Neutrophil count,Brush cell of epithelium proper of large intestine,0.0,False,False,True
 Worry,Endothelial cell of lymphatic vessel,0.0,False,False,True
 Schizophrenia,Ependymal cell,0.0,False,False,True
 Lymphocyte count,Ventricular myocyte,0.0,False,False,True
 Idiopathic pulmonary fibrosis,Mature alpha-beta T cell,0.0,False,False,True
 Hypertension,Microglial cell,0.0,False,False,True
-Hypertension,Monocyte,0.0,False,False,True
-Hypertension,Kidney loop of Henle ascending limb epithelial cell,0.0,False,False,True
 Hypertension,Atrial myocyte,0.0,False,False,True
+Hypertension,Kidney loop of Henle ascending limb epithelial cell,0.0,False,False,True
+Hypertension,Monocyte,0.0,False,False,True
 Waist hip ratio adjusted BMI,Plasmacytoid dendritic cell,0.0,False,False,True

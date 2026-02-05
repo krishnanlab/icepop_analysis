@@ -21,23 +21,23 @@ Basal metabolic rate,Respiratory basal cell,0.0,False,True,False
 Basal metabolic rate,Late pro-B cell,0.0,False,True,False
 Basal metabolic rate,Brain pericyte,0.0,False,True,False
 Basal metabolic rate,Type I pneumocyte,0.0,False,True,False
-Basal metabolic rate,Medium spiny neuron,0.0,False,True,False
 Basal metabolic rate,Astrocyte,0.0,False,True,False
+Basal metabolic rate,Medium spiny neuron,0.0,False,True,False
 Atrial fibrillation,Pericyte cell,0.0,False,True,False
 Type 2 diabetes,Pancreatic ductal cell,0.0,False,True,False
+Type 2 diabetes,Atrial myocyte,0.0,False,True,False
 Type 2 diabetes,Pancreatic A cell,0.0,False,True,False
 Type 2 diabetes,Pancreatic PP cell,0.0,False,True,False
-Type 2 diabetes,Atrial myocyte,0.0,False,True,False
 Standing height,Intermediate monocyte,0.0,False,True,False
-Standing height,Mucus secreting cell,0.0,False,True,False
 Standing height,Brain pericyte,0.0,False,True,False
+Standing height,Mucus secreting cell,0.0,False,True,False
 Standing height,Type I pneumocyte,0.0,False,True,False
 Standing height,Endothelial cell of lymphatic vessel,0.0,False,True,False
 Standing height,Plasma cell,0.0,False,True,False
 Standing height,Pancreatic A cell,0.0,False,True,False
 Standing height,Pancreatic PP cell,0.0,False,True,False
-Ulcerative colitis,Pericyte cell,0.0,False,True,False
 Ulcerative colitis,Secretory cell,0.0,False,True,False
+Ulcerative colitis,Pericyte cell,0.0,False,True,False
 Balding Type I,Respiratory basal cell,0.0,False,True,False
 Balding Type I,Hematopoietic stem cell,0.0,False,True,False
 Balding Type I,Fenestrated cell,0.0,False,True,False
@@ -57,8 +57,8 @@ Red blood cell count,Valve cell,0.0,False,True,False
 Red blood cell count,Pericyte cell,0.0,False,True,False
 Red blood cell count,Endothelial cell of lymphatic vessel,0.0,False,True,False
 Red blood cell count,Microglial cell,0.0,False,True,False
-Red blood cell count,Lung macrophage,0.0,False,True,False
 Red blood cell count,Endocardial cell,0.0,False,True,False
+Red blood cell count,Lung macrophage,0.0,False,True,False
 Sex hormone binding globulin,Valve cell,0.0,False,True,False
 Sex hormone binding globulin,Pancreatic ductal cell,0.0,False,True,False
 Sex hormone binding globulin,Type I pneumocyte,0.0,False,True,False
@@ -104,8 +104,8 @@ Fasting glucose,Pancreatic PP cell,0.0,False,True,False
 Breast cancer,Respiratory basal cell,0.0,False,True,False
 Primary biliary cirrhosis,Basal cell,0.0,False,True,False
 Primary biliary cirrhosis,Plasmacytoid dendritic cell,0.0,False,True,False
-Primary biliary cirrhosis,Lymphocyte,0.0,False,True,False
 Primary biliary cirrhosis,Kupffer cell,0.0,False,True,False
+Primary biliary cirrhosis,Lymphocyte,0.0,False,True,False
 Subjective well being,Brush cell of epithelium proper of large intestine,0.0,False,True,False
 Subjective well being,Type I pneumocyte,0.0,False,True,False
 Subjective well being,Endothelial cell of lymphatic vessel,0.0,False,True,False
@@ -122,8 +122,8 @@ Red blood cell distribution width,Lymphocyte,0.0,False,True,False
 Coronary atherosclerosis,Promonocyte,0.0,False,True,False
 Coronary atherosclerosis,Pericyte cell,0.0,False,True,False
 Coronary atherosclerosis,Myeloid dendritic cell,0.0,False,True,False
-Coronary atherosclerosis,Fibroblast of lung,0.0,False,True,False
 Coronary atherosclerosis,Endocardial cell,0.0,False,True,False
+Coronary atherosclerosis,Fibroblast of lung,0.0,False,True,False
 Vitamin D,Luminal epithelial cell of mammary gland,0.0,False,True,False
 Vitamin D,Respiratory basal cell,0.0,False,True,False
 Vitamin D,Pancreatic A cell,0.0,False,True,False
@@ -136,8 +136,8 @@ Platelet count,Brain pericyte,0.0,False,True,False
 Platelet count,Pulmonary interstitial fibroblast,0.0,False,True,False
 Platelet count,Type I pneumocyte,0.0,False,True,False
 Platelet count,Endothelial cell of lymphatic vessel,0.0,False,True,False
-Platelet count,Lymphocyte,0.0,False,True,False
 Platelet count,Endocardial cell,0.0,False,True,False
+Platelet count,Lymphocyte,0.0,False,True,False
 Alkaline phosphatase,Respiratory basal cell,0.0,False,True,False
 Alkaline phosphatase,Basophil,0.0,False,True,False
 Alkaline phosphatase,Pericyte cell,0.0,False,True,False
@@ -163,8 +163,8 @@ Hypertension,Pancreatic PP cell,0.0,False,True,False
 Alanine aminotransferase,Valve cell,0.0,False,True,False
 Alanine aminotransferase,Smooth muscle cell,0.0,False,True,False
 Alanine aminotransferase,Type I pneumocyte,0.0,False,True,False
-Alanine aminotransferase,Lymphocyte,0.0,False,True,False
 Alanine aminotransferase,Kupffer cell,0.0,False,True,False
+Alanine aminotransferase,Lymphocyte,0.0,False,True,False
 Multiple sclerosis,Plasma cell,0.0,False,True,False
 Waist hip ratio adjusted BMI,Respiratory basal cell,0.0,False,True,False
 Waist hip ratio adjusted BMI,Intermediate monocyte,0.0,False,True,False
