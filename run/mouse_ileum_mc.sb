@@ -1,0 +1,17 @@
+#!/bin/bash -login
+#SBATCH --time=03:50:00
+#SBATCH --nodes=1
+#SBATCH --mem=200GB
+#SBATCH --cpus-per-task=1
+#SBATCH --gpus=a100:1
+#SBATCH --job-name=ileum_mc
+#SBATCH --account=general
+#SBATCH --output=../slurms/metaq_ileum.out
+
+cd ${SLURM_SUBMIT_DIR}
+
+/mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/bin/poetry \
+    poetry run icepop metacell \
+    --h5ad ../data/mouse_ileum/mouse_ileum_cnt.h5ad \
+    --outdir ../results/mouse_ileum_mc \
+    --save_name mouse_ileum
