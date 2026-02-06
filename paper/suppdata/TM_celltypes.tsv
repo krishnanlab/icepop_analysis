@@ -1,0 +1,121 @@
+cell_type	name	category	representative
+hematopoietic stem cell	Hematopoietic stem cell	Blood	No
+granulocyte monocyte progenitor cell	Granulocyte monocyte progenitor cell	Blood	No
+megakaryocyte-erythroid progenitor cell	Megakaryocyte-erythroid progenitor cell	Blood	Yes
+proerythroblast	Proerythroblast	Blood	Yes
+granulocytopoietic cell	Granulocytopoietic cell	Blood	No
+neutrophil	Neutrophil	Blood	Yes
+granulocyte	Granulocyte	Blood	No
+basophil	Basophil	Blood	No
+lymphocyte	Lymphocyte	Blood	No
+leukocyte	Leukocyte	Blood	No
+monocyte	Monocyte	Blood	No
+classical monocyte	Classical monocyte	Blood	No
+non-classical monocyte	Non-classical monocyte	Blood	No
+intermediate monocyte	Intermediate monocyte	Blood	No
+promonocyte	Promonocyte	Blood	No
+B cell	B cell	Immune	Yes
+naive B cell	Naive B cell	Immune	No
+immature B cell	Immature B cell	Immune	No
+precursor B cell	Precursor B cell	Immune	No
+early pro-B cell	Early pro-B cell	Immune	No
+late pro-B cell	Late pro-B cell	Immune	No
+plasma cell	Plasma cell	Immune	No
+T cell	T cell	Immune	No
+mature alpha-beta T cell	Mature alpha-beta T cell	Immune	No
+CD4-positive, alpha-beta T cell	CD4-positive, alpha-beta T cell	Immune	Yes
+CD8-positive, alpha-beta T cell	CD8-positive, alpha-beta T cell	Immune	Yes
+regulatory T cell	Regulatory T cell	Immune	No
+NK cell	NK cell	Immune	No
+mature NK T cell	Mature NK T cell	Immune	No
+macrophage	Macrophage	Immune	No
+dendritic cell	Dendritic cell	Immune	No
+myeloid dendritic cell	Myeloid dendritic cell	Immune	No
+plasmacytoid dendritic cell	Plasmacytoid dendritic cell	Immune	No
+professional antigen presenting cell	Professional antigen presenting cell	Immune	No
+myeloid cell	Myeloid cell	Immune	No
+myeloid leukocyte	Myeloid leukocyte	Immune	No
+thymocyte	Thymocyte	Thymus	No
+DN4 thymocyte	DN4 thymocyte	Thymus	No
+epithelial cell of thymus	Epithelial cell of thymus	Thymus	No
+endothelial cell of lymphatic vessel	Endothelial cell of lymphatic vessel	Lymphatic	No
+lymphoid progenitor cell	Lymphoid progenitor cell	Lymphatic	No
+Kupffer cell	Kupffer cell	Liver	No
+hepatocyte	Hepatocyte	Liver	Yes
+endothelial cell of hepatic sinusoid	Endothelial cell of hepatic sinusoid	Liver	No
+pancreatic acinar cell	Pancreatic acinar cell	Pancreas	No
+pancreatic ductal cell	Pancreatic ductal cell	Pancreas	No
+pancreatic stellate cell	Pancreatic stellate cell	Pancreas	No
+pancreatic A cell	Pancreatic A cell	Pancreas	No
+pancreatic B cell	Pancreatic B cell	Pancreas	Yes
+pancreatic D cell	Pancreatic D cell	Pancreas	No
+pancreatic PP cell	Pancreatic PP cell	Pancreas	Yes
+mesenchymal stem cell of adipose	Mesenchymal stem cell of adipose	Adipose	No
+kidney collecting duct epithelial cell	Kidney collecting duct epithelial cell	Kidney	No
+kidney collecting duct principal cell	Kidney collecting duct principal cell	Kidney	No
+epithelial cell of proximal tubule	Epithelial cell of proximal tubule	Kidney	No
+kidney loop of Henle ascending limb epithelial cell	Kidney loop of Henle ascending limb epithelial cell	Kidney	No
+mesangial cell	Mesangial cell	Kidney	No
+kidney interstitial fibroblast	Kidney interstitial fibroblast	Kidney	No
+neuron	Neuron	Brain	Yes
+interneuron	Interneuron	Brain	Yes
+medium spiny neuron	Medium spiny neuron	Brain	Yes
+neuronal stem cell	Neuronal stem cell	Brain	Yes
+neuroepithelial cell	Neuroepithelial cell	Brain	No
+astrocyte	Astrocyte	Brain	No
+oligodendrocyte	Oligodendrocyte	Brain	No
+oligodendrocyte precursor cell	Oligodendrocyte precursor cell	Brain	No
+microglial cell	Microglial cell	Brain	Yes
+ependymal cell	Ependymal cell	Brain	No
+Bergmann glial cell	Bergmann glial cell	Brain	No
+brain pericyte	Brain pericyte	Brain	No
+endothelial cell of coronary artery	Endothelial cell of coronary artery	Heart	No
+endocardial cell	Endocardial cell	Heart	No
+atrial myocyte	Atrial myocyte	Heart	Yes
+ventricular myocyte	Ventricular myocyte	Heart	Yes
+valve cell	Valve cell	Heart	No
+fibroblast of cardiac tissue	Fibroblast of cardiac tissue	Heart	No
+endothelial cell	Endothelial cell	Vascular	No
+vein endothelial cell	Vein endothelial cell	Vascular	No
+aortic endothelial cell	Aortic endothelial cell	Vascular	No
+pericyte cell	Pericyte cell	Vascular	No
+adventitial cell	Adventitial cell	Vascular	No
+fenestrated cell	Fenestrated cell	Vascular	No
+lung macrophage	Lung macrophage	Lung	No
+respiratory basal cell	Respiratory basal cell	Lung	No
+club cell of bronchiole	Club cell of bronchiole	Lung	No
+basal epithelial cell of tracheobronchial tree	Basal epithelial cell of tracheobronchial tree	Lung	No
+ciliated columnar cell of tracheobronchial tree	Ciliated columnar cell of tracheobronchial tree	Lung	No
+smooth muscle cell of trachea	Smooth muscle cell of trachea	Lung	No
+bronchial smooth muscle cell	Capillary endothelial cells	Lung	Yes
+smooth muscle cell of the pulmonary artery	Smooth muscle cell of the pulmonary artery	Lung	No
+type I pneumocyte	Type I pneumocyte	Lung	No
+type II pneumocyte	Type II pneumocyte	Lung	Yes
+lung neuroendocrine cell	Lung neuroendocrine cell	Lung	No
+pulmonary interstitial fibroblast	Pulmonary interstitial fibroblast	Lung	Yes
+fibroblast of lung	Fibroblast of lung	Lung	No
+smooth muscle cell	Smooth muscle cell	Muscle	Yes
+skeletal muscle satellite cell	Skeletal muscle satellite cell	Muscle	No
+epithelial cell	Epithelial cell	Epithelial	No
+secretory cell	Secretory cell	Epithelial	No
+mucus secreting cell	Mucus secreting cell	Epithelial	Yes
+epidermal cell	Epidermal cell	Skin	No
+basal cell	Basal cell	Skin	No
+basal cell of epidermis	Basal cell of epidermis	Skin	No
+keratinocyte	Keratinocyte	Skin	No
+bulge keratinocyte	Bulge keratinocyte	Skin	Yes
+keratinocyte stem cell	Keratinocyte stem cell	Skin	No
+luminal epithelial cell of mammary gland	Luminal epithelial cell of mammary gland	Mammary gland	Yes
+bladder cell	Bladder cell	Bladder	No
+bladder urothelial cell	Bladder urothelial cell	Bladder	No
+chondrocyte	Chondrocyte	Cartilage	Yes
+mesenchymal stem cell	Mesenchymal stem cell	Stromal	Yes
+stromal cell	Stromal cell	Stromal	No
+fibroblast	Fibroblast	Stromal	No
+fibrocyte	Fibrocyte	Stromal	No
+enterocyte of epithelium of large intestine	Enterocyte of epithelium of large intestine	Large intestine	Yes
+enteroendocrine cell	Enteroendocrine cell	Large intestine	No
+large intestine goblet cell	Large intestine goblet cell	Large intestine	No
+Brush cell of epithelium proper of large intestine	Brush cell of epithelium proper of large intestine	Large intestine	No
+intestinal crypt stem cell	Intestinal crypt stem cell	Large intestine	No
+epithelial cell of large intestine	Epithelial cell of large intestine	Large intestine	No

@@ -1,0 +1,82 @@
+node	cluster
+Neutrophil count	0
+Eosinophil count	0
+Lymphocyte count	0
+Mean corpuscular hemoglobin	3
+Monocyte count	0
+Platelet count	0
+Red blood cell distribution width	3
+Red blood cell count	3
+White blood cell count	0
+UC	1
+Crohn disease	1
+Celiac disease	1
+IBD	1
+SLE	1
+Multiple sclerosis	1
+Primary biliary cirrhosis	1
+RA	1
+Eczema	1
+Hypothyroidism	0
+Vitiligo	8
+Fasting glucose	8
+Type 2 diabetes	8
+Alanine aminotransferase	2
+Alkaline phosphatase	3
+Total cholesterol	3
+Blood glucose	10
+Hemoglobin A1c	3
+HDL cholesterol	2
+LDL cholesterol	3
+Sex hormone binding globulin	2
+Testosterone male	10
+Total bilirubin	3
+Total protein	0
+Triglycerides	2
+WHRadjBMI	9
+Basal metabolic rate	9
+Vitamin D	7
+BMI	5
+ASD	6
+ADHD	6
+Alzheimer disease	8
+Bipolar disorder	4
+General risk tolerance	6
+Insomnia	6
+Intelligence	4
+MDD	5
+Reaction time	5
+Schizophrenia	4
+Sleep duration	4
+Subjective well being	5
+Verbal numeric reasoning	4
+Worry	5
+Neuroticism	5
+Morning person	5
+Drinks per week	6
+College education	4
+Years of education	4
+Smoking status	4
+Number of children ever born	6
+Coronary atherosclerosis	2
+Heart failure	8
+Atrial fibrillation	8
+Coronary artery disease	8
+Diastolic blood pressure	9
+Systolic blood pressure	9
+Hypertension	9
+IPF	8
+Asthma	1
+Respiratory ENT	1
+FEV1 FVC ratio	9
+Lung FVC	9
+Hair color	7
+Melanoma	8
+Prostate cancer	8
+Heel T score	9
+Balding Type I	7
+Height	9
+Breast cancer	8
+Hair pigmentation	7
+Age at menarche	4
+Age at menopause	10

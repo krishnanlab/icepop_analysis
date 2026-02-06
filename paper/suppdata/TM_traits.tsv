@@ -1,0 +1,82 @@
+trait	trait_full_name	trait_short_name	category	representative
+neutrophil_count	Neutrophil count	Neutrophil count	Blood trait	Yes
+UKB_460K.blood_EOSINOPHIL_COUNT	Eosinophil count	Eosinophil count	Blood trait	No
+UKB_460K.blood_LYMPHOCYTE_COUNT	Lymphocyte count	Lymphocyte count	Blood trait	Yes
+UKB_460K.blood_MEAN_CORPUSCULAR_HEMOGLOBIN	Mean corpuscular hemoglobin	Mean corpuscular hemoglobin	Blood trait	No
+UKB_460K.blood_MONOCYTE_COUNT	Monocyte count	Monocyte count	Blood trait	No
+UKB_460K.blood_PLATELET_COUNT	Platelet count	Platelet count	Blood trait	Yes
+UKB_460K.blood_RBC_DISTRIB_WIDTH	Red blood cell distribution width	Red blood cell distribution width	Blood trait	No
+UKB_460K.blood_RED_COUNT	Red blood cell count	Red blood cell count	Blood trait	Yes
+UKB_460K.blood_WHITE_COUNT	White blood cell count	White blood cell count	Blood trait	No
+PASS_UC_deLange2017	Ulcerative colitis	UC	Immune	Yes
+PASS_CD_deLange2017	Crohn disease	Crohn disease	Immune	Yes
+PASS_Celiac	Celiac disease	Celiac disease	Immune	Yes
+PASS_IBD_deLange2017	Inflammatory bowel disease	IBD	Immune	No
+PASS_Lupus	Systemic lupus erythematosus	SLE	Immune	Yes
+PASS_Multiple_sclerosis	Multiple sclerosis	Multiple sclerosis	Immune	No
+PASS_Primary_biliary_cirrhosis	Primary biliary cirrhosis	Primary biliary cirrhosis	Immune	Yes
+PASS_Rheumatoid_Arthritis	Rheumatoid arthritis	RA	Immune	No
+UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED	Eczema	Eczema	Immune	No
+UKB_460K.disease_HYPOTHYROIDISM_SELF_REP	Hypothyroidism	Hypothyroidism	Immune	No
+vitiligo	Vitiligo	Vitiligo	Immune	No
+PASS_FastingGlucose_Manning	Fasting glucose	Fasting glucose	Metabolic	Yes
+PASS_Type_2_Diabetes	Type 2 diabetes	Type 2 diabetes	Metabolic	Yes
+UKB_460K.biochemistry_AlanineAminotransferase	Alanine aminotransferase	Alanine aminotransferase	Metabolic	Yes
+UKB_460K.biochemistry_AlkalinePhosphatase	Alkaline phosphatase	Alkaline phosphatase	Metabolic	Yes
+UKB_460K.biochemistry_Cholesterol	Total cholesterol	Total cholesterol	Metabolic	Yes
+UKB_460K.biochemistry_Glucose	Blood glucose	Blood glucose	Metabolic	No
+UKB_460K.biochemistry_HbA1c	Hemoglobin A1c	Hemoglobin A1c	Metabolic	No
+UKB_460K.biochemistry_HDLcholesterol	HDL cholesterol	HDL cholesterol	Metabolic	No
+UKB_460K.biochemistry_LDLdirect	LDL cholesterol	LDL cholesterol	Metabolic	No
+UKB_460K.biochemistry_SHBG	Sex hormone binding globulin	Sex hormone binding globulin	Metabolic	No
+UKB_460K.biochemistry_Testosterone_Male	Testosterone male	Testosterone male	Metabolic	No
+UKB_460K.biochemistry_TotalBilirubin	Total bilirubin	Total bilirubin	Metabolic	No
+UKB_460K.biochemistry_TotalProtein	Total protein	Total protein	Metabolic	No
+UKB_460K.biochemistry_Triglycerides	Triglycerides	Triglycerides	Metabolic	No
+UKB_460K.body_WHRadjBMIz	Waist hip ratio adjusted BMI	WHRadjBMI	Metabolic	No
+UKB_460K.impedance_BASAL_METABOLIC_RATEz	Basal metabolic rate	Basal metabolic rate	Metabolic	No
+vitaminD	Vitamin D	Vitamin D	Metabolic	Yes
+UKB_460K.body_BMIz	Body mass index	BMI	Neurological	Yes
+asd	Autism spectrum disorder	ASD	Neurological	No
+PASS_ADHD_Demontis2018	Attention deficit hyperactivity disorder	ADHD	Neurological	No
+PASS_Alzheimers_Jansen2019	Alzheimer disease	Alzheimer disease	Neurological	Yes
+PASS_BIP_Mullins2021	Bipolar disorder	Bipolar disorder	Neurological	Yes
+PASS_GeneralRiskTolerance_KarlssonLinner2019	General risk tolerance	General risk tolerance	Neurological	No
+PASS_Insomnia_Jansen2019	Insomnia	Insomnia	Neurological	Yes
+PASS_Intelligence_SavageJansen2018	General intelligence	Intelligence	Neurological	No
+PASS_MDD_Howard2019	Major depressive disorder	MDD	Neurological	Yes
+PASS_ReactionTime_Davies2018	Reaction time	Reaction time	Neurological	No
+PASS_Schizophrenia_Pardinas2018	Schizophrenia	Schizophrenia	Neurological	No
+PASS_SleepDuration_Dashti2019	Sleep duration	Sleep duration	Neurological	No
+PASS_SWB	Subjective well being	Subjective well being	Neurological	No
+PASS_VerbalNumericReasoning_Davies2018	Verbal numeric reasoning	Verbal numeric reasoning	Neurological	Yes
+PASS_Worry_Nagel2018	Worry	Worry	Neurological	No
+UKB_460K.mental_NEUROTICISM	Neuroticism	Neuroticism	Neurological	No
+UKB_460K.other_MORNINGPERSON	Morning person	Morning person	Neurological	No
+PASS_DrinksPerWeek_Liu2019	Drinks per week	Drinks per week	Neurological	No
+UKB_460K.cov_EDU_COLLEGE	College education	College education	Neurological	No
+UKB_460K.cov_EDU_YEARS	Years of education	Years of education	Neurological	No
+UKB_460K.cov_SMOKING_STATUS	Smoking status	Smoking status	Neurological	Yes
+UKB_460K.repro_NumberChildrenEverBorn_Pooled	Number of children ever born	Number of children ever born	Neurological	No
+Coronary_atherosclerosis	Coronary atherosclerosis	Coronary atherosclerosis	Cardiovascular	Yes
+heart_failure	Heart failure	Heart failure	Cardiovascular	Yes
+PASS_AtrialFibrillation_Nielsen2018	Atrial fibrillation	Atrial fibrillation	Cardiovascular	Yes
+PASS_Coronary_Artery_Disease	Coronary artery disease	Coronary artery disease	Cardiovascular	Yes
+UKB_460K.bp_DIASTOLICadjMEDz	Diastolic blood pressure	Diastolic blood pressure	Cardiovascular	No
+UKB_460K.bp_SYSTOLICadjMEDz	Systolic blood pressure	Systolic blood pressure	Cardiovascular	Yes
+UKB_460K.disease_HYPERTENSION_DIAGNOSED	Hypertension	Hypertension	Cardiovascular	No
+IPF	Idiopathic pulmonary fibrosis	IPF	Respiratory	Yes
+UKB_460K.disease_ASTHMA_DIAGNOSED	Asthma	Asthma	Respiratory	Yes
+UKB_460K.disease_RESPIRATORY_ENT	Respiratory ENT	Respiratory ENT	Respiratory	No
+UKB_460K.lung_FEV1FVCzSMOKE	FEV1 FVC ratio	FEV1 FVC ratio	Respiratory	Yes
+UKB_460K.lung_FVCzSMOKE	Lung FVC	Lung FVC	Respiratory	No
+hair_color	Hair color	Hair color	Others	No
+melanoma	Melanoma	Melanoma	Others	No
+ProstateCancer_Harris2024	Prostate cancer	Prostate cancer	Others	No
+UKB_460K.bmd_HEEL_TSCOREz	Heel bone mineral density T score	Heel T score	Others	Yes
+UKB_460K.body_BALDING1	Balding Type I	Balding Type I	Others	Yes
+UKB_460K.body_HEIGHTz	Standing height	Height	Others	Yes
+UKB_460K.cancer_BREAST	Breast cancer	Breast cancer	Others	Yes
+UKB_460K.pigment_HAIR	Hair pigmentation	Hair pigmentation	Others	No
+UKB_460K.repro_MENARCHE_AGE	Age at menarche	Age at menarche	Others	No
+UKB_460K.repro_MENOPAUSE_AGE	Age at menopause	Age at menopause	Others	No
