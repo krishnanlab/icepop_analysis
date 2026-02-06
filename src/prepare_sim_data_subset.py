@@ -58,4 +58,4 @@ if __name__ == '__main__':
     )
 
     # save
-    new_adata.write(f'{outdir}/TM_subset.h5ad')
+    new_adata.write(f'{outdir}/TM_subset_cnt.h5ad')
