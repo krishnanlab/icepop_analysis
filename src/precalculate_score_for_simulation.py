@@ -44,6 +44,8 @@ if __name__ == '__main__':
     sc.pp.log1p(adata)
     sc.pp.highly_variable_genes(adata, n_top_genes=2000)
     sc.tl.pca(adata, n_comps=50, use_highly_variable=True)
+    sc.pp.neighbors(adata)
+    sc.tl.umap(adata)
 
     # get spec score
     spec = specificity_score(adata, n_jobs=20)
@@ -59,6 +61,9 @@ if __name__ == '__main__':
 
     # get centroids of metacells
     get_centroids(adata)
+
+    # seismic need this col as import
+    adata.var['entrez'] = adata.var_names
 
     # save
     adata.write(f'{outdir}/TM_subset__score_calc.h5ad')
