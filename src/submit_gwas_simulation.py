@@ -28,8 +28,9 @@ SAMPLE_RATE_LIST = [0.2, 0.4, 0.6, 0.8, 1.0]
 signal_source = 'cell_type'
 
 # job paramters
-n_run = 1000
+n_run = 100
 min_ncell = 30
+n_batch = 10
 
 # input data
 data = argv[1]
@@ -72,8 +73,8 @@ cd ${{SLURM_SUBMIT_DIR}}
 # --------------------------------------------
 # 3. Function to submit one job
 # --------------------------------------------
-def submit_job(frac_signal, noise_sd, beta, sample_rate):
-    jobname = f"fs{frac_signal}_ns{noise_sd}_b{beta}_sr{sample_rate}".replace('.', 'p')
+def submit_job(frac_signal, noise_sd, beta, sample_rate, batch):
+    jobname = f"fs{frac_signal}_ns{noise_sd}_b{beta}_sr{sample_rate}_{batch}".replace('.', 'p')
     slurm_script_name = f"../run/slurm_simulate_gwasz_{jobname}.sb"
 
     script_text = SLURM_TEMPLATE.format(
@@ -125,11 +126,13 @@ if __name__ == "__main__":
 
     print("submitting jobs...")
     for fs, ns, b, sr in unique_combos:
-        submit_job(
-            frac_signal=fs,
-            noise_sd=ns,
-            beta=b,
-            sample_rate=sr
-        )
+        for batch in range(n_batch):
+            submit_job(
+                frac_signal=fs,
+                noise_sd=ns,
+                beta=b,
+                sample_rate=sr,
+                batch=batch
+            )
 
     print("\nAll jobs submitted.")
