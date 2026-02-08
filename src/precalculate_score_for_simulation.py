@@ -30,7 +30,7 @@ def get_centroids(adata):
 
 if __name__ == '__main__':
     indir = '../data/simulation'
-    outdir = '../data/simulation/mc-75'
+    outdir = '../data/simulation/mc-30'
 
     # load data
     adata = sc.read(f'{indir}/TM_subset_cnt.h5ad')
