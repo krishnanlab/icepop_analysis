@@ -1,0 +1,18 @@
+#!/bin/bash -login
+#SBATCH --time=03:50:00
+#SBATCH --nodes=1
+#SBATCH --mem=200GB
+#SBATCH --cpus-per-task=1
+#SBATCH --job-name=seismic_casual
+#SBATCH --array=0-169
+#SBATCH --account=general
+#SBATCH --output=../slurms/seismic_progress_%j.out
+
+cd ${SLURM_SUBMIT_DIR}
+
+subdirs=( ../data/simulation/causal_simulation/* )
+subdir=${subdirs[$SLURM_ARRAY_TASK_ID]}
+
+/mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/envs/seismic/bin/Rscript \
+    ../src/run_seismic_casual.R \
+    $subdir

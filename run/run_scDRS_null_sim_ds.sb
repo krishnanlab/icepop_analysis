@@ -1,0 +1,34 @@
+#!/bin/bash -login
+#SBATCH --time=03:50:00
+#SBATCH --nodes=1
+#SBATCH --mem=200GB
+#SBATCH --cpus-per-task=1
+#SBATCH --job-name=run_scDRS
+#SBATCH --array=0-249
+#SBATCH --account=general
+#SBATCH --output=../slurms/scdrs_ds_progress_%j.out
+
+cd ${SLURM_SUBMIT_DIR}
+
+indir='../data/simulation/scdrs'
+ds_outdir='../results/scdrs_null_downstream'
+
+TASK_ID=${SLURM_ARRAY_TASK_ID}
+START=$(( TASK_ID * 40 ))
+END=$(( START + 40 - 1 ))
+
+echo "Processing indices ${START} to ${END}"
+
+downstreams=( /mnt/scratch/yuanhao5/scdrs_null/*.full_score.gz )
+for idx in $(seq $START $END); do
+    downstream=${downstreams[$idx]}
+    echo "Processing ${downstream}"
+
+    /mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/envs/scdrs/bin/scdrs perform-downstream \
+        --h5ad-file "${indir}/expr.h5ad" \
+        --score-file $downstream \
+        --out-folder $ds_outdir \
+        --group-analysis cell_type \
+        --flag-filter-data False \
+        --flag-raw-count True
+done
