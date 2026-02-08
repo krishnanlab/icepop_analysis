@@ -28,7 +28,8 @@ SAMPLE_RATE_LIST = [0.2, 0.4, 0.6, 0.8, 1.0]
 signal_source = 'cell_type'
 
 # job paramters
-n_run = 100
+n_run = 1000
+min_ncell = 30
 
 # input data
 data = argv[1]
@@ -58,6 +59,7 @@ cd ${{SLURM_SUBMIT_DIR}}
 /mnt/ufs18/rs-032/FishEvoDevoGeno/Hao/icepop_analysis/.venv/bin/python {main_script} \\
     --data {data} \\
     --logfc {logfc} \\
+    --min_ncell {min_ncell} \\
     --signal_frac {frac_signal} \\
     --noise_sd {noise_sd} \\
     --beta {beta} \\
@@ -77,6 +79,7 @@ def submit_job(frac_signal, noise_sd, beta, sample_rate):
     script_text = SLURM_TEMPLATE.format(
         data=data,
         logfc=logfc,
+        min_ncell=min_ncell,
         jobname=jobname,
         main_script=MAIN_SCRIPT,
         frac_signal=frac_signal,

@@ -48,26 +48,28 @@ def pick_realistic_cells(
         )
 
     # --------------------------------
-    # Pick a seed cell
-    # --------------------------------
-    seed_cell = rng.choice(target_cells)
-
-    # --------------------------------
     # PCA coordinates
     # --------------------------------
     pca = adata.obsm[pca_key]
     target_pca = pca[target_mask]
 
-    # index of seed cell within target subset
-    seed_idx = np.where(target_cells == seed_cell)[0][0]
+    # --------------------------------
+    # Compute centroid
+    # --------------------------------
+    centroid = np.median(target_pca, axis=0)
+
+    # --------------------------------
+    # Pick seed = closest to centroid
+    # --------------------------------
+    centroid_dists = np.linalg.norm(target_pca - centroid, axis=1)
+    seed_idx = np.argmin(centroid_dists)
+    seed_cell = target_cells[seed_idx]
     seed_coord = target_pca[seed_idx]
 
     # --------------------------------
-    # Distance in PCA space
+    # Local neighborhood around seed
     # --------------------------------
     dists = np.linalg.norm(target_pca - seed_coord, axis=1)
-
-    # nearest neighbors (including seed)
     order = np.argsort(dists)
 
     chosen_cells = target_cells[order[:n_target]]
@@ -315,7 +317,7 @@ def parse_args():
     parser.add_argument("--beta", type=float, default=1.0)
     parser.add_argument("--noise_sd", type=float, default=1.0)
     parser.add_argument("--sample_rate", type=float, default=1.0)
-    parser.add_argument("--min_ncell", type=int, default=10)
+    parser.add_argument("--min_ncell", type=int, default=30)
     parser.add_argument("--seed", type=int, default=None)
     parser.add_argument("--n_run", type=int, default=100)
     parser.add_argument("--outdir", type=str, default="results")
