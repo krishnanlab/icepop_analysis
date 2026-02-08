@@ -378,7 +378,7 @@ if __name__ == '__main__':
     cell_types = adata.obs['cell_type'].unique()
 
     n_finished = 0
-    for _ in range(1000):
+    while 1:
         if n_finished == n_run:
             break
 
