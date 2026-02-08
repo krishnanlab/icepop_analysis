@@ -21,8 +21,8 @@ if __name__ == '__main__':
     print('preprocess sc data')
     adata = sc.read_h5ad("../data/simulation/TM_subset_cnt.h5ad")
 
-    # # save
-    # adata.write(processed_adata)
+    # save
+    adata.write(processed_adata)
 
     ####################################
     # Casusal
