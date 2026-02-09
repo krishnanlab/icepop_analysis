@@ -13,13 +13,20 @@ cd ${SLURM_SUBMIT_DIR}
 /mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/bin/poetry \
     run icepop metacell \
     --h5ad ../data/TM_FACS/TM_FACS_cnt.h5ad \
-    --outdir ../results/TM_FACS_mc_50 \
+    --outdir ../results/TM_FACS_mc-75 \
+    --ncell_per_mc 75 \
+    --save_name TM_FACS_75
+
+/mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/bin/poetry \
+    run icepop metacell \
+    --h5ad ../data/TM_FACS/TM_FACS_cnt.h5ad \
+    --outdir ../results/TM_FACS_mc-50 \
     --ncell_per_mc 50 \
     --save_name TM_FACS_50
 
 /mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/bin/poetry \
     run icepop metacell \
     --h5ad ../data/TM_FACS/TM_FACS_cnt.h5ad \
-    --outdir ../results/TM_FACS_mc_30 \
+    --outdir ../results/TM_FACS_mc-30 \
     --ncell_per_mc 30 \
     --save_name TM_FACS_30
