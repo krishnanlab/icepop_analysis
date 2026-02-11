@@ -1,0 +1,747 @@
+Trait	Cell type	Pct. of sig. cells	ICePop discovery	Seismic discovery	scDRS discovery
+Hair pigmentation	Basal cell of epidermis	0.9928808732795444	True	True	True
+Hair pigmentation	Keratinocyte	0.994238683127572	True	True	True
+Hair pigmentation	Bulge keratinocyte	0.988863287250384	True	True	True
+LDL cholesterol	Myeloid leukocyte	0.7559808612440191	True	True	True
+LDL cholesterol	Secretory cell	1.0	True	True	True
+LDL cholesterol	Kupffer cell	0.9923664122137404	True	True	True
+LDL cholesterol	Hepatocyte	0.9896729776247848	True	True	True
+Hair color	Basal cell of epidermis	0.9855244423350736	True	True	True
+Hair color	Keratinocyte	0.9917695473251028	True	True	True
+Inflammatory bowel disease	DN4 thymocyte	0.9943052391799544	True	True	True
+Inflammatory bowel disease	Mature alpha-beta T cell	0.996969696969697	True	True	True
+Inflammatory bowel disease	Intermediate monocyte	1.0	True	True	True
+Inflammatory bowel disease	CD4-positive, alpha-beta T cell	0.994017094017094	True	True	True
+Inflammatory bowel disease	T cell	0.9541008276899924	True	True	True
+Inflammatory bowel disease	Macrophage	0.8908868001634654	True	True	True
+Inflammatory bowel disease	B cell	0.9584295612009238	True	True	True
+Inflammatory bowel disease	CD8-positive, alpha-beta T cell	0.985981308411215	True	True	True
+Inflammatory bowel disease	Non-classical monocyte	0.9932885906040269	True	True	True
+Inflammatory bowel disease	Naive B cell	0.9466035822913146	True	True	True
+Inflammatory bowel disease	NK cell	0.984036488027366	True	True	True
+Inflammatory bowel disease	Regulatory T cell	1.0	True	True	True
+Inflammatory bowel disease	Classical monocyte	0.99009900990099	True	True	True
+Inflammatory bowel disease	Myeloid leukocyte	0.9090909090909092	True	True	True
+Inflammatory bowel disease	Promonocyte	0.9665024630541872	True	True	True
+Inflammatory bowel disease	Leukocyte	0.8544303797468354	True	True	True
+Inflammatory bowel disease	Myeloid cell	0.871283255086072	True	True	True
+Inflammatory bowel disease	Proerythroblast	0.8317757009345794	True	True	True
+Inflammatory bowel disease	Mature NK T cell	0.949748743718593	True	True	True
+Inflammatory bowel disease	Dendritic cell	0.9193548387096774	True	True	True
+Inflammatory bowel disease	Granulocyte	0.9855023600809172	True	True	True
+Inflammatory bowel disease	Myeloid dendritic cell	0.967828418230563	True	True	True
+Inflammatory bowel disease	Lymphocyte	0.0	True	True	True
+Inflammatory bowel disease	Neutrophil	0.9673202614379084	True	True	True
+Monocyte count	Immature B cell	0.9864176570458404	True	True	True
+Monocyte count	DN4 thymocyte	0.9151480637813212	True	True	True
+Monocyte count	Mature alpha-beta T cell	0.906060606060606	True	True	True
+Monocyte count	Intermediate monocyte	1.0	True	True	True
+Monocyte count	Hematopoietic stem cell	0.9900181488203268	True	True	True
+Monocyte count	Macrophage	0.9194932570494484	True	True	True
+Monocyte count	Non-classical monocyte	0.9932885906040269	True	True	True
+Monocyte count	Naive B cell	0.9384927340317676	True	True	True
+Monocyte count	NK cell	0.8985176738882554	True	True	True
+Monocyte count	Plasmacytoid dendritic cell	1.0	True	True	True
+Monocyte count	Classical monocyte	1.0	True	True	True
+Monocyte count	Myeloid leukocyte	0.9282296650717704	True	True	True
+Monocyte count	Promonocyte	0.9802955665024632	True	True	True
+Monocyte count	Leukocyte	0.8987341772151899	True	True	True
+Monocyte count	Proerythroblast	0.9439252336448598	True	True	True
+Monocyte count	Granulocyte monocyte progenitor cell	1.0	True	True	True
+Monocyte count	Basophil	0.9859154929577464	True	True	True
+Monocyte count	Mature NK T cell	0.8994974874371859	True	True	True
+Monocyte count	Granulocytopoietic cell	1.0	True	True	True
+Monocyte count	Microglial cell	0.98296653602653	True	True	True
+Monocyte count	Granulocyte	0.9979770734996628	True	True	True
+Monocyte count	Myeloid dendritic cell	0.970509383378016	True	True	True
+Monocyte count	Kupffer cell	0.8854961832061069	True	True	True
+Monocyte count	Lymphocyte	0.0	True	True	True
+Monocyte count	Monocyte	0.9391100702576112	True	True	True
+Monocyte count	Neutrophil	0.9869281045751634	True	True	True
+Alzheimer disease	Intermediate monocyte	1.0	True	True	True
+Alzheimer disease	Non-classical monocyte	0.9261744966442952	True	True	True
+Alzheimer disease	Classical monocyte	0.995049504950495	True	True	True
+Alzheimer disease	Myeloid leukocyte	0.8851674641148325	True	True	True
+Alzheimer disease	Promonocyte	0.9428571428571428	True	True	True
+Alzheimer disease	Basophil	0.943661971830986	True	True	True
+Alzheimer disease	Hepatocyte	0.982788296041308	True	True	True
+Basal metabolic rate	Pulmonary interstitial fibroblast	0.82	True	True	True
+Basal metabolic rate	Pancreatic B cell	0.9992548435171386	True	True	True
+Atrial fibrillation	Smooth muscle cell of trachea	0.392	True	True	True
+Atrial fibrillation	Smooth muscle cell	0.9223300970873788	True	True	True
+Atrial fibrillation	Atrial myocyte	0.6774193548387096	True	True	True
+Atrial fibrillation	Ventricular myocyte	1.0	True	True	True
+Major depressive disorder	Neuron	0.9008264462809916	True	True	True
+Major depressive disorder	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Major depressive disorder	Oligodendrocyte	0.995702005730659	True	True	True
+Major depressive disorder	Astrocyte	0.8699324324324325	True	True	True
+Major depressive disorder	Bergmann glial cell	1.0	True	True	True
+Major depressive disorder	Interneuron	0.95	True	True	True
+Major depressive disorder	Medium spiny neuron	1.0	True	True	True
+Major depressive disorder	Neuronal stem cell	0.9896907216494846	True	True	True
+Verbal numeric reasoning	Neuron	0.9111570247933884	True	True	True
+Verbal numeric reasoning	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Verbal numeric reasoning	Astrocyte	0.9983108108108107	True	True	True
+Verbal numeric reasoning	Bergmann glial cell	1.0	True	True	True
+Verbal numeric reasoning	Pancreatic D cell	1.0	True	True	True
+Verbal numeric reasoning	Interneuron	0.95	True	True	True
+Verbal numeric reasoning	Medium spiny neuron	1.0	True	True	True
+Verbal numeric reasoning	Neuronal stem cell	0.9896907216494846	True	True	True
+Verbal numeric reasoning	Pancreatic B cell	0.9985096870342772	True	True	True
+Standing height	Stromal cell	1.0	True	True	True
+Standing height	Mesenchymal stem cell of adipose	0.936615254595394	True	True	True
+Standing height	Fenestrated cell	0.8544776119402985	True	True	True
+Standing height	Chondrocyte	0.9963636363636365	True	True	True
+Standing height	Pancreatic stellate cell	0.9791666666666666	True	True	True
+Standing height	Pericyte cell	1.0	True	True	True
+Standing height	Fibroblast	0.969172932330827	True	True	True
+Standing height	Pulmonary interstitial fibroblast	0.9	True	True	True
+Standing height	Fibroblast of cardiac tissue	0.9490575649516046	True	True	True
+Standing height	Adventitial cell	0.972318339100346	True	True	True
+Standing height	Bladder cell	0.9525691699604744	True	True	True
+Standing height	Endocardial cell	0.9573333333333334	True	True	True
+Age at menarche	Neuron	0.9173553719008264	True	True	True
+Age at menarche	Interneuron	0.9833333333333332	True	True	True
+Age at menarche	Medium spiny neuron	1.0	True	True	True
+Ulcerative colitis	DN4 thymocyte	0.985763097949886	True	True	True
+Ulcerative colitis	Intermediate monocyte	1.0	True	True	True
+Ulcerative colitis	CD4-positive, alpha-beta T cell	0.9829059829059827	True	True	True
+Ulcerative colitis	T cell	0.9337848006019565	True	True	True
+Ulcerative colitis	Macrophage	0.8422558234572947	True	True	True
+Ulcerative colitis	B cell	0.8900337537750933	True	True	True
+Ulcerative colitis	Non-classical monocyte	0.9932885906040269	True	True	True
+Ulcerative colitis	Regulatory T cell	1.0	True	True	True
+Ulcerative colitis	Classical monocyte	0.995049504950495	True	True	True
+Ulcerative colitis	Myeloid leukocyte	0.8516746411483254	True	True	True
+Ulcerative colitis	Promonocyte	0.941871921182266	True	True	True
+Ulcerative colitis	Leukocyte	0.8164556962025317	True	True	True
+Ulcerative colitis	Dendritic cell	0.9193548387096774	True	True	True
+Ulcerative colitis	Lymphocyte	0.0	True	True	True
+Balding Type I	Basal cell of epidermis	0.9499288087327954	True	True	True
+Balding Type I	Keratinocyte	0.9390946502057612	True	True	True
+Balding Type I	Bulge keratinocyte	0.9865591397849462	True	True	True
+Balding Type I	Mesenchymal stem cell of adipose	0.9613353053031904	True	True	True
+Balding Type I	Fibroblast	0.8842105263157894	True	True	True
+Balding Type I	Adventitial cell	0.8858131487889274	True	True	True
+Balding Type I	Bladder cell	0.950592885375494	True	True	True
+Celiac disease	DN4 thymocyte	0.9555808656036446	True	True	True
+Celiac disease	Mature alpha-beta T cell	0.987878787878788	True	True	True
+Celiac disease	CD4-positive, alpha-beta T cell	0.9897435897435898	True	True	True
+Celiac disease	T cell	0.9367945823927766	True	True	True
+Celiac disease	Macrophage	0.7785042909685329	True	True	True
+Celiac disease	CD8-positive, alpha-beta T cell	0.9822429906542056	True	True	True
+Celiac disease	NK cell	0.9657924743443558	True	True	True
+Celiac disease	Regulatory T cell	1.0	True	True	True
+Celiac disease	Leukocyte	0.8354430379746836	True	True	True
+Celiac disease	Mature NK T cell	0.9296482412060302	True	True	True
+Celiac disease	Myeloid dendritic cell	0.9839142091152816	True	True	True
+Celiac disease	Lymphocyte	0.0	True	True	True
+Celiac disease	Monocyte	0.8844652615144418	True	True	True
+Hemoglobin A1c	Non-classical monocyte	0.9261744966442952	True	True	True
+Hemoglobin A1c	Proerythroblast	0.719626168224299	True	True	True
+Hemoglobin A1c	Megakaryocyte-erythroid progenitor cell	0.9125	True	True	True
+Hemoglobin A1c	Pancreatic B cell	0.8383010432190761	True	True	True
+General intelligence	Neuron	0.9111570247933884	True	True	True
+General intelligence	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+General intelligence	Astrocyte	0.9983108108108107	True	True	True
+General intelligence	Bergmann glial cell	1.0	True	True	True
+General intelligence	Pancreatic D cell	1.0	True	True	True
+General intelligence	Interneuron	0.95	True	True	True
+General intelligence	Medium spiny neuron	1.0	True	True	True
+General intelligence	Neuronal stem cell	0.9896907216494846	True	True	True
+General intelligence	Pancreatic A cell	1.0	True	True	True
+General intelligence	Pancreatic B cell	0.9992548435171386	True	True	True
+Heel bone mineral density T score	Luminal epithelial cell of mammary gland	0.42578125	True	True	True
+Heel bone mineral density T score	Stromal cell	1.0	True	True	True
+Heel bone mineral density T score	Mesenchymal stem cell of adipose	0.9746461018381576	True	True	True
+Heel bone mineral density T score	Smooth muscle cell of trachea	0.312	True	True	True
+Heel bone mineral density T score	Fenestrated cell	0.9626865671641792	True	True	True
+Heel bone mineral density T score	Chondrocyte	1.0	True	True	True
+Heel bone mineral density T score	Pancreatic stellate cell	0.9791666666666666	True	True	True
+Heel bone mineral density T score	Pericyte cell	0.9736842105263158	True	True	True
+Heel bone mineral density T score	Endothelial cell of coronary artery	0.7230883444691908	True	True	True
+Heel bone mineral density T score	Fibroblast	0.9706766917293234	True	True	True
+Heel bone mineral density T score	Pulmonary interstitial fibroblast	0.9	True	True	True
+Heel bone mineral density T score	Fibroblast of cardiac tissue	0.9592460519612838	True	True	True
+Heel bone mineral density T score	Adventitial cell	0.972318339100346	True	True	True
+Heel bone mineral density T score	Bladder cell	1.0	True	True	True
+Heel bone mineral density T score	Fibroblast of lung	0.9917184265010353	True	True	True
+Heel bone mineral density T score	Mesangial cell	0.6344086021505376	True	True	True
+Heel bone mineral density T score	Mesenchymal stem cell	0.8810356892932121	True	True	True
+Red blood cell count	Hematopoietic stem cell	0.9667271627344224	True	True	True
+Red blood cell count	Epithelial cell of large intestine	0.5551643192488263	True	True	True
+Red blood cell count	Late pro-B cell	0.9683698296836984	True	True	True
+Red blood cell count	Megakaryocyte-erythroid progenitor cell	0.8625	True	True	True
+Attention deficit hyperactivity disorder	Neuron	0.7086776859504132	True	True	True
+Attention deficit hyperactivity disorder	Medium spiny neuron	1.0	True	True	True
+Mean corpuscular hemoglobin	Immature B cell	0.967741935483871	True	True	True
+Mean corpuscular hemoglobin	DN4 thymocyte	0.9396355353075172	True	True	True
+Mean corpuscular hemoglobin	Mature alpha-beta T cell	0.9181818181818182	True	True	True
+Mean corpuscular hemoglobin	Hematopoietic stem cell	0.9894131881427708	True	True	True
+Mean corpuscular hemoglobin	T cell	0.6433408577878104	True	True	True
+Mean corpuscular hemoglobin	Macrophage	0.8038414384961177	True	True	True
+Mean corpuscular hemoglobin	B cell	0.9374666903535264	True	True	True
+Mean corpuscular hemoglobin	Non-classical monocyte	0.9261744966442952	True	True	True
+Mean corpuscular hemoglobin	Naive B cell	0.9246367015883744	True	True	True
+Mean corpuscular hemoglobin	Lymphoid progenitor cell	0.0	True	True	True
+Mean corpuscular hemoglobin	Proerythroblast	0.8037383177570093	True	True	True
+Mean corpuscular hemoglobin	Late pro-B cell	0.9610705596107056	True	True	True
+Mean corpuscular hemoglobin	Megakaryocyte-erythroid progenitor cell	0.95	True	True	True
+Mean corpuscular hemoglobin	Early pro-B cell	0.9583333333333334	True	True	True
+Bipolar disorder	Neuron	0.9111570247933884	True	True	True
+Bipolar disorder	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Bipolar disorder	Astrocyte	0.9983108108108107	True	True	True
+Bipolar disorder	Bergmann glial cell	1.0	True	True	True
+Bipolar disorder	Interneuron	0.9375	True	True	True
+Bipolar disorder	Medium spiny neuron	1.0	True	True	True
+Bipolar disorder	Neuronal stem cell	0.9896907216494846	True	True	True
+Reaction time	Neuron	0.9400826446280992	True	True	True
+Reaction time	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Reaction time	Oligodendrocyte	0.995702005730659	True	True	True
+Reaction time	Interneuron	0.9833333333333332	True	True	True
+Reaction time	Medium spiny neuron	1.0	True	True	True
+Reaction time	Neuronal stem cell	0.9690721649484536	True	True	True
+Total cholesterol	Non-classical monocyte	0.9261744966442952	True	True	True
+Total cholesterol	Classical monocyte	0.995049504950495	True	True	True
+Total cholesterol	Myeloid leukocyte	0.7751196172248804	True	True	True
+Total cholesterol	Secretory cell	1.0	True	True	True
+Total cholesterol	Kupffer cell	0.9923664122137404	True	True	True
+Total cholesterol	Hepatocyte	0.9896729776247848	True	True	True
+Number of children ever born	Neuron	0.9090909090909092	True	True	True
+Number of children ever born	Oligodendrocyte precursor cell	0.9935897435897436	True	True	True
+Number of children ever born	Medium spiny neuron	1.0	True	True	True
+Number of children ever born	Neuronal stem cell	0.979381443298969	True	True	True
+Rheumatoid arthritis	Immature B cell	0.9932088285229204	True	True	True
+Rheumatoid arthritis	DN4 thymocyte	0.9965831435079726	True	True	True
+Rheumatoid arthritis	Mature alpha-beta T cell	0.987878787878788	True	True	True
+Rheumatoid arthritis	Intermediate monocyte	0.8333333333333334	True	True	True
+Rheumatoid arthritis	CD4-positive, alpha-beta T cell	0.9794871794871794	True	True	True
+Rheumatoid arthritis	T cell	0.9006772009029346	True	True	True
+Rheumatoid arthritis	Macrophage	0.7674703718839395	True	True	True
+Rheumatoid arthritis	B cell	0.960383727127376	True	True	True
+Rheumatoid arthritis	CD8-positive, alpha-beta T cell	0.9841121495327104	True	True	True
+Rheumatoid arthritis	Naive B cell	0.9655288948969246	True	True	True
+Rheumatoid arthritis	NK cell	0.9532497149372862	True	True	True
+Rheumatoid arthritis	Regulatory T cell	1.0	True	True	True
+Rheumatoid arthritis	Promonocyte	0.903448275862069	True	True	True
+Rheumatoid arthritis	Precursor B cell	0.9450934579439252	True	True	True
+Rheumatoid arthritis	Leukocyte	0.8417721518987342	True	True	True
+Rheumatoid arthritis	Mature NK T cell	0.9396984924623116	True	True	True
+Rheumatoid arthritis	Thymocyte	0.9353846153846154	True	True	True
+Rheumatoid arthritis	Dendritic cell	0.9193548387096774	True	True	True
+Rheumatoid arthritis	Myeloid dendritic cell	0.9624664879356568	True	True	True
+Lung FVC	Stromal cell	1.0	True	True	True
+Lung FVC	Mesenchymal stem cell of adipose	0.9750686668075216	True	True	True
+Lung FVC	Chondrocyte	0.9963636363636365	True	True	True
+Lung FVC	Smooth muscle cell	0.941747572815534	True	True	True
+Lung FVC	Pancreatic stellate cell	0.9791666666666666	True	True	True
+Lung FVC	Pericyte cell	0.9736842105263158	True	True	True
+Lung FVC	Fibroblast	0.981203007518797	True	True	True
+Lung FVC	Brain pericyte	0.8429752066115702	True	True	True
+Lung FVC	Pulmonary interstitial fibroblast	0.9	True	True	True
+Lung FVC	Fibroblast of cardiac tissue	0.95618950585838	True	True	True
+Lung FVC	Endothelial cell of lymphatic vessel	0.9797979797979798	True	True	True
+Lung FVC	Adventitial cell	0.9826989619377162	True	True	True
+Lung FVC	Bladder cell	1.0	True	True	True
+Lung FVC	Fibroblast of lung	0.9917184265010353	True	True	True
+Lung FVC	Mesenchymal stem cell	0.9783065080475856	True	True	True
+Systemic lupus erythematosus	Immature B cell	0.9881154499151104	True	True	True
+Systemic lupus erythematosus	DN4 thymocyte	0.9276765375854216	True	True	True
+Systemic lupus erythematosus	Mature alpha-beta T cell	0.9606060606060606	True	True	True
+Systemic lupus erythematosus	Intermediate monocyte	1.0	True	True	True
+Systemic lupus erythematosus	CD4-positive, alpha-beta T cell	0.982051282051282	True	True	True
+Systemic lupus erythematosus	T cell	0.9179834462001504	True	True	True
+Systemic lupus erythematosus	Macrophage	0.8573763792398855	True	True	True
+Systemic lupus erythematosus	B cell	0.9515011547344112	True	True	True
+Systemic lupus erythematosus	CD8-positive, alpha-beta T cell	0.9738317757009346	True	True	True
+Systemic lupus erythematosus	Non-classical monocyte	0.9261744966442952	True	True	True
+Systemic lupus erythematosus	Naive B cell	0.9594457587022642	True	True	True
+Systemic lupus erythematosus	NK cell	0.9327251995438997	True	True	True
+Systemic lupus erythematosus	Regulatory T cell	1.0	True	True	True
+Systemic lupus erythematosus	Classical monocyte	1.0	True	True	True
+Systemic lupus erythematosus	Myeloid leukocyte	0.861244019138756	True	True	True
+Systemic lupus erythematosus	Promonocyte	0.9694581280788176	True	True	True
+Systemic lupus erythematosus	Leukocyte	0.8607594936708861	True	True	True
+Systemic lupus erythematosus	Proerythroblast	0.6074766355140186	True	True	True
+Systemic lupus erythematosus	Dendritic cell	0.9193548387096774	True	True	True
+Systemic lupus erythematosus	Myeloid dendritic cell	0.96514745308311	True	True	True
+Systemic lupus erythematosus	Lung macrophage	1.0	True	True	True
+Systolic blood pressure	Valve cell	0.9936507936507936	True	True	True
+Systolic blood pressure	Smooth muscle cell of the pulmonary artery	0.981981981981982	True	True	True
+Systolic blood pressure	Smooth muscle cell of trachea	0.376	True	True	True
+Systolic blood pressure	Fenestrated cell	0.9701492537313432	True	True	True
+Systolic blood pressure	Smooth muscle cell	0.9902912621359224	True	True	True
+Systolic blood pressure	Pericyte cell	1.0	True	True	True
+Systolic blood pressure	Endothelial cell of coronary artery	0.848181143281366	True	True	True
+Systolic blood pressure	Brain pericyte	0.8966942148760331	True	True	True
+Systolic blood pressure	Pulmonary interstitial fibroblast	0.9	True	True	True
+Systolic blood pressure	Endocardial cell	0.9573333333333334	True	True	True
+Systolic blood pressure	Fibroblast of lung	0.989648033126294	True	True	True
+Systolic blood pressure	Mesangial cell	0.6021505376344086	True	True	True
+White blood cell count	Intermediate monocyte	1.0	True	True	True
+White blood cell count	Macrophage	0.8925214548426645	True	True	True
+White blood cell count	Non-classical monocyte	0.9932885906040269	True	True	True
+White blood cell count	Classical monocyte	1.0	True	True	True
+White blood cell count	Myeloid leukocyte	0.9330143540669856	True	True	True
+White blood cell count	Promonocyte	0.9763546798029556	True	True	True
+White blood cell count	Leukocyte	0.9113924050632912	True	True	True
+White blood cell count	Basophil	0.9859154929577464	True	True	True
+White blood cell count	Microglial cell	0.9827404280976786	True	True	True
+White blood cell count	Granulocyte	0.9814565070802428	True	True	True
+White blood cell count	Neutrophil	0.9281045751633988	True	True	True
+Hypothyroidism	Immature B cell	0.9915110356536504	True	True	True
+Hypothyroidism	DN4 thymocyte	0.9982915717539864	True	True	True
+Hypothyroidism	Mature alpha-beta T cell	0.996969696969697	True	True	True
+Hypothyroidism	Intermediate monocyte	1.0	True	True	True
+Hypothyroidism	CD4-positive, alpha-beta T cell	0.9948717948717948	True	True	True
+Hypothyroidism	T cell	0.9736644093303236	True	True	True
+Hypothyroidism	Macrophage	0.9064160196158562	True	True	True
+Hypothyroidism	B cell	0.9552318351394564	True	True	True
+Hypothyroidism	CD8-positive, alpha-beta T cell	0.985981308411215	True	True	True
+Hypothyroidism	Non-classical monocyte	0.9932885906040269	True	True	True
+Hypothyroidism	Naive B cell	0.9631632308212232	True	True	True
+Hypothyroidism	NK cell	0.9851767388825542	True	True	True
+Hypothyroidism	Regulatory T cell	1.0	True	True	True
+Hypothyroidism	Plasmacytoid dendritic cell	1.0	True	True	True
+Hypothyroidism	Classical monocyte	1.0	True	True	True
+Hypothyroidism	Myeloid leukocyte	0.9090909090909092	True	True	True
+Hypothyroidism	Promonocyte	0.9802955665024632	True	True	True
+Hypothyroidism	Precursor B cell	0.9450934579439252	True	True	True
+Hypothyroidism	Leukocyte	0.8987341772151899	True	True	True
+Hypothyroidism	Proerythroblast	0.8878504672897196	True	True	True
+Hypothyroidism	Basophil	0.943661971830986	True	True	True
+Hypothyroidism	Mature NK T cell	0.9547738693467336	True	True	True
+Hypothyroidism	Thymocyte	0.9316923076923076	True	True	True
+Hypothyroidism	Mucus secreting cell	0.8767123287671232	True	True	True
+Hypothyroidism	Megakaryocyte-erythroid progenitor cell	0.9375	True	True	True
+Hypothyroidism	Dendritic cell	0.9193548387096774	True	True	True
+Hypothyroidism	Granulocytopoietic cell	0.9420289855072465	True	True	True
+Hypothyroidism	Microglial cell	0.9727163099186013	True	True	True
+Hypothyroidism	Plasma cell	1.0	True	True	True
+Hypothyroidism	Granulocyte	0.8867161159811193	True	True	True
+Hypothyroidism	Myeloid dendritic cell	0.967828418230563	True	True	True
+Hypothyroidism	Lymphocyte	0.0	True	True	True
+HDL cholesterol	Myeloid leukocyte	0.7990430622009569	True	True	True
+HDL cholesterol	Endothelial cell of coronary artery	0.862286562731997	True	True	True
+HDL cholesterol	Hepatocyte	0.9802065404475044	True	True	True
+College education	Neuron	0.9318181818181818	True	True	True
+College education	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+College education	Oligodendrocyte	0.995702005730659	True	True	True
+College education	Astrocyte	0.9983108108108107	True	True	True
+College education	Bergmann glial cell	1.0	True	True	True
+College education	Interneuron	0.9958333333333332	True	True	True
+College education	Medium spiny neuron	1.0	True	True	True
+College education	Neuronal stem cell	0.9896907216494846	True	True	True
+Neuroticism	Neuron	0.9214876033057852	True	True	True
+Neuroticism	Oligodendrocyte precursor cell	0.9935897435897436	True	True	True
+Neuroticism	Oligodendrocyte	0.995702005730659	True	True	True
+Neuroticism	Astrocyte	0.9983108108108107	True	True	True
+Neuroticism	Bergmann glial cell	1.0	True	True	True
+Neuroticism	Interneuron	0.95	True	True	True
+Neuroticism	Medium spiny neuron	1.0	True	True	True
+Neuroticism	Neuronal stem cell	0.9896907216494846	True	True	True
+Neuroticism	Pancreatic B cell	1.0	True	True	True
+Primary biliary cirrhosis	Immature B cell	0.9898132427843804	True	True	True
+Primary biliary cirrhosis	DN4 thymocyte	0.9316628701594531	True	True	True
+Primary biliary cirrhosis	Mature alpha-beta T cell	0.9666666666666668	True	True	True
+Primary biliary cirrhosis	Intermediate monocyte	1.0	True	True	True
+Primary biliary cirrhosis	CD4-positive, alpha-beta T cell	0.9675213675213676	True	True	True
+Primary biliary cirrhosis	T cell	0.8322046651617758	True	True	True
+Primary biliary cirrhosis	Macrophage	0.8606456885982836	True	True	True
+Primary biliary cirrhosis	B cell	0.943684491028602	True	True	True
+Primary biliary cirrhosis	CD8-positive, alpha-beta T cell	0.97196261682243	True	True	True
+Primary biliary cirrhosis	Non-classical monocyte	0.9932885906040269	True	True	True
+Primary biliary cirrhosis	Naive B cell	0.9668807029401824	True	True	True
+Primary biliary cirrhosis	NK cell	0.9532497149372862	True	True	True
+Primary biliary cirrhosis	Regulatory T cell	1.0	True	True	True
+Primary biliary cirrhosis	Classical monocyte	0.995049504950495	True	True	True
+Primary biliary cirrhosis	Myeloid leukocyte	0.8995215311004785	True	True	True
+Primary biliary cirrhosis	Promonocyte	0.9527093596059112	True	True	True
+Primary biliary cirrhosis	Precursor B cell	0.9439252336448598	True	True	True
+Primary biliary cirrhosis	Leukocyte	0.8987341772151899	True	True	True
+Primary biliary cirrhosis	Myeloid cell	0.8658059467918623	True	True	True
+Primary biliary cirrhosis	Proerythroblast	0.514018691588785	True	True	True
+Primary biliary cirrhosis	Mature NK T cell	0.9195979899497488	True	True	True
+Primary biliary cirrhosis	Dendritic cell	0.9193548387096774	True	True	True
+Primary biliary cirrhosis	Myeloid dendritic cell	0.96514745308311	True	True	True
+Primary biliary cirrhosis	Lung macrophage	1.0	True	True	True
+Primary biliary cirrhosis	Monocyte	0.9141295862607338	True	True	True
+Subjective well being	Neuron	0.9545454545454546	True	True	True
+Subjective well being	Oligodendrocyte precursor cell	0.9935897435897436	True	True	True
+Subjective well being	Oligodendrocyte	0.995702005730659	True	True	True
+Subjective well being	Pulmonary interstitial fibroblast	0.82	True	True	True
+Subjective well being	Astrocyte	1.0	True	True	True
+Subjective well being	Bergmann glial cell	1.0	True	True	True
+Subjective well being	Interneuron	0.9958333333333332	True	True	True
+Subjective well being	Medium spiny neuron	1.0	True	True	True
+Subjective well being	Neuronal stem cell	0.9896907216494846	True	True	True
+FEV1 FVC ratio	Basal cell	0.9878447872837774	True	True	True
+FEV1 FVC ratio	Respiratory basal cell	1.0	True	True	True
+FEV1 FVC ratio	Valve cell	0.9936507936507936	True	True	True
+FEV1 FVC ratio	Stromal cell	1.0	True	True	True
+FEV1 FVC ratio	Smooth muscle cell of the pulmonary artery	0.918918918918919	True	True	True
+FEV1 FVC ratio	Mesenchymal stem cell of adipose	0.9723219945066554	True	True	True
+FEV1 FVC ratio	Smooth muscle cell of trachea	0.472	True	True	True
+FEV1 FVC ratio	Fenestrated cell	0.9664179104477612	True	True	True
+FEV1 FVC ratio	Chondrocyte	0.9963636363636365	True	True	True
+FEV1 FVC ratio	Smooth muscle cell	0.9805825242718448	True	True	True
+FEV1 FVC ratio	Pancreatic stellate cell	0.9791666666666666	True	True	True
+FEV1 FVC ratio	Pericyte cell	0.9736842105263158	True	True	True
+FEV1 FVC ratio	Endothelial cell of coronary artery	0.6521900519673348	True	True	True
+FEV1 FVC ratio	Fibroblast	0.9646616541353384	True	True	True
+FEV1 FVC ratio	Type II pneumocyte	0.9461077844311376	True	True	True
+FEV1 FVC ratio	Brain pericyte	0.8946280991735537	True	True	True
+FEV1 FVC ratio	Pulmonary interstitial fibroblast	0.9	True	True	True
+FEV1 FVC ratio	Fibroblast of cardiac tissue	0.9656138563423332	True	True	True
+FEV1 FVC ratio	Type I pneumocyte	1.0	True	True	True
+FEV1 FVC ratio	Endothelial cell of lymphatic vessel	0.4646464646464646	True	True	True
+FEV1 FVC ratio	Adventitial cell	0.9757785467128028	True	True	True
+FEV1 FVC ratio	Bladder cell	1.0	True	True	True
+FEV1 FVC ratio	Fibroblast of lung	0.9917184265010353	True	True	True
+FEV1 FVC ratio	Mesangial cell	0.4193548387096774	True	True	True
+FEV1 FVC ratio	Mesenchymal stem cell	0.8712386284114766	True	True	True
+Sleep duration	Neuron	0.9008264462809916	True	True	True
+Sleep duration	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Sleep duration	Astrocyte	0.9797297297297296	True	True	True
+Sleep duration	Interneuron	0.9375	True	True	True
+Sleep duration	Medium spiny neuron	1.0	True	True	True
+Sleep duration	Neuronal stem cell	0.979381443298969	True	True	True
+Eczema	DN4 thymocyte	0.9812072892938496	True	True	True
+Eczema	Mature alpha-beta T cell	0.990909090909091	True	True	True
+Eczema	Intermediate monocyte	1.0	True	True	True
+Eczema	CD4-positive, alpha-beta T cell	0.9948717948717948	True	True	True
+Eczema	T cell	0.9202407825432656	True	True	True
+Eczema	Macrophage	0.863506334286882	True	True	True
+Eczema	B cell	0.9353348729792148	True	True	True
+Eczema	CD8-positive, alpha-beta T cell	0.9813084112149532	True	True	True
+Eczema	Non-classical monocyte	0.9932885906040269	True	True	True
+Eczema	Naive B cell	0.937478877999324	True	True	True
+Eczema	NK cell	0.9714937286202964	True	True	True
+Eczema	Regulatory T cell	1.0	True	True	True
+Eczema	Myeloid leukocyte	0.8899521531100478	True	True	True
+Eczema	Promonocyte	0.9123152709359604	True	True	True
+Eczema	Leukocyte	0.8924050632911392	True	True	True
+Eczema	Proerythroblast	0.5700934579439252	True	True	True
+Eczema	Mature NK T cell	0.9396984924623116	True	True	True
+Eczema	Dendritic cell	0.9193548387096774	True	True	True
+Eczema	Myeloid dendritic cell	0.970509383378016	True	True	True
+Eczema	Lymphocyte	0.0	True	True	True
+Eczema	Neutrophil	0.8627450980392157	True	True	True
+Smoking status	Neuron	0.9256198347107438	True	True	True
+Smoking status	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Smoking status	Astrocyte	0.9983108108108107	True	True	True
+Smoking status	Bergmann glial cell	1.0	True	True	True
+Smoking status	Interneuron	0.9958333333333332	True	True	True
+Smoking status	Medium spiny neuron	1.0	True	True	True
+Smoking status	Neuronal stem cell	0.9896907216494846	True	True	True
+Smoking status	Pancreatic B cell	0.9992548435171386	True	True	True
+Total protein	Immature B cell	0.9915110356536504	True	True	True
+Total protein	Mature alpha-beta T cell	0.9818181818181818	True	True	True
+Total protein	CD4-positive, alpha-beta T cell	0.9829059829059827	True	True	True
+Total protein	T cell	0.9367945823927766	True	True	True
+Total protein	Macrophage	0.9035553739272578	True	True	True
+Total protein	B cell	0.9518564576301296	True	True	True
+Total protein	Non-classical monocyte	0.9261744966442952	True	True	True
+Total protein	Naive B cell	0.9611355187563366	True	True	True
+Total protein	Regulatory T cell	1.0	True	True	True
+Total protein	Plasmacytoid dendritic cell	1.0	True	True	True
+Total protein	Classical monocyte	0.995049504950495	True	True	True
+Total protein	Myeloid leukocyte	0.9473684210526316	True	True	True
+Total protein	Promonocyte	0.974384236453202	True	True	True
+Total protein	Precursor B cell	0.9462616822429908	True	True	True
+Total protein	Leukocyte	0.8987341772151899	True	True	True
+Total protein	Proerythroblast	0.6822429906542056	True	True	True
+Total protein	Myeloid dendritic cell	0.967828418230563	True	True	True
+Total protein	Kupffer cell	0.8931297709923665	True	True	True
+Total protein	Lung macrophage	1.0	True	True	True
+Total protein	Monocyte	0.9305230288836848	True	True	True
+Total protein	Endothelial cell of hepatic sinusoid	0.9141004862236628	True	True	True
+Respiratory ENT	DN4 thymocyte	0.9971526195899773	True	True	True
+Respiratory ENT	Mature alpha-beta T cell	0.996969696969697	True	True	True
+Respiratory ENT	CD4-positive, alpha-beta T cell	0.9923076923076924	True	True	True
+Respiratory ENT	T cell	0.9352896914973664	True	True	True
+Respiratory ENT	Macrophage	0.7707396812423376	True	True	True
+Respiratory ENT	B cell	0.9379996446971044	True	True	True
+Respiratory ENT	CD8-positive, alpha-beta T cell	0.9850467289719628	True	True	True
+Respiratory ENT	Naive B cell	0.9607975667455222	True	True	True
+Respiratory ENT	NK cell	0.976054732041049	True	True	True
+Respiratory ENT	Regulatory T cell	1.0	True	True	True
+Respiratory ENT	Basophil	0.943661971830986	True	True	True
+Respiratory ENT	Mature NK T cell	0.9396984924623116	True	True	True
+Respiratory ENT	Dendritic cell	0.9032258064516128	True	True	True
+Respiratory ENT	Lymphocyte	0.0	True	True	True
+Years of education	Neuron	0.9276859504132232	True	True	True
+Years of education	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Years of education	Oligodendrocyte	0.995702005730659	True	True	True
+Years of education	Astrocyte	1.0	True	True	True
+Years of education	Bergmann glial cell	1.0	True	True	True
+Years of education	Interneuron	0.9958333333333332	True	True	True
+Years of education	Medium spiny neuron	1.0	True	True	True
+Years of education	Neuronal stem cell	0.9896907216494846	True	True	True
+Years of education	Pancreatic B cell	0.9992548435171386	True	True	True
+Red blood cell distribution width	Hematopoietic stem cell	0.9637023593466424	True	True	True
+Red blood cell distribution width	Non-classical monocyte	0.9261744966442952	True	True	True
+Red blood cell distribution width	Myeloid leukocyte	0.8995215311004785	True	True	True
+Red blood cell distribution width	Proerythroblast	0.8037383177570093	True	True	True
+Red blood cell distribution width	Megakaryocyte-erythroid progenitor cell	0.95	True	True	True
+Red blood cell distribution width	Neutrophil	0.9084967320261438	True	True	True
+Coronary atherosclerosis	Vein endothelial cell	0.875	True	True	True
+Coronary atherosclerosis	Endothelial cell of coronary artery	0.746844840386043	True	True	True
+Neutrophil count	Immature B cell	0.9932088285229204	True	True	True
+Neutrophil count	Mature alpha-beta T cell	0.8909090909090909	True	True	True
+Neutrophil count	Hematopoietic stem cell	0.9815486993345433	True	True	True
+Neutrophil count	Macrophage	0.9080506742950551	True	True	True
+Neutrophil count	B cell	0.9550541836915972	True	True	True
+Neutrophil count	Non-classical monocyte	0.9261744966442952	True	True	True
+Neutrophil count	Naive B cell	0.9638391348428524	True	True	True
+Neutrophil count	Classical monocyte	1.0	True	True	True
+Neutrophil count	Myeloid leukocyte	0.8899521531100478	True	True	True
+Neutrophil count	Promonocyte	0.9714285714285714	True	True	True
+Neutrophil count	Leukocyte	0.8987341772151899	True	True	True
+Neutrophil count	Proerythroblast	0.8878504672897196	True	True	True
+Neutrophil count	Granulocyte monocyte progenitor cell	1.0	True	True	True
+Neutrophil count	Late pro-B cell	0.9805352798053528	True	True	True
+Neutrophil count	Basophil	0.971830985915493	True	True	True
+Neutrophil count	Granulocytopoietic cell	1.0	True	True	True
+Neutrophil count	Granulocyte	0.9851652056641942	True	True	True
+Neutrophil count	Myeloid dendritic cell	0.9624664879356568	True	True	True
+Neutrophil count	Lung macrophage	1.0	True	True	True
+Neutrophil count	Monocyte	0.927400468384075	True	True	True
+Neutrophil count	Neutrophil	0.934640522875817	True	True	True
+Drinks per week	Neuron	0.8533057851239669	True	True	True
+Drinks per week	Oligodendrocyte	0.995702005730659	True	True	True
+Drinks per week	Interneuron	0.9083333333333332	True	True	True
+Drinks per week	Medium spiny neuron	1.0	True	True	True
+Drinks per week	Neuronal stem cell	0.979381443298969	True	True	True
+Age at menopause	Immature B cell	0.9032258064516128	True	True	True
+Age at menopause	Hematopoietic stem cell	0.909558378705384	True	True	True
+Age at menopause	Late pro-B cell	0.9318734793187348	True	True	True
+Alkaline phosphatase	Classical monocyte	1.0	True	True	True
+Alkaline phosphatase	Myeloid leukocyte	0.9043062200956936	True	True	True
+Alkaline phosphatase	Hepatocyte	0.9896729776247848	True	True	True
+Worry	Neuron	0.9297520661157024	True	True	True
+Worry	Oligodendrocyte precursor cell	0.9935897435897436	True	True	True
+Worry	Astrocyte	0.9983108108108107	True	True	True
+Worry	Bergmann glial cell	1.0	True	True	True
+Worry	Interneuron	0.9958333333333332	True	True	True
+Worry	Medium spiny neuron	1.0	True	True	True
+Worry	Neuronal stem cell	0.9896907216494846	True	True	True
+Insomnia	Neuron	0.8037190082644629	True	True	True
+Insomnia	Oligodendrocyte precursor cell	0.9935897435897436	True	True	True
+Insomnia	Oligodendrocyte	0.995702005730659	True	True	True
+Insomnia	Interneuron	0.9416666666666668	True	True	True
+Insomnia	Medium spiny neuron	1.0	True	True	True
+Insomnia	Neuronal stem cell	0.4845360824742268	True	True	True
+Schizophrenia	Neuron	0.9111570247933884	True	True	True
+Schizophrenia	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Schizophrenia	Oligodendrocyte	0.9665711556829036	True	True	True
+Schizophrenia	Astrocyte	0.9983108108108107	True	True	True
+Schizophrenia	Bergmann glial cell	1.0	True	True	True
+Schizophrenia	Pancreatic D cell	0.9947643979057592	True	True	True
+Schizophrenia	Interneuron	0.95	True	True	True
+Schizophrenia	Medium spiny neuron	1.0	True	True	True
+Schizophrenia	Neuronal stem cell	0.9896907216494846	True	True	True
+Schizophrenia	Pancreatic B cell	0.9985096870342772	True	True	True
+Asthma	Immature B cell	0.99830220713073	True	True	True
+Asthma	DN4 thymocyte	0.9977220956719818	True	True	True
+Asthma	Mature alpha-beta T cell	0.996969696969697	True	True	True
+Asthma	CD4-positive, alpha-beta T cell	0.9948717948717948	True	True	True
+Asthma	T cell	0.9322799097065464	True	True	True
+Asthma	Macrophage	0.8013894564773192	True	True	True
+Asthma	B cell	0.9523894119737076	True	True	True
+Asthma	CD8-positive, alpha-beta T cell	0.9850467289719628	True	True	True
+Asthma	Non-classical monocyte	0.9261744966442952	True	True	True
+Asthma	Naive B cell	0.9611355187563366	True	True	True
+Asthma	NK cell	0.9794754846066136	True	True	True
+Asthma	Regulatory T cell	1.0	True	True	True
+Asthma	Myeloid leukocyte	0.7799043062200957	True	True	True
+Asthma	Promonocyte	0.8738916256157635	True	True	True
+Asthma	Precursor B cell	0.9439252336448598	True	True	True
+Asthma	Leukocyte	0.7088607594936709	True	True	True
+Asthma	Basophil	0.9577464788732394	True	True	True
+Asthma	Mature NK T cell	0.949748743718593	True	True	True
+Asthma	Thymocyte	0.9353846153846154	True	True	True
+Asthma	Dendritic cell	0.9032258064516128	True	True	True
+Asthma	Myeloid dendritic cell	0.9490616621983914	True	True	True
+Asthma	Lymphocyte	0.0	True	True	True
+General risk tolerance	Neuron	0.9008264462809916	True	True	True
+General risk tolerance	Medium spiny neuron	1.0	True	True	True
+Morning person	Neuron	0.9194214876033058	True	True	True
+Morning person	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Morning person	Interneuron	0.9958333333333332	True	True	True
+Morning person	Medium spiny neuron	1.0	True	True	True
+Morning person	Neuronal stem cell	1.0	True	True	True
+Morning person	Pancreatic B cell	0.9992548435171386	True	True	True
+Blood glucose	Epithelial cell of large intestine	0.721830985915493	True	True	True
+Blood glucose	Secretory cell	0.8934280639431617	True	True	True
+Blood glucose	Pancreatic B cell	0.9992548435171386	True	True	True
+Body mass index	Neuron	0.9111570247933884	True	True	True
+Body mass index	Oligodendrocyte precursor cell	0.9967948717948718	True	True	True
+Body mass index	Astrocyte	0.9983108108108107	True	True	True
+Body mass index	Bergmann glial cell	1.0	True	True	True
+Body mass index	Interneuron	0.9375	True	True	True
+Body mass index	Medium spiny neuron	1.0	True	True	True
+Body mass index	Neuronal stem cell	0.9896907216494846	True	True	True
+Body mass index	Pancreatic B cell	0.9992548435171386	True	True	True
+Lymphocyte count	Immature B cell	0.99830220713073	True	True	True
+Lymphocyte count	DN4 thymocyte	0.989749430523918	True	True	True
+Lymphocyte count	Mature alpha-beta T cell	0.987878787878788	True	True	True
+Lymphocyte count	Intermediate monocyte	1.0	True	True	True
+Lymphocyte count	Hematopoietic stem cell	0.9933454325468845	True	True	True
+Lymphocyte count	CD4-positive, alpha-beta T cell	0.994017094017094	True	True	True
+Lymphocyte count	T cell	0.9556057185854026	True	True	True
+Lymphocyte count	Macrophage	0.9113199836534532	True	True	True
+Lymphocyte count	B cell	0.9602060756795168	True	True	True
+Lymphocyte count	CD8-positive, alpha-beta T cell	0.9841121495327104	True	True	True
+Lymphocyte count	Non-classical monocyte	0.9932885906040269	True	True	True
+Lymphocyte count	Naive B cell	0.9624873267995944	True	True	True
+Lymphocyte count	NK cell	0.9714937286202964	True	True	True
+Lymphocyte count	Regulatory T cell	1.0	True	True	True
+Lymphocyte count	Plasmacytoid dendritic cell	1.0	True	True	True
+Lymphocyte count	Classical monocyte	1.0	True	True	True
+Lymphocyte count	Myeloid leukocyte	0.9234449760765552	True	True	True
+Lymphocyte count	Promonocyte	0.9822660098522168	True	True	True
+Lymphocyte count	Precursor B cell	0.9485981308411215	True	True	True
+Lymphocyte count	Leukocyte	0.9177215189873418	True	True	True
+Lymphocyte count	Proerythroblast	0.9065420560747663	True	True	True
+Lymphocyte count	Late pro-B cell	0.9902676399026764	True	True	True
+Lymphocyte count	Basophil	0.9859154929577464	True	True	True
+Lymphocyte count	Mature NK T cell	0.9547738693467336	True	True	True
+Lymphocyte count	Endothelial cell of coronary artery	0.7253155159613957	True	True	True
+Lymphocyte count	Megakaryocyte-erythroid progenitor cell	0.9625	True	True	True
+Lymphocyte count	Dendritic cell	0.9193548387096774	True	True	True
+Lymphocyte count	Early pro-B cell	1.0	True	True	True
+Lymphocyte count	Granulocytopoietic cell	0.9420289855072465	True	True	True
+Lymphocyte count	Granulocyte	0.98111935266352	True	True	True
+Lymphocyte count	Myeloid dendritic cell	0.970509383378016	True	True	True
+Lymphocyte count	Lymphocyte	0.0	True	True	True
+Lymphocyte count	Neutrophil	0.8496732026143791	True	True	True
+Diastolic blood pressure	Endothelial cell	0.8536931818181818	True	True	True
+Diastolic blood pressure	Valve cell	0.9936507936507936	True	True	True
+Diastolic blood pressure	Capillary endothelial cells	0.9603212092583844	True	True	True
+Diastolic blood pressure	Smooth muscle cell of the pulmonary artery	1.0	True	True	True
+Diastolic blood pressure	Vein endothelial cell	0.9342105263157896	True	True	True
+Diastolic blood pressure	Smooth muscle cell of trachea	0.432	True	True	True
+Diastolic blood pressure	Fenestrated cell	0.9701492537313432	True	True	True
+Diastolic blood pressure	Smooth muscle cell	0.9902912621359224	True	True	True
+Diastolic blood pressure	Pericyte cell	1.0	True	True	True
+Diastolic blood pressure	Endothelial cell of coronary artery	0.9320712694877504	True	True	True
+Diastolic blood pressure	Brain pericyte	0.9070247933884298	True	True	True
+Diastolic blood pressure	Pulmonary interstitial fibroblast	0.9	True	True	True
+Diastolic blood pressure	Type I pneumocyte	0.5	True	True	True
+Diastolic blood pressure	Endocardial cell	0.9573333333333334	True	True	True
+Diastolic blood pressure	Mesangial cell	0.6236559139784946	True	True	True
+Diastolic blood pressure	Ventricular myocyte	0.7210884353741497	True	True	True
+Eosinophil count	Immature B cell	0.9932088285229204	True	True	True
+Eosinophil count	DN4 thymocyte	0.9988610478359908	True	True	True
+Eosinophil count	Mature alpha-beta T cell	0.996969696969697	True	True	True
+Eosinophil count	Intermediate monocyte	1.0	True	True	True
+Eosinophil count	CD4-positive, alpha-beta T cell	0.9948717948717948	True	True	True
+Eosinophil count	T cell	0.9586155003762228	True	True	True
+Eosinophil count	Macrophage	0.914997956681651	True	True	True
+Eosinophil count	B cell	0.9596731213359389	True	True	True
+Eosinophil count	CD8-positive, alpha-beta T cell	0.985981308411215	True	True	True
+Eosinophil count	Non-classical monocyte	0.9932885906040269	True	True	True
+Eosinophil count	Naive B cell	0.9641770868536668	True	True	True
+Eosinophil count	NK cell	0.9714937286202964	True	True	True
+Eosinophil count	Regulatory T cell	1.0	True	True	True
+Eosinophil count	Plasmacytoid dendritic cell	1.0	True	True	True
+Eosinophil count	Classical monocyte	1.0	True	True	True
+Eosinophil count	Myeloid leukocyte	0.9473684210526316	True	True	True
+Eosinophil count	Promonocyte	0.9802955665024632	True	True	True
+Eosinophil count	Precursor B cell	0.947429906542056	True	True	True
+Eosinophil count	Leukocyte	0.9367088607594936	True	True	True
+Eosinophil count	Proerythroblast	0.8785046728971962	True	True	True
+Eosinophil count	Basophil	0.9859154929577464	True	True	True
+Eosinophil count	Mature NK T cell	0.9547738693467336	True	True	True
+Eosinophil count	Dendritic cell	0.9193548387096774	True	True	True
+Eosinophil count	Granulocyte	0.98111935266352	True	True	True
+Eosinophil count	Myeloid dendritic cell	0.970509383378016	True	True	True
+Eosinophil count	Kupffer cell	0.8816793893129771	True	True	True
+Eosinophil count	Lymphocyte	0.0	True	True	True
+Eosinophil count	Neutrophil	0.9281045751633988	True	True	True
+Hypertension	Endothelial cell	0.8421266233766234	True	True	True
+Hypertension	Valve cell	0.9936507936507936	True	True	True
+Hypertension	Capillary endothelial cells	0.9546528105810108	True	True	True
+Hypertension	Smooth muscle cell of trachea	0.336	True	True	True
+Hypertension	Smooth muscle cell	0.9902912621359224	True	True	True
+Hypertension	Pericyte cell	1.0	True	True	True
+Hypertension	Endothelial cell of coronary artery	0.864513734224202	True	True	True
+Hypertension	Brain pericyte	0.8946280991735537	True	True	True
+Hypertension	Mesangial cell	0.5698924731182796	True	True	True
+Crohn disease	DN4 thymocyte	0.9931662870159452	True	True	True
+Crohn disease	Mature alpha-beta T cell	0.993939393939394	True	True	True
+Crohn disease	Intermediate monocyte	1.0	True	True	True
+Crohn disease	CD4-positive, alpha-beta T cell	0.994017094017094	True	True	True
+Crohn disease	T cell	0.9473288186606472	True	True	True
+Crohn disease	Macrophage	0.9190845933796484	True	True	True
+Crohn disease	B cell	0.947237519985788	True	True	True
+Crohn disease	CD8-positive, alpha-beta T cell	0.985981308411215	True	True	True
+Crohn disease	Non-classical monocyte	0.9932885906040269	True	True	True
+Crohn disease	Naive B cell	0.9624873267995944	True	True	True
+Crohn disease	NK cell	0.9783352337514252	True	True	True
+Crohn disease	Regulatory T cell	1.0	True	True	True
+Crohn disease	Classical monocyte	0.99009900990099	True	True	True
+Crohn disease	Myeloid leukocyte	0.9186602870813396	True	True	True
+Crohn disease	Promonocyte	0.9704433497536946	True	True	True
+Crohn disease	Leukocyte	0.879746835443038	True	True	True
+Crohn disease	Myeloid cell	0.8838028169014085	True	True	True
+Crohn disease	Proerythroblast	0.5700934579439252	True	True	True
+Crohn disease	Basophil	0.0422535211267605	True	True	True
+Crohn disease	Mature NK T cell	0.9447236180904522	True	True	True
+Crohn disease	Dendritic cell	0.9193548387096774	True	True	True
+Crohn disease	Granulocyte	0.9908968307484828	True	True	True
+Crohn disease	Myeloid dendritic cell	0.970509383378016	True	True	True
+Crohn disease	Lymphocyte	0.0	True	True	True
+Crohn disease	Monocyte	0.8961748633879781	True	True	True
+Crohn disease	Neutrophil	0.9673202614379084	True	True	True
+Multiple sclerosis	Immature B cell	0.9898132427843804	True	True	True
+Multiple sclerosis	DN4 thymocyte	0.9863325740318908	True	True	True
+Multiple sclerosis	Mature alpha-beta T cell	0.993939393939394	True	True	True
+Multiple sclerosis	Hematopoietic stem cell	0.8009679370840895	True	True	True
+Multiple sclerosis	CD4-positive, alpha-beta T cell	0.9948717948717948	True	True	True
+Multiple sclerosis	T cell	0.944319036869827	True	True	True
+Multiple sclerosis	Macrophage	0.8835308541070699	True	True	True
+Multiple sclerosis	B cell	0.9404867649671343	True	True	True
+Multiple sclerosis	CD8-positive, alpha-beta T cell	0.9841121495327104	True	True	True
+Multiple sclerosis	Non-classical monocyte	0.9932885906040269	True	True	True
+Multiple sclerosis	Naive B cell	0.9408583981074689	True	True	True
+Multiple sclerosis	NK cell	0.9657924743443558	True	True	True
+Multiple sclerosis	Regulatory T cell	1.0	True	True	True
+Multiple sclerosis	Classical monocyte	1.0	True	True	True
+Multiple sclerosis	Myeloid leukocyte	0.9043062200956936	True	True	True
+Multiple sclerosis	Promonocyte	0.9724137931034482	True	True	True
+Multiple sclerosis	Precursor B cell	0.9439252336448598	True	True	True
+Multiple sclerosis	Leukocyte	0.9177215189873418	True	True	True
+Multiple sclerosis	Granulocyte monocyte progenitor cell	0.88	True	True	True
+Multiple sclerosis	Mature NK T cell	0.9447236180904522	True	True	True
+Multiple sclerosis	Dendritic cell	0.9193548387096774	True	True	True
+Multiple sclerosis	Granulocytopoietic cell	0.937888198757764	True	True	True
+Multiple sclerosis	Microglial cell	0.975052758516732	True	True	True
+Multiple sclerosis	Granulocyte	0.9716790289952798	True	True	True
+Multiple sclerosis	Myeloid dendritic cell	0.970509383378016	True	True	True
+Multiple sclerosis	Lung macrophage	1.0	True	True	True
+Multiple sclerosis	Lymphocyte	0.0	True	True	True
+Multiple sclerosis	Monocyte	0.927400468384075	True	True	True
+Multiple sclerosis	Neutrophil	0.8627450980392157	True	True	True
+Waist hip ratio adjusted BMI	Valve cell	0.9936507936507936	True	True	True
+Waist hip ratio adjusted BMI	Capillary endothelial cells	0.8984411903637223	True	True	True
+Waist hip ratio adjusted BMI	Stromal cell	1.0	True	True	True
+Waist hip ratio adjusted BMI	Smooth muscle cell of the pulmonary artery	0.972972972972973	True	True	True
+Waist hip ratio adjusted BMI	Mesenchymal stem cell of adipose	0.95710965560955	True	True	True
+Waist hip ratio adjusted BMI	Vein endothelial cell	0.9342105263157896	True	True	True
+Waist hip ratio adjusted BMI	Chondrocyte	1.0	True	True	True
+Waist hip ratio adjusted BMI	Smooth muscle cell	0.9805825242718448	True	True	True
+Waist hip ratio adjusted BMI	Pancreatic stellate cell	0.9791666666666666	True	True	True
+Waist hip ratio adjusted BMI	Endothelial cell of coronary artery	0.7564959168522642	True	True	True
+Waist hip ratio adjusted BMI	Fibroblast	0.9721804511278196	True	True	True
+Waist hip ratio adjusted BMI	Brain pericyte	0.9152892561983472	True	True	True
+Waist hip ratio adjusted BMI	Pulmonary interstitial fibroblast	0.9	True	True	True
+Waist hip ratio adjusted BMI	Fibroblast of cardiac tissue	0.9500764136525726	True	True	True
+Waist hip ratio adjusted BMI	Adventitial cell	0.972318339100346	True	True	True
+Waist hip ratio adjusted BMI	Bladder cell	1.0	True	True	True
+Waist hip ratio adjusted BMI	Endocardial cell	0.9573333333333334	True	True	True
+Waist hip ratio adjusted BMI	Fibroblast of lung	0.9917184265010353	True	True	True
+Waist hip ratio adjusted BMI	Mesangial cell	0.4946236559139785	True	True	True
+Waist hip ratio adjusted BMI	Mesenchymal stem cell	0.8810356892932121	True	True	True
+Waist hip ratio adjusted BMI	Endothelial cell of hepatic sinusoid	0.8914100486223663	True	True	True
