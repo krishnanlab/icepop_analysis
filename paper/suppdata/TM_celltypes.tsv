@@ -69,7 +69,7 @@ microglial cell	Microglial cell	Brain	Yes
 ependymal cell	Ependymal cell	Brain	No
 Bergmann glial cell	Bergmann glial cell	Brain	No
 brain pericyte	Brain pericyte	Brain	No
-endothelial cell of coronary artery	Endothelial cell of coronary artery	Heart	No
+endothelial cell of coronary artery	Endothelial cell of coronary artery	Heart	Yes
 endocardial cell	Endocardial cell	Heart	No
 atrial myocyte	Atrial myocyte	Heart	Yes
 ventricular myocyte	Ventricular myocyte	Heart	Yes
@@ -102,8 +102,8 @@ mucus secreting cell	Mucus secreting cell	Epithelial	Yes
 epidermal cell	Epidermal cell	Skin	No
 basal cell	Basal cell	Skin	No
 basal cell of epidermis	Basal cell of epidermis	Skin	No
-keratinocyte	Keratinocyte	Skin	No
-bulge keratinocyte	Bulge keratinocyte	Skin	Yes
+keratinocyte	Keratinocyte	Skin	Yes
+bulge keratinocyte	Bulge keratinocyte	Skin	No
 keratinocyte stem cell	Keratinocyte stem cell	Skin	No
 luminal epithelial cell of mammary gland	Luminal epithelial cell of mammary gland	Mammary gland	Yes
 bladder cell	Bladder cell	Bladder	No
@@ -111,7 +111,7 @@ bladder urothelial cell	Bladder urothelial cell	Bladder	No
 chondrocyte	Chondrocyte	Cartilage	Yes
 mesenchymal stem cell	Mesenchymal stem cell	Stromal	Yes
 stromal cell	Stromal cell	Stromal	No
-fibroblast	Fibroblast	Stromal	No
+fibroblast	Fibroblast	Stromal	Yes
 fibrocyte	Fibrocyte	Stromal	No
 enterocyte of epithelium of large intestine	Enterocyte of epithelium of large intestine	Large intestine	Yes
 enteroendocrine cell	Enteroendocrine cell	Large intestine	No

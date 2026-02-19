@@ -74,9 +74,9 @@ hair_color	Hair color	Hair color	Others	No
 melanoma	Melanoma	Melanoma	Others	No
 ProstateCancer_Harris2024	Prostate cancer	Prostate cancer	Others	No
 UKB_460K.bmd_HEEL_TSCOREz	Heel bone mineral density T score	Heel T score	Others	Yes
-UKB_460K.body_BALDING1	Balding Type I	Balding Type I	Others	Yes
+UKB_460K.body_BALDING1	Balding Type I	Balding Type I	Others	No
 UKB_460K.body_HEIGHTz	Standing height	Height	Others	Yes
-UKB_460K.cancer_BREAST	Breast cancer	Breast cancer	Others	Yes
-UKB_460K.pigment_HAIR	Hair pigmentation	Hair pigmentation	Others	No
+UKB_460K.cancer_BREAST	Breast cancer	Breast cancer	Others	No
+UKB_460K.pigment_HAIR	Hair pigmentation	Hair pigmentation	Others	Yes
 UKB_460K.repro_MENARCHE_AGE	Age at menarche	Age at menarche	Others	No
 UKB_460K.repro_MENOPAUSE_AGE	Age at menopause	Age at menopause	Others	No
