@@ -2,13 +2,13 @@ library(seismicGWAS)
 
 argv <- commandArgs(trailingOnly = TRUE)
 indir <- argv[1]
+outdir <- argv[2]
 setting <- basename(indir)
 
 # load
 sce <- readRDS("../data/simulation/seismic/expr.rds")
 
 # mkdir
-outdir <- '../results/seismic_casual'
 dir.create(outdir, recursive = TRUE, showWarnings = FALSE)
 
 # calc spec score
