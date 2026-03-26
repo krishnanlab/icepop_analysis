@@ -24,10 +24,3 @@ cd ${SLURM_SUBMIT_DIR}
 #     --magmaz ../data/TM_FACS/magmaz/asd.genes.out \
 #     --ct_key cell_group \
 #     --outdir ../results/mouse_colon_icepop_cg
-
-/mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/bin/poetry \
-    run icepop association \
-    --h5ad ../data/mouse_ileum/mouse_ileum_cnt.h5ad \
-    --mc_assign ../results/mouse_ileum_mc/mc_assign.csv \
-    --magmaz ../data/TM_FACS/magmaz/asd.genes.out \
-    --outdir ../results/mouse_ileum_icepop
