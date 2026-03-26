@@ -13,19 +13,16 @@ file='../data/mouse_colon/scdrs/processed_asd_genesets.gs'
 outdir='../results/mouse_colon_scDRS'
 ds_outdir='../results/mouse_colon_scDRS_downstream'
 
-# /mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/envs/scdrs/bin/scdrs compute-score \
-#     --h5ad-file ../data/mouse_colon/scdrs/expr.h5ad \
-#     --h5ad-species human \
-#     --gs-file $file \
-#     --gs-species human \
-#     --flag-filter-data False \
-#     --flag-raw-count True \
-#     --flag-return-ctrl-raw-score False \
-#     --flag-return-ctrl-norm-score True \
-#     --out-folder $outdir
-
-# trait=$( basename "$file" | sed -E 's/^processed_(.*)_genesets\.gs/\1/' )
-# downstream="${outdir}/${trait}.full_score.gz"
+/mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/envs/scdrs/bin/scdrs compute-score \
+    --h5ad-file ../data/mouse_colon/scdrs/expr.h5ad \
+    --h5ad-species human \
+    --gs-file $file \
+    --gs-species human \
+    --flag-filter-data False \
+    --flag-raw-count True \
+    --flag-return-ctrl-raw-score False \
+    --flag-return-ctrl-norm-score True \
+    --out-folder $outdir
 
 /mnt/research/FishEvoDevoGeno/Hao/software/anaconda3/envs/scdrs/bin/scdrs perform-downstream \
     --h5ad-file ../data/mouse_colon/scdrs/expr.h5ad \
