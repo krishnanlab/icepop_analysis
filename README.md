@@ -24,5 +24,5 @@ The `magmaz` directory should be placed under `data/TM_FACS/`.
 - paper/: Output figures and plots included in the manuscript  
 
 ## Documentation
-- Detailed descriptions of scripts are available in `src/README.md`  
-- Notebook-specific explanations are available in `notebook/README.md`
+- Detailed descriptions of scripts are available in [src/README.md](src/README.md)  
+- Notebook-specific explanations are available in [notebook/README.md](notebook/README.md)
