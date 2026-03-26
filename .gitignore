@@ -208,4 +208,5 @@ __marimo__/
 
 data/*
 results/*
+run/*
 slurms/*
