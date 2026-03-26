@@ -2,6 +2,9 @@ import pandas as pd
 from tqdm import tqdm
 import pickle
 
+# download 
+# wget -O ../data/gene_info.gz https://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz
+
 sp = '10090'
 gene_info_df = pd.read_csv('../data/gene_info.gz', header=0, index_col=None, sep='\t', dtype=str)
 gene_info_df = gene_info_df[gene_info_df['#tax_id'] == sp]
