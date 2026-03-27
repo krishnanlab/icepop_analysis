@@ -4,7 +4,7 @@ This directory contains scripts used to:
 1. generate simulation GWAS z-scores (null + causal),
 2. preprocess single-cell inputs,
 3. prepare gene-set inputs for external GWAS tools (e.g., Seismic, scDRS),
-4. wrappers to run Seismic on simulation/Tabula Muris/mouse colon data.
+4. execute wrappers to run Seismic on simulation/Tabula Muris/mouse colon data.
 
 Note: There are no wrappers provided for running ICePop or scDRS, as both tools offer command-line interfaces and can be executed directly.
 
@@ -13,7 +13,7 @@ Note: There are no wrappers provided for running ICePop or scDRS, as both tools 
   - sampling a fraction of cells,
   - removing cell types whose size is too small,
   - dropping genes not expressed in enough cells,
-  - convert expression across species to human space.
+  - converting expression across species to human space.
 
 ## Null simulation
 - `null_sim.py`: Generates *null* MAGMA z-score tables by permuting MAGMA-derived `ZSTAT` values across genes (restricted to genes present in `TM_subset_cnt.h5ad`). The outputs are written as per-run TSV files.
@@ -42,7 +42,7 @@ Note: There are no wrappers provided for running ICePop or scDRS, as both tools 
   - converting MAGMA gene-set outputs into scDRS `.gs` files.
 - `scdrs_input_asd.py`: Prepares scDRS mouse colon inputs by:
   - mapping mouse genes to human orthologs (using `HomologyData`),
-  - convert expression from mouse to human
+  - converting expression from mouse to human,
   - writing processed `.h5ad` plus trait `.gs` gene-set files.
 
 ### Seismic
