@@ -1,6 +1,6 @@
 # icepop_analysis
 
-This repository reproduces the results from the ICePop paper (DOI)[TBD].  
+This repository reproduces the results from the ICePop paper ([link](https://doi.org/10.64898/2026.04.01.715877)).  
 For installation instructions and a tutorial for the ICePop package, see: https://github.com/krishnanlab/icepop_public
 
 We assume the following directory structure when running the analysis:
