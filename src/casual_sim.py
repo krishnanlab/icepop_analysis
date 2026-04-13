@@ -21,20 +21,9 @@ def pick_realistic_cells(
     target_type,
     n_target=100,
     celltype_key="cell_type",
-    pca_key="X_pca",
+    umap_key="X_umap",
     rng=None,
 ):
-    """
-    Sample a realistic local patch of cells in PCA space.
-
-    Steps:
-      1) Pick a random seed cell from target_type
-      2) Compute PCA distance to all other target_type cells
-      3) Select nearest neighbors until n_target is reached
-    """
-    if rng is None:
-        rng = np.random.default_rng()
-
     # --------------------------------
     # Subset to target cell type
     # --------------------------------
@@ -47,34 +36,20 @@ def pick_realistic_cells(
             f"but n_target={n_target}"
         )
 
-    # --------------------------------
-    # PCA coordinates
-    # --------------------------------
-    pca = adata.obsm[pca_key]
-    target_pca = pca[target_mask]
+    umap = adata.obsm[umap_key][target_mask]
+    x, y = umap[:, 0], umap[:, 1]
 
-    # --------------------------------
-    # Compute centroid
-    # --------------------------------
-    centroid = np.median(target_pca, axis=0)
+    # -----------------------------
+    # LINE-BASED SPLIT (controlled fraction)
+    # -----------------------------
+    theta = rng.uniform(0, np.pi)
+    a, b = np.cos(theta), np.sin(theta)
 
-    # --------------------------------
-    # Pick seed = closest to centroid
-    # --------------------------------
-    centroid_dists = np.linalg.norm(target_pca - centroid, axis=1)
-    seed_idx = np.argmin(centroid_dists)
-    seed_cell = target_cells[seed_idx]
-    seed_coord = target_pca[seed_idx]
+    proj = a * x + b * y
+    top_idx = np.argsort(proj)[-n_target:]
+    chosen_cells = target_cells[top_idx]
 
-    # --------------------------------
-    # Local neighborhood around seed
-    # --------------------------------
-    dists = np.linalg.norm(target_pca - seed_coord, axis=1)
-    order = np.argsort(dists)
-
-    chosen_cells = target_cells[order[:n_target]]
-
-    return chosen_cells, seed_cell
+    return chosen_cells
 
 
 # ------------------------------------------
@@ -392,11 +367,11 @@ if __name__ == '__main__':
 
         # sample partial cells from a cell type
         if sample_rate < 1.0:
-            sel_cells, _ = pick_realistic_cells(
+            sel_cells = pick_realistic_cells(
                 adata, target_ct,
                 n_target=n_target,
                 celltype_key="cell_type",
-                pca_key="X_pca",
+                umap_key="X_umap",
                 rng=rng,
             )
             sel_cell_idx = adata.obs_names.get_indexer(sel_cells)
