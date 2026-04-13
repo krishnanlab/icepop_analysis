@@ -21,7 +21,7 @@ def compute_active_inactive_logfc(
     ct_mask = adata.obs[celltype_key] == target_ct
     ct_cells = np.array(adata.obs.index[ct_mask])
 
-    if len(ct_cells) < n_target * 2:
+    if len(ct_cells) <= n_target:
         raise ValueError("Not enough cells for split")
 
     umap = adata.obsm[umap_key][ct_mask]
@@ -34,7 +34,7 @@ def compute_active_inactive_logfc(
     order = np.argsort(proj)
 
     active_cells = ct_cells[order[-n_target:]]
-    inactive_cells = ct_cells[order[:n_target]]
+    inactive_cells = ct_cells[order[:(len(ct_cells)-n_target)]]
 
     active_idx = adata.obs_names.get_indexer(active_cells)
     inactive_idx = adata.obs_names.get_indexer(inactive_cells)
@@ -83,11 +83,8 @@ def choose_causal_genes(spec_contrast, signal_frac=0.1, rng=None):
 # ------------------------------------------
 # LATENT SIGNAL
 # ------------------------------------------
-def simulate_latent(spec_active, spec_inactive, is_causal, beta, noise_sd, rng):
-    noise = rng.normal(0, noise_sd, size=len(spec_active))
-
-    spec_contrast = spec_active - spec_inactive
-    spec_contrast = (spec_contrast - spec_contrast.mean()) / (spec_contrast.std() + 1e-6)
+def simulate_latent(spec_contrast, is_causal, beta, noise_sd, rng):
+    noise = rng.normal(0, noise_sd, size=len(spec_contrast))
 
     y = noise.copy()
     y[is_causal] += beta * spec_contrast[is_causal]
@@ -107,18 +104,19 @@ def assign_z(y, z_pool):
 # ------------------------------------------
 # MAIN SIMULATION
 # ------------------------------------------
-def simulate_gwas(logfc_active, logfc_inactive, z_df, signal_frac, beta, noise_sd, rng):
+def simulate_gwas(logfc_active, logfc_inactive, z_df, signal_frac, beta, noise_sd, sample_rate, rng):
     genes = z_df.index
     z_pool = np.asarray(z_df.iloc[:, 0])
 
     spec_active = np.asarray(logfc_active)
     spec_inactive = np.asarray(logfc_inactive)
 
-    spec_contrast = spec_active - spec_inactive
+    w = 1.0 - sample_rate
+    spec_contrast = spec_active - w * spec_inactive
 
     is_causal = choose_causal_genes(spec_contrast, signal_frac, rng)
 
-    y = simulate_latent(spec_active, spec_inactive, is_causal, beta, noise_sd, rng)
+    y = simulate_latent(spec_contrast, is_causal, beta, noise_sd, rng)
 
     z_sim = assign_z(y, z_pool)
 
@@ -131,10 +129,10 @@ def simulate_gwas(logfc_active, logfc_inactive, z_df, signal_frac, beta, noise_s
 def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument("--data", required=True)
-    p.add_argument("--signal_frac", type=float, default=0.05)
+    p.add_argument("--signal_frac", type=float, default=0.01)
     p.add_argument("--beta", type=float, default=1.0)
     p.add_argument("--noise_sd", type=float, default=1.0)
-    p.add_argument("--sample_rate", type=float, default=1.0)
+    p.add_argument("--sample_rate", type=float, default=0.5)
     p.add_argument("--min_ncell", type=int, default=30)
     p.add_argument("--seed", type=int, default=None)
     p.add_argument("--n_run", type=int, default=100)
@@ -157,14 +155,20 @@ if __name__ == "__main__":
 
     zstat_files = list(Path("../data/TM_FACS/magmaz").glob("*.genes.out"))
 
-    rng = np.random.default_rng(args.seed)
+    # randomizer
+    seed = args.seed
+    if not seed:
+        rng = np.random.default_rng()
+        seed = rng.integers(1e9)  # save actually used seed for reproduction
+    rng = np.random.default_rng(seed)
 
-    setting = f"sf-{args.signal_frac}__b-{args.beta}__ns-{args.noise_sd}__seed-{args.seed}"
+    setting = f"sf-{args.signal_frac}__b-{args.beta}__ns-{args.noise_sd}__sr-{args.sample_rate}__seed-{seed}"
     outdir = Path(args.outdir) / setting
     outdir.mkdir(exist_ok=True)
 
     n_finished = 0
 
+    print('start running')
     while n_finished < args.n_run:
         target_ct = rng.choice(cell_types)
 
@@ -187,6 +191,14 @@ if __name__ == "__main__":
             sep=r"\s+"
         ).set_index("GENE")[["ZSTAT"]]
 
+        # get shared genes
+        score_df.index = score_df.index.astype(str)
+        shared_genes = score_df.index.intersection(adata.var_names)
+        score_df = score_df.loc[shared_genes, :].copy()
+        gene_idx = adata.var_names.get_indexer(shared_genes)
+        logfc_active = logfc_active[gene_idx]
+        logfc_inactive = logfc_inactive[gene_idx]
+
         z_sim, genes, is_causal = simulate_gwas(
             logfc_active,
             logfc_inactive,
@@ -194,6 +206,7 @@ if __name__ == "__main__":
             args.signal_frac,
             args.beta,
             args.noise_sd,
+            args.sample_rate,
             rng,
         )
 
