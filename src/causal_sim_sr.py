@@ -21,7 +21,7 @@ def compute_active_inactive_logfc(
     ct_mask = adata.obs[celltype_key] == target_ct
     ct_cells = np.array(adata.obs.index[ct_mask])
 
-    if len(ct_cells) <= n_target:
+    if len(ct_cells) < n_target:
         raise ValueError("Not enough cells for split")
 
     umap = adata.obsm[umap_key][ct_mask]
