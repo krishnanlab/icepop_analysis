@@ -224,7 +224,7 @@ if __name__ == "__main__":
         # --------------------------------
         # SAVE CELL TYPE
         # --------------------------------
-        with open(outdir / f"tc__{n_finished}.txt", "w") as f:
+        with open(outdir / f"tc__{n_finished}.csv", "w") as f:
             f.write(f"{target_ct}\n")
 
         # --------------------------------
