@@ -11,7 +11,7 @@ if __name__ == '__main__':
     top_n = 1000
 
     outdir = '../data/simulation/scdrs'
-    causal_outdir = f'{outdir}/causal_sr'
+    causal_outdir = f'{outdir}/causal_synthetic_ct'
     Path(causal_outdir).mkdir(exist_ok=True, parents=True)
 
     # load adata
@@ -22,7 +22,7 @@ if __name__ == '__main__':
     # Casusal
     ####################################
     # subset gene sets
-    geneset_files = Path('../data/simulation/causal_simulation_sr').rglob('gwasz__*.tsv')
+    geneset_files = Path('../data/simulation/causal_simulation_synthetic').rglob('gwasz__*.tsv')
     geneset_files = [str(geneset_file) for geneset_file in geneset_files]
     geneset_dict = {}
     for file in tqdm(geneset_files, total=len(geneset_files)):
