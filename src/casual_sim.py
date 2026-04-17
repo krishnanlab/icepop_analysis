@@ -14,45 +14,6 @@ warnings.filterwarnings("ignore", category=pd.errors.PerformanceWarning)
 
 
 # ------------------------------------------
-# sample subset of cells
-# ------------------------------------------
-def pick_realistic_cells(
-    adata,
-    target_type,
-    n_target=100,
-    celltype_key="cell_type",
-    umap_key="X_umap",
-    rng=None,
-):
-    # --------------------------------
-    # Subset to target cell type
-    # --------------------------------
-    target_mask = adata.obs[celltype_key] == target_type
-    target_cells = np.array(adata.obs.index[target_mask])
-
-    if len(target_cells) < n_target:
-        raise ValueError(
-            f"Only {len(target_cells)} cells available for {target_type}, "
-            f"but n_target={n_target}"
-        )
-
-    umap = adata.obsm[umap_key][target_mask]
-    x, y = umap[:, 0], umap[:, 1]
-
-    # -----------------------------
-    # LINE-BASED SPLIT (controlled fraction)
-    # -----------------------------
-    theta = rng.uniform(0, np.pi)
-    a, b = np.cos(theta), np.sin(theta)
-
-    proj = a * x + b * y
-    top_idx = np.argsort(proj)[-n_target:]
-    chosen_cells = target_cells[top_idx]
-
-    return chosen_cells
-
-
-# ------------------------------------------
 # simulate gwas signal from spec score
 # ------------------------------------------
 def choose_causal_genes(spec, signal_frac=0.2, rng=None):
@@ -364,18 +325,6 @@ if __name__ == '__main__':
         n_target = int(ct_cnts.loc[target_ct] * sample_rate)
         if n_target < min_ncell:
             continue
-
-        # sample partial cells from a cell type
-        if sample_rate < 1.0:
-            sel_cells = pick_realistic_cells(
-                adata, target_ct,
-                n_target=n_target,
-                celltype_key="cell_type",
-                umap_key="X_umap",
-                rng=rng,
-            )
-            sel_cell_idx = adata.obs_names.get_indexer(sel_cells)
-            celltype_spec.loc[target_ct, :] = compute_score_serial(adata.layers['raw'], sel_cell_idx)
 
         # select a random disease
         score_df = pd.read_csv(rng.choice(files, 1)[0], header=0, index_col=None, sep=r'\s+')
