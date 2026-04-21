@@ -248,15 +248,15 @@ def get_spec_score(adata, group_key='cell_type'):
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--data", type=str, required=True)
-    parser.add_argument("--logfc", type=str, required=True)
+    parser.add_argument("--outdir", type=str, required=True)
+    parser.add_argument("--logfc", type=str, default=None)
     parser.add_argument("--signal_frac", type=float, default=0.05)
     parser.add_argument("--beta", type=float, default=1.0)
     parser.add_argument("--noise_sd", type=float, default=1.0)
     parser.add_argument("--sample_rate", type=float, default=1.0)
-    parser.add_argument("--min_ncell", type=int, default=30)
+    parser.add_argument("--min_ncell", type=int, default=40)
     parser.add_argument("--seed", type=int, default=None)
     parser.add_argument("--n_run", type=int, default=100)
-    parser.add_argument("--outdir", type=str, default="results")
     return parser.parse_args()
 
 
@@ -285,7 +285,7 @@ if __name__ == '__main__':
     ct_cnts = adata.obs['cell_type'].value_counts()
 
     # load disease
-    zstat_indir = '../data/TM_FACS/magmaz'
+    zstat_indir = '../data/magmaz'
     files = Path(zstat_indir).glob('*.genes.out')
     files = [str(i) for i in files]
 
