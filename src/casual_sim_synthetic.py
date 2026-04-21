@@ -224,7 +224,7 @@ def parse_args():
     p.add_argument("--beta", type=float, default=1.0)
     p.add_argument("--noise_sd", type=float, default=1.0)
     p.add_argument("--sample_rate", type=float, default=0.5)
-    p.add_argument("--min_ncell", type=int, default=30)
+    p.add_argument("--min_ncell", type=int, default=100)
     p.add_argument("--low_q", type=float, default=0.3)
     p.add_argument("--high_q", type=float, default=0.5)
     p.add_argument("--seed", type=int, default=None)
@@ -245,10 +245,9 @@ if __name__ == "__main__":
     ct_counts = adata.obs["cell_type"].value_counts()
 
     # get candiate cts
-    min_ct_size = args.min_ncell / args.sample_rate
-    cell_types = ct_counts[ct_counts >= min_ct_size].index.values
+    cell_types = ct_counts[ct_counts >= args.min_ncell].index.values
 
-    zstat_files = list(Path("../data/TM_FACS/magmaz").glob("*.genes.out"))
+    zstat_files = list(Path("../data/magmaz").glob("*.genes.out"))
 
     # leiden clustering
     leiden_key = 'leiden'
@@ -272,9 +271,6 @@ if __name__ == "__main__":
     while n_finished < args.n_run:
         target_ct = rng.choice(cell_types)
         n_active = int(ct_counts.loc[target_ct] * args.sample_rate)
-        if n_active < args.min_ncell:
-            continue
-
         n_inactive = ct_counts.loc[target_ct] - n_active
 
         try:
