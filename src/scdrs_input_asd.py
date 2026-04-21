@@ -37,7 +37,7 @@ if __name__ == '__main__':
     # subset gene sets
     print('preprocess gene set')
     geneset_dict = {}
-    file = '../data/TM_FACS/magmaz/asd.genes.out'
+    file = '../data/magmaz/asd.genes.out'
     name = Path(file).stem.replace('.genes.out', '')
     df = pd.read_csv(file, header=0, index_col=None, sep=r'\s+')
     df['GENE'] = df['GENE'].astype(str)

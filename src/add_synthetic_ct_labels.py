@@ -5,9 +5,9 @@ from pathlib import Path
 from tqdm import tqdm
 
 adata = sc.read('../data/simulation/TM_subset_cnt.h5ad')
-sim_dir = '../data/simulation/causal_simulation_synthetic_softplus'
-adata_outdir = '../data/simulation/TM_synthetic_adata_softplus'
-adata_normed_outdir = '../data/simulation/TM_synthetic_adata_normed_softplus'
+sim_dir = '../data/simulation/causal_simulation_synthetic'
+adata_outdir = '../data/simulation/TM_synthetic_adata'
+adata_normed_outdir = '../data/simulation/TM_synthetic_adata_normed'
 Path(adata_outdir).mkdir(exist_ok=True)
 Path(adata_normed_outdir).mkdir(exist_ok=True)
 

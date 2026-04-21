@@ -9,7 +9,7 @@ adata = sc.read('../data/simulation/TM_subset_cnt.h5ad')
 genes = adata.var_names.values
 
 # collect MAGMA result files
-files = Path('../data/TM_FACS/magmaz').glob('*.genes.out')
+files = Path('../data/magmaz').glob('*.genes.out')
 files = [str(i) for i in files]
 
 # output directory for null simulations

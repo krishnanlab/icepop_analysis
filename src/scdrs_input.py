@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
     # subset gene sets
     print('preprocess gene set')
-    geneset_files = glob('../data/TM_FACS/magmaz/*.genes.out')
+    geneset_files = glob('../data/magmaz/*.genes.out')
     geneset_dict = {}
     for file in geneset_files:
         name = Path(file).stem.replace('.genes.out', '')
