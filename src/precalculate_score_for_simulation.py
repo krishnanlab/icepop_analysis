@@ -2,10 +2,11 @@ import scanpy as sc
 import numpy as np
 import pandas as pd
 from icepop.specificity_score import specificity_score
+from sys import argv
 
 
 if __name__ == '__main__':
-    mcsize = 30
+    mcsize = argv[1]
     infile = '../data/simulation/TM_subset_cnt.h5ad'
     mc_assign_infile = f'../data/simulation/mc-{mcsize}/mc_assign.csv'
     outdir = f'../data/simulation/mc-{mcsize}'
