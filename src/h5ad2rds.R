@@ -12,3 +12,9 @@ sce <- readH5AD("../data/TM_FACS/TM_FACS_normed.h5ad")
 rownames(sce) <- rowData(sce)$entrez
 assay(sce, "logcounts") <- assay(sce, "X")
 saveRDS(sce, file = "../data/TM_FACS/seismic/expr.rds")
+
+# TM FACS sim
+sce <- readH5AD("../data/simulation/mc-75/TM_subset__score_calc.h5ad")
+rownames(sce) <- rowData(sce)$entrez
+assay(sce, "logcounts") <- assay(sce, "X")
+saveRDS(sce, file = "../data/simulation/seismic/expr.rds")
