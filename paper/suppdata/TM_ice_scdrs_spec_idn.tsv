@@ -1,85 +1,53 @@
 Trait	Cell type	Pct. of sig. cells	ICePop discovery	Seismic discovery	scDRS discovery
-Inflammatory bowel disease	Epithelial cell	0.107981220657277	True	False	True
-Inflammatory bowel disease	Fibrocyte	0.7045454545454546	True	False	True
-Monocyte count	Myeloid cell	0.8888888888888888	True	False	True
-Alzheimer disease	Myeloid cell	0.7871674491392802	True	False	True
-Basal metabolic rate	Skeletal muscle satellite cell	0.3878899082568807	True	False	True
-Atrial fibrillation	Endothelial cell of coronary artery	0.2557535263548626	True	False	True
-Ulcerative colitis	Myeloid cell	0.8591549295774648	True	False	True
-Ulcerative colitis	Fibrocyte	0.5681818181818182	True	False	True
-Hemoglobin A1c	Epithelial cell of large intestine	0.465962441314554	True	False	True
-Heel bone mineral density T score	Endothelial cell	0.718952922077922	True	False	True
-Heel bone mineral density T score	Aortic endothelial cell	0.5524625267665952	True	False	True
-Mean corpuscular hemoglobin	Epithelial cell of large intestine	0.4178403755868544	True	False	True
-Mean corpuscular hemoglobin	Precursor B cell	0.875	True	False	True
-Mean corpuscular hemoglobin	Thymocyte	0.8707692307692307	True	False	True
-Bipolar disorder	Lung neuroendocrine cell	1.0	True	False	True
-Number of children ever born	Astrocyte	0.9932432432432432	True	False	True
-Rheumatoid arthritis	Epithelial cell	0.0985915492957746	True	False	True
-Rheumatoid arthritis	Epithelial cell of thymus	0.2606060606060606	True	False	True
-Rheumatoid arthritis	Fibrocyte	0.4090909090909091	True	False	True
-Systemic lupus erythematosus	Plasmacytoid dendritic cell	1.0	True	False	True
-Systemic lupus erythematosus	Fibrocyte	0.6590909090909091	True	False	True
-Systolic blood pressure	Endothelial cell	0.8185876623376623	True	False	True
-Systolic blood pressure	Aortic endothelial cell	0.7066381156316917	True	False	True
-Systolic blood pressure	Atrial myocyte	0.456575682382134	True	False	True
-White blood cell count	Myeloid cell	0.8841940532081377	True	False	True
-Hypothyroidism	Epithelial cell	0.1103286384976525	True	False	True
-Hypothyroidism	Epithelial cell of thymus	0.1636363636363636	True	False	True
-Hypothyroidism	Myeloid cell	0.8814553990610329	True	False	True
-Hypothyroidism	Fibrocyte	0.7045454545454546	True	False	True
-Hypothyroidism	Professional antigen presenting cell	0.2923076923076923	True	False	True
-Primary biliary cirrhosis	Epithelial cell	0.068075117370892	True	False	True
-Primary biliary cirrhosis	Fibrocyte	0.8409090909090909	True	False	True
-Primary biliary cirrhosis	Late pro-B cell	0.9878345498783456	True	False	True
-FEV1 FVC ratio	Basal cell of epidermis	0.5643094447081158	True	False	True
+Inflammatory bowel disease	Epithelial cell	0.0352112676056338	True	False	True
+Monocyte count	Myeloid cell	0.7742566510172144	True	False	True
+Alzheimer disease	Myeloid cell	0.6807511737089202	True	False	True
+Basal metabolic rate	Skeletal muscle satellite cell	0.4143119266055046	True	False	True
+Ulcerative colitis	Myeloid cell	0.7546948356807511	True	False	True
+Hemoglobin A1c	Epithelial cell of large intestine	0.4518779342723005	True	False	True
+Heel bone mineral density T score	Endothelial cell	0.635551948051948	True	False	True
+Heel bone mineral density T score	Aortic endothelial cell	0.0985010706638115	True	False	True
+Mean corpuscular hemoglobin	Epithelial cell of large intestine	0.397300469483568	True	False	True
+Mean corpuscular hemoglobin	Precursor B cell	0.8329439252336449	True	False	True
+Mean corpuscular hemoglobin	Thymocyte	0.8295384615384616	True	False	True
+Number of children ever born	Astrocyte	0.9628378378378378	True	False	True
+Rheumatoid arthritis	Epithelial cell	0.0352112676056338	True	False	True
+Rheumatoid arthritis	Epithelial cell of thymus	0.0303030303030303	True	False	True
+Systolic blood pressure	Endothelial cell	0.7751623376623377	True	False	True
+Systolic blood pressure	Aortic endothelial cell	0.2055674518201284	True	False	True
+White blood cell count	Myeloid cell	0.7742566510172144	True	False	True
+Hypothyroidism	Epithelial cell	0.0352112676056338	True	False	True
+Hypothyroidism	Myeloid cell	0.7758215962441315	True	False	True
+FEV1 FVC ratio	Basal cell of epidermis	0.5614617940199336	True	False	True
 FEV1 FVC ratio	Bulge keratinocyte	0.7738095238095238	True	False	True
-FEV1 FVC ratio	Endothelial cell	0.5383522727272727	True	False	True
-FEV1 FVC ratio	Capillary endothelial cells	0.5677846008502598	True	False	True
-FEV1 FVC ratio	Club cell of bronchiole	0.5909090909090909	True	False	True
-FEV1 FVC ratio	Vein endothelial cell	0.7960526315789473	True	False	True
-FEV1 FVC ratio	Aortic endothelial cell	0.4453961456102783	True	False	True
-Eczema	Epithelial cell	0.3098591549295774	True	False	True
-Eczema	Myeloid cell	0.8802816901408451	True	False	True
-Eczema	Fibrocyte	0.6818181818181818	True	False	True
-Eczema	Thymocyte	0.6843076923076923	True	False	True
-Total protein	Myeloid cell	0.86697965571205	True	False	True
-Total protein	Fibrocyte	0.6363636363636364	True	False	True
-Respiratory ENT	Epithelial cell	0.0798122065727699	True	False	True
-Respiratory ENT	Fibrocyte	0.4772727272727273	True	False	True
-Respiratory ENT	Thymocyte	0.9316923076923076	True	False	True
-Red blood cell distribution width	Epithelial cell of large intestine	0.3685446009389671	True	False	True
-Red blood cell distribution width	Myeloid cell	0.7918622848200313	True	False	True
-Coronary atherosclerosis	Endothelial cell	0.3287337662337662	True	False	True
-Coronary atherosclerosis	Aortic endothelial cell	0.728051391862955	True	False	True
-Neutrophil count	Epithelial cell of large intestine	0.2470657276995305	True	False	True
-Neutrophil count	Myeloid cell	0.8744131455399061	True	False	True
-Alkaline phosphatase	Epithelial cell of large intestine	0.4536384976525822	True	False	True
-Worry	Lung neuroendocrine cell	1.0	True	False	True
-Asthma	Epithelial cell of thymus	0.1818181818181818	True	False	True
-Asthma	Fibrocyte	0.5454545454545454	True	False	True
-Lymphocyte count	Epithelial cell of thymus	0.1818181818181818	True	False	True
-Lymphocyte count	Myeloid cell	0.8791079812206573	True	False	True
-Lymphocyte count	Fibrocyte	0.7045454545454546	True	False	True
-Lymphocyte count	Thymocyte	0.931076923076923	True	False	True
-Lymphocyte count	Aortic endothelial cell	0.5460385438972163	True	False	True
-Diastolic blood pressure	Aortic endothelial cell	0.708779443254818	True	False	True
-Diastolic blood pressure	Atrial myocyte	0.456575682382134	True	False	True
-Idiopathic pulmonary fibrosis	CD8-positive, alpha-beta T cell	0.7766355140186916	True	False	True
-Eosinophil count	Epithelial cell	0.1103286384976525	True	False	True
-Eosinophil count	Myeloid cell	0.8853677621283255	True	False	True
-Eosinophil count	Fibrocyte	0.7045454545454546	True	False	True
-Eosinophil count	Thymocyte	0.9316923076923076	True	False	True
-Hypertension	Aortic endothelial cell	0.8843683083511777	True	False	True
-Crohn disease	Epithelial cell	0.1056338028169014	True	False	True
-Crohn disease	Fibrocyte	0.7045454545454546	True	False	True
-Multiple sclerosis	Epithelial cell	0.1032863849765258	True	False	True
-Multiple sclerosis	Epithelial cell of thymus	0.1333333333333333	True	False	True
-Multiple sclerosis	Myeloid cell	0.878716744913928	True	False	True
-Multiple sclerosis	Fibrocyte	0.6818181818181818	True	False	True
-Multiple sclerosis	Basophil	0.0422535211267605	True	False	True
-Multiple sclerosis	Thymocyte	0.8547692307692307	True	False	True
-Multiple sclerosis	Kupffer cell	0.8816793893129771	True	False	True
-Waist hip ratio adjusted BMI	Endothelial cell	0.7260551948051948	True	False	True
-Waist hip ratio adjusted BMI	Smooth muscle cell of trachea	0.472	True	False	True
-Waist hip ratio adjusted BMI	Aortic endothelial cell	0.6745182012847966	True	False	True
+FEV1 FVC ratio	Endothelial cell	0.481939935064935	True	False	True
+FEV1 FVC ratio	Capillary endothelial cells	0.4218233349078885	True	False	True
+Eczema	Epithelial cell	0.2136150234741784	True	False	True
+Eczema	Myeloid cell	0.7801251956181534	True	False	True
+Eczema	Thymocyte	0.6535384615384615	True	False	True
+Total protein	Myeloid cell	0.7550860719874805	True	False	True
+Respiratory ENT	Thymocyte	0.8898461538461538	True	False	True
+Red blood cell distribution width	Epithelial cell of large intestine	0.3485915492957746	True	False	True
+Red blood cell distribution width	Myeloid cell	0.724960876369327	True	False	True
+Coronary atherosclerosis	Endothelial cell	0.281452922077922	True	False	True
+Coronary atherosclerosis	Aortic endothelial cell	0.2055674518201284	True	False	True
+Neutrophil count	Epithelial cell of large intestine	0.1977699530516432	True	False	True
+Neutrophil count	Myeloid cell	0.7523474178403756	True	False	True
+Alkaline phosphatase	Epithelial cell of large intestine	0.3597417840375587	True	False	True
+Lymphocyte count	Myeloid cell	0.7801251956181534	True	False	True
+Lymphocyte count	Thymocyte	0.8898461538461538	True	False	True
+Lymphocyte count	Aortic endothelial cell	0.0985010706638115	True	False	True
+Lymphocyte count	Epithelial cell of thymus	0.0303030303030303	True	False	True
+Diastolic blood pressure	Aortic endothelial cell	0.2055674518201284	True	False	True
+Idiopathic pulmonary fibrosis	CD8-positive, alpha-beta T cell	0.6644859813084112	True	False	True
+Eosinophil count	Epithelial cell	0.0352112676056338	True	False	True
+Eosinophil count	Myeloid cell	0.7801251956181534	True	False	True
+Eosinophil count	Thymocyte	0.8898461538461538	True	False	True
+Hypertension	Aortic endothelial cell	0.2055674518201284	True	False	True
+Crohn disease	Epithelial cell	0.0352112676056338	True	False	True
+Multiple sclerosis	Myeloid cell	0.7758215962441315	True	False	True
+Multiple sclerosis	Kupffer cell	0.6793893129770993	True	False	True
+Multiple sclerosis	Thymocyte	0.7741538461538462	True	False	True
+Waist hip ratio adjusted BMI	Endothelial cell	0.6637581168831169	True	False	True
+Waist hip ratio adjusted BMI	Aortic endothelial cell	0.1220556745182012	True	False	True
+Waist hip ratio adjusted BMI	Smooth muscle cell of trachea	0.224	True	False	True
