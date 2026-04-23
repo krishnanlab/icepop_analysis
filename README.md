@@ -16,8 +16,6 @@ All data required to reproduce the analyses are available on [Zenodo](https://ze
 
 We assume all data have been downloaded and extracted under `data/`.
 
-The `magmaz` directory need to be placed under `data/TM_FACS/`.
-
 ## Repository Structure
 - notebook/: Jupyter notebooks used to generate figures and tables in the paper  
 - src/: Scripts for reproducing the results  
