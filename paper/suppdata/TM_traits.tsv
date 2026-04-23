@@ -59,11 +59,11 @@ UKB_460K.cov_EDU_YEARS	Years of education	Years of education	Neurological	No
 UKB_460K.cov_SMOKING_STATUS	Smoking status	Smoking status	Neurological	Yes
 UKB_460K.repro_NumberChildrenEverBorn_Pooled	Number of children ever born	Number of children ever born	Neurological	No
 Coronary_atherosclerosis	Coronary atherosclerosis	Coronary atherosclerosis	Cardiovascular	Yes
-heart_failure	Heart failure	Heart failure	Cardiovascular	Yes
+heart_failure	Heart failure	Heart failure	Cardiovascular	No
 PASS_AtrialFibrillation_Nielsen2018	Atrial fibrillation	Atrial fibrillation	Cardiovascular	Yes
 PASS_Coronary_Artery_Disease	Coronary artery disease	Coronary artery disease	Cardiovascular	Yes
-UKB_460K.bp_DIASTOLICadjMEDz	Diastolic blood pressure	Diastolic blood pressure	Cardiovascular	No
 UKB_460K.bp_SYSTOLICadjMEDz	Systolic blood pressure	Systolic blood pressure	Cardiovascular	Yes
+UKB_460K.bp_DIASTOLICadjMEDz	Diastolic blood pressure	Diastolic blood pressure	Cardiovascular	Yes
 UKB_460K.disease_HYPERTENSION_DIAGNOSED	Hypertension	Hypertension	Cardiovascular	No
 IPF	Idiopathic pulmonary fibrosis	IPF	Respiratory	Yes
 UKB_460K.disease_ASTHMA_DIAGNOSED	Asthma	Asthma	Respiratory	Yes
