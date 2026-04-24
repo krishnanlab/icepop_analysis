@@ -7,9 +7,7 @@ This directory contains Jupyter notebooks used for preprocessing, simulations, a
 - `process_TM_FACS.ipynb`: Preprocesses Tabula Muris (TM) FACS input data (loads data, checks outlier cells, converts symbols to IDs) and saves the prepared dataset(s) for downstream ICePop analyses.
 
 ## Null simulation
-- `null_sim.ipynb`: Evaluates ICePop under a null setting by aggregating metacell-level p-values from many runs and producing empirical calibration/QQ-style plots.
-- `null_sim_ct.ipynb`: Tests null behavior stratified by cell-type size and compares ICePop against other methods (e.g., Seismic, scDRS).
-- `null_sim_icepop_mc_size.ipynb`: Studies how ICePop metacell size (`mc-30/50/75`) changes null calibration; includes both metacell-level and cell-type-level null summaries.
+- `null_sim.ipynb`: Evaluates ICePop (across three metacell sizes 30/50/75), seismic and scDRS under a null setting by aggregating p-values from many runs and producing empirical calibration/QQ-style plots.
 
 ## Casual simulation
 - `causal_sim.ipynb`: Runs causal simulation evaluations using datasets with known ground-truth signals and compares inferred association behavior across methods. Evaluates statistical power under three settings: (A) varying the fraction of causal genes, (B) varying the noise variance, and (C) varying the signal scaling factor.
