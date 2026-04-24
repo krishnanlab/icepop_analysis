@@ -5,14 +5,15 @@ For installation instructions and a tutorial for the ICePop package, see: https:
 
 We assume the following directory structure when running the analysis:
 ```
-data/  
-results/  
-src/  
-notebook/  
+data/
+results/ (directory to save results generated from codes in src/)
+src/
+paper/
+notebook/
 run/ (working directory for running scripts)
 ```
 
-All data required to reproduce the analyses are available on [Zenodo](https://zenodo.org/records/19238928).
+All data required to reproduce the analyses are available on [Zenodo](https://doi.org/10.5281/zenodo.14629276).
 
 We assume all data have been downloaded and extracted under `data/`.
 
