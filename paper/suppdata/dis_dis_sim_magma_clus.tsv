@@ -62,8 +62,8 @@ Coronary_atherosclerosis	Coronary atherosclerosis	10
 heart_failure	Heart failure	10
 PASS_AtrialFibrillation_Nielsen2018	Atrial fibrillation	10
 PASS_Coronary_Artery_Disease	Coronary artery disease	10
-UKB_460K.bp_DIASTOLICadjMEDz	Diastolic blood pressure	10
 UKB_460K.bp_SYSTOLICadjMEDz	Systolic blood pressure	10
+UKB_460K.bp_DIASTOLICadjMEDz	Diastolic blood pressure	10
 UKB_460K.disease_HYPERTENSION_DIAGNOSED	Hypertension	10
 IPF	IPF	2
 UKB_460K.disease_ASTHMA_DIAGNOSED	Asthma	2

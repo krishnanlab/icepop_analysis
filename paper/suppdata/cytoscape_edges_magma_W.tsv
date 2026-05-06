@@ -37,11 +37,11 @@ Celiac disease	Multiple sclerosis	0.6120704604066074
 IBD	UC	0.8503429535724938
 SLE	Total protein	0.6172366823730959
 Multiple sclerosis	Primary biliary cirrhosis	0.621918374299602
-Eczema	Eosinophil count	0.6687582550662817
-Eczema	Multiple sclerosis	0.6242264144583085
+Eczema	Eosinophil count	0.6687582550662816
+Eczema	Multiple sclerosis	0.6242264144583086
 Eczema	RA	0.6186887396173693
 Eczema	Hypothyroidism	0.6388121801123495
-Eczema	Respiratory ENT	0.6901159549444756
+Eczema	Respiratory ENT	0.6901159549444758
 Hypothyroidism	SLE	0.6166110959775446
 Hypothyroidism	Primary biliary cirrhosis	0.6242218358177892
 Hypothyroidism	RA	0.6263351051920033
@@ -57,14 +57,14 @@ Alkaline phosphatase	Sex hormone binding globulin	0.6782657705121694
 Alkaline phosphatase	Coronary artery disease	0.6111923578996575
 Blood glucose	Fasting glucose	0.6331105039429064
 Blood glucose	Type 2 diabetes	0.6240593921258919
-Blood glucose	Hemoglobin A1c	0.7010958648270174
+Blood glucose	Hemoglobin A1c	0.7010958648270175
 Blood glucose	Sex hormone binding globulin	0.653362438000581
 Blood glucose	Triglycerides	0.6476965392838934
 Hemoglobin A1c	Red blood cell distribution width	0.6942368482405393
 Hemoglobin A1c	Type 2 diabetes	0.6241598430225883
 Hemoglobin A1c	Total bilirubin	0.6896823787777054
 HDL cholesterol	Type 2 diabetes	0.6174275720791111
-HDL cholesterol	Total cholesterol	0.70450118981069
+HDL cholesterol	Total cholesterol	0.7045011898106899
 HDL cholesterol	LDL cholesterol	0.672028855296444
 HDL cholesterol	Sex hormone binding globulin	0.7004260331175601
 HDL cholesterol	Triglycerides	0.7477295923297096
@@ -120,7 +120,7 @@ MDD	Subjective well being	0.6166897618919469
 MDD	Worry	0.6736540536581076
 MDD	Neuroticism	0.6966831581445869
 Subjective well being	Worry	0.6123126288562525
-Verbal numeric reasoning	Years of education	0.7040399538965794
+Verbal numeric reasoning	Years of education	0.7040399538965793
 Neuroticism	Reaction time	0.638428785465513
 Neuroticism	Sleep duration	0.6357397761804101
 Neuroticism	Subjective well being	0.6280250955854797

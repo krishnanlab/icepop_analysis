@@ -5,86 +5,88 @@ Hair pigmentation	Basal cell	0.994389901823282	True	True	False
 Hair pigmentation	Immature B cell	0.8166383701188455	True	True	False
 Hair pigmentation	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Hair pigmentation	Luminal epithelial cell of mammary gland	0.7981770833333334	True	True	False
-Hair pigmentation	Intestinal crypt stem cell	0.5699810006333123	True	True	False
 LDL cholesterol	Epidermal cell	0.7601626016260162	True	True	False
-LDL cholesterol	DN4 thymocyte	0.428246013667426	True	True	False
+LDL cholesterol	DN4 thymocyte	0.4185649202733485	True	True	False
 LDL cholesterol	Intestinal crypt stem cell	0.973400886637112	True	True	False
 LDL cholesterol	Hematopoietic stem cell	0.5801572897761645	True	True	False
 LDL cholesterol	Non-classical monocyte	0.7248322147651006	True	True	False
 LDL cholesterol	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 LDL cholesterol	Classical monocyte	0.504950495049505	True	True	False
-LDL cholesterol	Promonocyte	0.6049261083743842	True	True	False
 LDL cholesterol	Enterocyte of epithelium of large intestine	0.7037765538945712	True	True	False
-LDL cholesterol	Mature NK T cell	0.3266331658291457	True	True	False
+LDL cholesterol	Promonocyte	0.6049261083743842	True	True	False
 LDL cholesterol	Pancreatic ductal cell	0.977635782747604	True	True	False
-LDL cholesterol	Endothelial cell of hepatic sinusoid	0.9675850891410048	True	True	False
+LDL cholesterol	Mature NK T cell	0.3266331658291457	True	True	False
 LDL cholesterol	Large intestine goblet cell	0.8481411468178954	True	True	False
+LDL cholesterol	Endocardial cell	0.9546666666666668	True	True	False
+LDL cholesterol	Endothelial cell of hepatic sinusoid	0.9448946515397084	True	True	False
 Hair color	Bladder urothelial cell	0.952112676056338	True	True	False
 Hair color	Bulge keratinocyte	0.9746543778801844	True	True	False
 Hair color	Epidermal cell	0.7601626016260162	True	True	False
+Hair color	Basal cell	0.7026647966339411	True	True	False
 Hair color	Immature B cell	0.8166383701188455	True	True	False
 Hair color	Luminal epithelial cell of mammary gland	0.7981770833333334	True	True	False
 Inflammatory bowel disease	Immature B cell	0.8166383701188455	True	True	False
 Inflammatory bowel disease	Granulocytopoietic cell	0.8509316770186336	True	True	False
 Inflammatory bowel disease	Monocyte	0.7462919594067136	True	True	False
 Monocyte count	Valve cell	0.9428571428571428	True	True	False
-Monocyte count	CD4-positive, alpha-beta T cell	0.5606837606837607	True	True	False
+Monocyte count	CD4-positive, alpha-beta T cell	0.5478632478632479	True	True	False
 Monocyte count	Capillary endothelial cells	0.7931034482758621	True	True	False
-Monocyte count	B cell	0.907088292769586	True	True	False
+Monocyte count	B cell	0.8999822348552141	True	True	False
+Monocyte count	Fenestrated cell	0.503731343283582	True	True	False
+Monocyte count	Smooth muscle cell of the pulmonary artery	0.2342342342342342	True	True	False
 Monocyte count	T cell	0.4582392776523702	True	True	False
 Monocyte count	CD8-positive, alpha-beta T cell	0.7579439252336448	True	True	False
-Monocyte count	Smooth muscle cell of the pulmonary artery	0.2342342342342342	True	True	False
-Monocyte count	Fenestrated cell	0.503731343283582	True	True	False
-Monocyte count	Vein endothelial cell	0.4473684210526316	True	True	False
 Monocyte count	Precursor B cell	0.8329439252336449	True	True	False
 Monocyte count	Late pro-B cell	0.9124087591240876	True	True	False
 Monocyte count	Endothelial cell of coronary artery	0.7219747587230884	True	True	False
 Monocyte count	Dendritic cell	0.6612903225806451	True	True	False
-Prostate cancer	Pericyte cell	0.8947368421052632	True	True	False
+Coronary artery disease	Hematopoietic stem cell	0.7725347852389595	True	True	False
 Prostate cancer	Fibroblast of lung	0.9606625258799172	True	True	False
-Alzheimer disease	B cell	0.7821993249244982	True	True	False
-Alzheimer disease	Macrophage	0.4838577850429096	True	True	False
-Alzheimer disease	Naive B cell	0.6988847583643123	True	True	False
-Alzheimer disease	Proerythroblast	0.205607476635514	True	True	False
+Prostate cancer	Pericyte cell	0.8947368421052632	True	True	False
+Alzheimer disease	Macrophage	0.471597874948917	True	True	False
+Alzheimer disease	B cell	0.7731391010836738	True	True	False
+Alzheimer disease	Naive B cell	0.6968570462994255	True	True	False
+Alzheimer disease	Proerythroblast	0.4205607476635514	True	True	False
 Alzheimer disease	Kupffer cell	0.9694656488549618	True	True	False
 Alzheimer disease	Leukocyte	0.3037974683544304	True	True	False
-Alzheimer disease	Granulocyte	0.9103169251517196	True	True	False
-Alzheimer disease	Microglial cell	0.962918299668375	True	True	False
+Alzheimer disease	Microglial cell	0.9625414531202894	True	True	False
 Alzheimer disease	Monocyte	0.697111631537861	True	True	False
+Alzheimer disease	Granulocyte	0.9069453809844908	True	True	False
 Alzheimer disease	Myeloid dendritic cell	0.7774798927613941	True	True	False
-Alzheimer disease	Neutrophil	0.4313725490196078	True	True	False
+Alzheimer disease	Neutrophil	0.3725490196078431	True	True	False
 Basal metabolic rate	Basal cell	0.9509116409537168	True	True	False
 Basal metabolic rate	Hematopoietic stem cell	0.7196007259528131	True	True	False
 Basal metabolic rate	Valve cell	0.9428571428571428	True	True	False
-Basal metabolic rate	Mesenchymal stem cell of adipose	0.8973167124445384	True	True	False
-Basal metabolic rate	Stromal cell	0.7058823529411765	True	True	False
-Basal metabolic rate	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
+Basal metabolic rate	Mesenchymal stem cell of adipose	0.8903443904500317	True	True	False
+Basal metabolic rate	Stromal cell	0.6911764705882353	True	True	False
 Basal metabolic rate	Fenestrated cell	0.8507462686567164	True	True	False
+Basal metabolic rate	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 Basal metabolic rate	Chondrocyte	0.9309090909090908	True	True	False
-Basal metabolic rate	Oligodendrocyte	0.9933142311365808	True	True	False
+Basal metabolic rate	Oligodendrocyte	0.9823304680038204	True	True	False
 Basal metabolic rate	Pancreatic stellate cell	0.8125	True	True	False
-Basal metabolic rate	Fibroblast	0.7977443609022556	True	True	False
+Basal metabolic rate	Fibroblast	0.7639097744360902	True	True	False
+Basal metabolic rate	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
+Basal metabolic rate	Pancreatic A cell	0.9539347408829176	True	True	False
 Basal metabolic rate	Pancreatic D cell	0.9476439790575916	True	True	False
 Basal metabolic rate	Pancreatic PP cell	0.9859154929577464	True	True	False
 Basal metabolic rate	Endocardial cell	0.9546666666666668	True	True	False
 Basal metabolic rate	Bladder cell	0.9486166007905138	True	True	False
-Basal metabolic rate	Pancreatic A cell	0.9539347408829176	True	True	False
 Basal metabolic rate	Adventitial cell	0.6678200692041523	True	True	False
-Basal metabolic rate	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
 Atrial fibrillation	Basal cell	0.7199625993454886	True	True	False
 Atrial fibrillation	Immature B cell	0.8166383701188455	True	True	False
+Atrial fibrillation	Valve cell	0.7714285714285715	True	True	False
 Atrial fibrillation	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
 Atrial fibrillation	Chondrocyte	0.3163636363636363	True	True	False
-Atrial fibrillation	Pulmonary interstitial fibroblast	0.82	True	True	False
-Atrial fibrillation	Bladder cell	0.7282608695652174	True	True	False
 Atrial fibrillation	Fibroblast of lung	0.9606625258799172	True	True	False
-Major depressive disorder	Pancreatic B cell	0.9709388971684052	True	True	False
+Atrial fibrillation	Bladder cell	0.7282608695652174	True	True	False
+Atrial fibrillation	Pulmonary interstitial fibroblast	0.82	True	True	False
+Major depressive disorder	Pancreatic A cell	0.9539347408829176	True	True	False
+Major depressive disorder	Pancreatic B cell	0.9523099850968704	True	True	False
 Major depressive disorder	Pancreatic D cell	0.9476439790575916	True	True	False
 Major depressive disorder	Pancreatic PP cell	0.9859154929577464	True	True	False
-Major depressive disorder	Pancreatic A cell	0.9539347408829176	True	True	False
-Verbal numeric reasoning	Oligodendrocyte	0.9933142311365808	True	True	False
-Verbal numeric reasoning	Pancreatic PP cell	0.9859154929577464	True	True	False
+Verbal numeric reasoning	Oligodendrocyte	0.9823304680038204	True	True	False
 Verbal numeric reasoning	Pancreatic A cell	0.9539347408829176	True	True	False
+Verbal numeric reasoning	Pancreatic PP cell	0.9859154929577464	True	True	False
 Standing height	Basal cell	0.9873772791023844	True	True	False
 Standing height	Immature B cell	0.8166383701188455	True	True	False
 Standing height	Keratinocyte stem cell	0.7428571428571429	True	True	False
@@ -98,56 +100,58 @@ Standing height	Smooth muscle cell of the pulmonary artery	0.6396396396396397	Tr
 Standing height	Vein endothelial cell	0.4473684210526316	True	True	False
 Standing height	Granulocyte monocyte progenitor cell	0.704	True	True	False
 Standing height	Late pro-B cell	0.7177615571776156	True	True	False
-Standing height	Smooth muscle cell	0.8058252427184466	True	True	False
-Standing height	Mesenchymal stem cell	0.7697690692792163	True	True	False
-Age at menarche	Pancreatic B cell	0.9709388971684052	True	True	False
+Standing height	Mesenchymal stem cell	0.7648705388383485	True	True	False
+Standing height	Smooth muscle cell	0.7475728155339806	True	True	False
+Age at menarche	Neuronal stem cell	0.7731958762886598	True	True	False
+Age at menarche	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
+Age at menarche	Pancreatic A cell	0.9539347408829176	True	True	False
+Age at menarche	Pancreatic B cell	0.9523099850968704	True	True	False
 Age at menarche	Pancreatic D cell	0.9476439790575916	True	True	False
 Age at menarche	Pancreatic PP cell	0.9859154929577464	True	True	False
-Age at menarche	Pancreatic A cell	0.9539347408829176	True	True	False
-Age at menarche	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
-Age at menarche	Neuronal stem cell	0.7731958762886598	True	True	False
 Ulcerative colitis	Immature B cell	0.8166383701188455	True	True	False
-Ulcerative colitis	Mature alpha-beta T cell	0.5757575757575758	True	True	False
 Ulcerative colitis	Intestinal crypt stem cell	0.8777707409753008	True	True	False
+Ulcerative colitis	Mature alpha-beta T cell	0.5757575757575758	True	True	False
+Ulcerative colitis	Naive B cell	0.7948631294356201	True	True	False
 Ulcerative colitis	CD8-positive, alpha-beta T cell	0.8	True	True	False
-Ulcerative colitis	Naive B cell	0.8039878337276107	True	True	False
 Ulcerative colitis	NK cell	0.8244013683010262	True	True	False
 Ulcerative colitis	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Ulcerative colitis	Proerythroblast	0.205607476635514	True	True	False
 Ulcerative colitis	Mature NK T cell	0.5979899497487438	True	True	False
 Ulcerative colitis	Granulocytopoietic cell	0.8509316770186336	True	True	False
-Ulcerative colitis	Granulocyte	0.9389750505731626	True	True	False
 Ulcerative colitis	Monocyte	0.7205308352849337	True	True	False
+Ulcerative colitis	Granulocyte	0.935603506405934	True	True	False
 Ulcerative colitis	Myeloid dendritic cell	0.7774798927613941	True	True	False
 Ulcerative colitis	Neutrophil	0.3725490196078431	True	True	False
 Balding Type I	Basal cell	0.9602618045815802	True	True	False
+Balding Type I	Immature B cell	0.7555178268251274	True	True	False
 Balding Type I	Keratinocyte stem cell	0.7428571428571429	True	True	False
-Balding Type I	Stromal cell	0.7970588235294118	True	True	False
+Balding Type I	Hematopoietic stem cell	0.5970961887477314	True	True	False
+Balding Type I	Stromal cell	0.7823529411764706	True	True	False
 Celiac disease	Immature B cell	0.8166383701188455	True	True	False
-Celiac disease	B cell	0.8148871913306094	True	True	False
-Celiac disease	Non-classical monocyte	0.7248322147651006	True	True	False
+Celiac disease	B cell	0.8074258305205188	True	True	False
 Celiac disease	Naive B cell	0.7134166948293342	True	True	False
+Celiac disease	Non-classical monocyte	0.7248322147651006	True	True	False
 Celiac disease	Classical monocyte	0.504950495049505	True	True	False
-Celiac disease	Promonocyte	0.5674876847290641	True	True	False
-Celiac disease	Precursor B cell	0.8329439252336449	True	True	False
+Celiac disease	Promonocyte	0.5625615763546798	True	True	False
 Celiac disease	Myeloid leukocyte	0.4210526315789473	True	True	False
+Celiac disease	Precursor B cell	0.8329439252336449	True	True	False
 Hemoglobin A1c	Immature B cell	0.8166383701188455	True	True	False
 Hemoglobin A1c	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Hemoglobin A1c	DN4 thymocyte	0.4094533029612756	True	True	False
-Hemoglobin A1c	Mature alpha-beta T cell	0.4727272727272727	True	True	False
 Hemoglobin A1c	Intestinal crypt stem cell	0.8891703609879671	True	True	False
+Hemoglobin A1c	Mature alpha-beta T cell	0.4727272727272727	True	True	False
 Hemoglobin A1c	Hematopoietic stem cell	0.941016333938294	True	True	False
 Hemoglobin A1c	Valve cell	0.9428571428571428	True	True	False
-Hemoglobin A1c	Macrophage	0.3044544340008173	True	True	False
-Hemoglobin A1c	Naive B cell	0.6873943899966205	True	True	False
+Hemoglobin A1c	Macrophage	0.296689824274622	True	True	False
+Hemoglobin A1c	Naive B cell	0.67826968570463	True	True	False
 Hemoglobin A1c	Classical monocyte	0.504950495049505	True	True	False
-Hemoglobin A1c	Promonocyte	0.7812807881773399	True	True	False
+Hemoglobin A1c	Promonocyte	0.7763546798029557	True	True	False
 Hemoglobin A1c	Myeloid leukocyte	0.4976076555023923	True	True	False
 Hemoglobin A1c	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Hemoglobin A1c	Secretory cell	0.8543516873889876	True	True	False
 Hemoglobin A1c	Late pro-B cell	0.7177615571776156	True	True	False
 Hemoglobin A1c	Granulocytopoietic cell	0.8364389233954451	True	True	False
-General intelligence	Oligodendrocyte	0.9933142311365808	True	True	False
+General intelligence	Oligodendrocyte	0.9823304680038204	True	True	False
 General intelligence	Pancreatic PP cell	0.9859154929577464	True	True	False
 Heel bone mineral density T score	Basal cell	0.9532491818606824	True	True	False
 Heel bone mineral density T score	Valve cell	0.9428571428571428	True	True	False
@@ -158,47 +162,45 @@ Heel bone mineral density T score	Smooth muscle cell of the pulmonary artery	0.6
 Heel bone mineral density T score	Vein endothelial cell	0.4473684210526316	True	True	False
 Heel bone mineral density T score	Endocardial cell	0.808	True	True	False
 Heel bone mineral density T score	Brain pericyte	0.7128099173553719	True	True	False
-Heel bone mineral density T score	Smooth muscle cell	0.8058252427184466	True	True	False
+Heel bone mineral density T score	Smooth muscle cell	0.7475728155339806	True	True	False
 Red blood cell count	Immature B cell	0.8166383701188455	True	True	False
 Red blood cell count	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Red blood cell count	DN4 thymocyte	0.5962414578587699	True	True	False
-Red blood cell count	Mature alpha-beta T cell	0.406060606060606	True	True	False
 Red blood cell count	Intestinal crypt stem cell	0.9632678910702976	True	True	False
-Red blood cell count	CD4-positive, alpha-beta T cell	0.4247863247863248	True	True	False
+Red blood cell count	Mature alpha-beta T cell	0.406060606060606	True	True	False
+Red blood cell count	CD4-positive, alpha-beta T cell	0.4119658119658119	True	True	False
 Red blood cell count	Capillary endothelial cells	0.8833254605573926	True	True	False
-Red blood cell count	B cell	0.8882572392965002	True	True	False
-Red blood cell count	Non-classical monocyte	0.7248322147651006	True	True	False
-Red blood cell count	Naive B cell	0.8232510983440351	True	True	False
-Red blood cell count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
+Red blood cell count	B cell	0.879197015455676	True	True	False
 Red blood cell count	Fenestrated cell	0.9589552238805972	True	True	False
+Red blood cell count	Naive B cell	0.8141263940520446	True	True	False
+Red blood cell count	Non-classical monocyte	0.7248322147651006	True	True	False
+Red blood cell count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 Red blood cell count	Classical monocyte	0.504950495049505	True	True	False
 Red blood cell count	Vein endothelial cell	0.7828947368421053	True	True	False
 Red blood cell count	Promonocyte	0.7467980295566502	True	True	False
-Red blood cell count	Precursor B cell	0.9042056074766356	True	True	False
 Red blood cell count	Myeloid leukocyte	0.4976076555023923	True	True	False
+Red blood cell count	Precursor B cell	0.9042056074766356	True	True	False
 Red blood cell count	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Red blood cell count	Secretory cell	0.6145648312611013	True	True	False
-Red blood cell count	Proerythroblast	0.4766355140186916	True	True	False
 Red blood cell count	Pancreatic ductal cell	0.7699680511182109	True	True	False
 Red blood cell count	Endothelial cell of coronary artery	0.6815144766146993	True	True	False
-Red blood cell count	Pulmonary interstitial fibroblast	0.82	True	True	False
+Red blood cell count	Proerythroblast	0.4205607476635514	True	True	False
 Red blood cell count	Granulocytopoietic cell	0.6873706004140787	True	True	False
+Red blood cell count	Pulmonary interstitial fibroblast	0.82	True	True	False
 Attention deficit hyperactivity disorder	Fenestrated cell	0.7089552238805971	True	True	False
-Attention deficit hyperactivity disorder	Pancreatic PP cell	0.9859154929577464	True	True	False
-Attention deficit hyperactivity disorder	Pancreatic A cell	0.9539347408829176	True	True	False
 Attention deficit hyperactivity disorder	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
-Attention deficit hyperactivity disorder	Neuronal stem cell	0.7731958762886598	True	True	False
+Attention deficit hyperactivity disorder	Pancreatic A cell	0.9539347408829176	True	True	False
+Attention deficit hyperactivity disorder	Pancreatic PP cell	0.9859154929577464	True	True	False
 Sex hormone binding globulin	Immature B cell	0.8166383701188455	True	True	False
 Sex hormone binding globulin	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Sex hormone binding globulin	DN4 thymocyte	0.5506833712984055	True	True	False
-Sex hormone binding globulin	Mature alpha-beta T cell	0.4909090909090909	True	True	False
 Sex hormone binding globulin	Intestinal crypt stem cell	0.9240025332488916	True	True	False
+Sex hormone binding globulin	Mature alpha-beta T cell	0.4909090909090909	True	True	False
 Sex hormone binding globulin	Hematopoietic stem cell	0.941016333938294	True	True	False
 Sex hormone binding globulin	Respiratory basal cell	0.8823529411764706	True	True	False
 Sex hormone binding globulin	Non-classical monocyte	0.7248322147651006	True	True	False
 Sex hormone binding globulin	Classical monocyte	0.504950495049505	True	True	False
 Sex hormone binding globulin	Promonocyte	0.7369458128078817	True	True	False
-Sex hormone binding globulin	Myeloid leukocyte	0.4976076555023923	True	True	False
 Sex hormone binding globulin	Granulocyte monocyte progenitor cell	0.704	True	True	False
 Sex hormone binding globulin	Secretory cell	0.8543516873889876	True	True	False
 Sex hormone binding globulin	Late pro-B cell	0.9124087591240876	True	True	False
@@ -206,20 +208,20 @@ Sex hormone binding globulin	Hepatocyte	0.8932874354561101	True	True	False
 Mean corpuscular hemoglobin	Basal cell of epidermis	0.6440436639772188	True	True	False
 Mean corpuscular hemoglobin	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Mean corpuscular hemoglobin	Intestinal crypt stem cell	0.9632678910702976	True	True	False
-Mean corpuscular hemoglobin	CD4-positive, alpha-beta T cell	0.6136752136752137	True	True	False
+Mean corpuscular hemoglobin	CD4-positive, alpha-beta T cell	0.6008547008547008	True	True	False
+Mean corpuscular hemoglobin	Fenestrated cell	0.8507462686567164	True	True	False
 Mean corpuscular hemoglobin	CD8-positive, alpha-beta T cell	0.7728971962616823	True	True	False
 Mean corpuscular hemoglobin	NK cell	0.6887115165336374	True	True	False
-Mean corpuscular hemoglobin	Fenestrated cell	0.8507462686567164	True	True	False
 Mean corpuscular hemoglobin	Classical monocyte	0.504950495049505	True	True	False
-Mean corpuscular hemoglobin	Promonocyte	0.8246305418719212	True	True	False
+Mean corpuscular hemoglobin	Promonocyte	0.819704433497537	True	True	False
 Mean corpuscular hemoglobin	Myeloid leukocyte	0.4210526315789473	True	True	False
 Mean corpuscular hemoglobin	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Mean corpuscular hemoglobin	Secretory cell	0.8543516873889876	True	True	False
 Mean corpuscular hemoglobin	Mature NK T cell	0.5175879396984925	True	True	False
 Mean corpuscular hemoglobin	Leukocyte	0.3037974683544304	True	True	False
 Mean corpuscular hemoglobin	Granulocytopoietic cell	0.8509316770186336	True	True	False
-Mean corpuscular hemoglobin	Granulocyte	0.8536749831422792	True	True	False
 Mean corpuscular hemoglobin	Monocyte	0.5831381733021077	True	True	False
+Mean corpuscular hemoglobin	Granulocyte	0.8503034389750506	True	True	False
 Mean corpuscular hemoglobin	Myeloid dendritic cell	0.2627345844504021	True	True	False
 Triglycerides	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Triglycerides	Intestinal crypt stem cell	0.8879037365421153	True	True	False
@@ -229,34 +231,35 @@ Triglycerides	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True
 Triglycerides	Myeloid leukocyte	0.4976076555023923	True	True	False
 Triglycerides	Granulocyte monocyte progenitor cell	0.704	True	True	False
 Triglycerides	Kupffer cell	0.9694656488549618	True	True	False
-Triglycerides	Endocardial cell	0.992	True	True	False
-Triglycerides	Bladder cell	0.9486166007905138	True	True	False
-Triglycerides	Endothelial cell of hepatic sinusoid	0.9675850891410048	True	True	False
 Triglycerides	Hepatocyte	0.9802065404475044	True	True	False
-Bipolar disorder	Oligodendrocyte	0.9933142311365808	True	True	False
-Bipolar disorder	Pancreatic B cell	0.9709388971684052	True	True	False
+Triglycerides	Endocardial cell	0.9546666666666668	True	True	False
+Triglycerides	Endothelial cell of hepatic sinusoid	0.9448946515397084	True	True	False
+Triglycerides	Bladder cell	0.9486166007905138	True	True	False
+Triglycerides	Brain pericyte	0.7128099173553719	True	True	False
+Bipolar disorder	Oligodendrocyte	0.9823304680038204	True	True	False
+Bipolar disorder	Pancreatic A cell	0.9539347408829176	True	True	False
+Bipolar disorder	Pancreatic B cell	0.9523099850968704	True	True	False
 Bipolar disorder	Pancreatic D cell	0.9476439790575916	True	True	False
 Bipolar disorder	Pancreatic PP cell	0.9859154929577464	True	True	False
-Bipolar disorder	Pancreatic A cell	0.9539347408829176	True	True	False
-Reaction time	Pancreatic B cell	0.9709388971684052	True	True	False
+Reaction time	Pancreatic A cell	0.9539347408829176	True	True	False
+Reaction time	Pancreatic B cell	0.9523099850968704	True	True	False
 Reaction time	Pancreatic D cell	0.9476439790575916	True	True	False
 Reaction time	Pancreatic PP cell	0.9859154929577464	True	True	False
 Reaction time	Brain pericyte	0.8429752066115702	True	True	False
-Reaction time	Pancreatic A cell	0.9539347408829176	True	True	False
-Total cholesterol	DN4 thymocyte	0.428246013667426	True	True	False
+Total cholesterol	DN4 thymocyte	0.4185649202733485	True	True	False
 Total cholesterol	Intestinal crypt stem cell	0.973400886637112	True	True	False
 Total cholesterol	Hematopoietic stem cell	0.8257713248638838	True	True	False
 Total cholesterol	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 Total cholesterol	Vein endothelial cell	0.4473684210526316	True	True	False
-Total cholesterol	Promonocyte	0.69064039408867	True	True	False
 Total cholesterol	Enterocyte of epithelium of large intestine	0.7037765538945712	True	True	False
-Total cholesterol	Mature NK T cell	0.3266331658291457	True	True	False
+Total cholesterol	Promonocyte	0.69064039408867	True	True	False
 Total cholesterol	Pancreatic ductal cell	0.7699680511182109	True	True	False
-Total cholesterol	Endocardial cell	0.9546666666666668	True	True	False
-Total cholesterol	Endothelial cell of hepatic sinusoid	0.9675850891410048	True	True	False
+Total cholesterol	Mature NK T cell	0.3266331658291457	True	True	False
 Total cholesterol	Large intestine goblet cell	0.8097038437303088	True	True	False
-Number of children ever born	Pancreatic D cell	0.9476439790575916	True	True	False
+Total cholesterol	Endocardial cell	0.9546666666666668	True	True	False
+Total cholesterol	Endothelial cell of hepatic sinusoid	0.9448946515397084	True	True	False
 Number of children ever born	Interneuron	0.6958333333333333	True	True	False
+Number of children ever born	Pancreatic D cell	0.9476439790575916	True	True	False
 Rheumatoid arthritis	Non-classical monocyte	0.7248322147651006	True	True	False
 Rheumatoid arthritis	Classical monocyte	0.504950495049505	True	True	False
 Rheumatoid arthritis	Myeloid leukocyte	0.4210526315789473	True	True	False
@@ -268,53 +271,52 @@ Lung FVC	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Lung FVC	Valve cell	0.9428571428571428	True	True	False
 Lung FVC	Respiratory basal cell	0.8823529411764706	True	True	False
 Lung FVC	Skeletal muscle satellite cell	0.8381651376146789	True	True	False
-Lung FVC	Pancreatic B cell	0.9470938897168404	True	True	False
-Lung FVC	Smooth muscle cell of trachea	0.056	True	True	False
+Lung FVC	Pancreatic B cell	0.9284649776453056	True	True	False
 Systemic lupus erythematosus	Precursor B cell	0.9042056074766356	True	True	False
 Systemic lupus erythematosus	Mature NK T cell	0.5979899497487438	True	True	False
-Systemic lupus erythematosus	Microglial cell	0.96646065722038	True	True	False
+Systemic lupus erythematosus	Microglial cell	0.9660838106722942	True	True	False
 Systemic lupus erythematosus	Monocyte	0.7462919594067136	True	True	False
-Systemic lupus erythematosus	Neutrophil	0.4313725490196078	True	True	False
-Systolic blood pressure	Basal cell	0.844319775596073	True	True	False
+Systemic lupus erythematosus	Neutrophil	0.3725490196078431	True	True	False
+Systolic blood pressure	Basal cell	0.8784478728377747	True	True	False
 Systolic blood pressure	Capillary endothelial cells	0.8384506376948512	True	True	False
-Systolic blood pressure	Mesenchymal stem cell of adipose	0.95710965560955	True	True	False
-Systolic blood pressure	Stromal cell	0.7970588235294118	True	True	False
-Systolic blood pressure	Vein endothelial cell	0.7828947368421053	True	True	False
+Systolic blood pressure	Mesenchymal stem cell of adipose	0.9482357912529052	True	True	False
+Systolic blood pressure	Stromal cell	0.7823529411764706	True	True	False
 Systolic blood pressure	Chondrocyte	0.3163636363636363	True	True	False
+Systolic blood pressure	Vein endothelial cell	0.7828947368421053	True	True	False
 Systolic blood pressure	Pancreatic stellate cell	0.8125	True	True	False
-Systolic blood pressure	Fibroblast	0.7669172932330827	True	True	False
+Systolic blood pressure	Fibroblast	0.7225563909774436	True	True	False
+Systolic blood pressure	Mesenchymal stem cell	0.7382785164450665	True	True	False
+Systolic blood pressure	Fibroblast of cardiac tissue	0.9037187977585328	True	True	False
+Systolic blood pressure	Endothelial cell of hepatic sinusoid	0.7925445705024311	True	True	False
 Systolic blood pressure	Bladder cell	0.9486166007905138	True	True	False
 Systolic blood pressure	Adventitial cell	0.6678200692041523	True	True	False
-Systolic blood pressure	Endothelial cell of hepatic sinusoid	0.7925445705024311	True	True	False
-Systolic blood pressure	Fibroblast of cardiac tissue	0.911360163015792	True	True	False
-Systolic blood pressure	Mesenchymal stem cell	0.7431770468859342	True	True	False
 White blood cell count	Immature B cell	0.8166383701188455	True	True	False
 White blood cell count	Keratinocyte stem cell	0.7428571428571429	True	True	False
 White blood cell count	DN4 thymocyte	0.85250569476082	True	True	False
 White blood cell count	Mature alpha-beta T cell	0.5757575757575758	True	True	False
 White blood cell count	Hematopoietic stem cell	0.941016333938294	True	True	False
 White blood cell count	Valve cell	0.7714285714285715	True	True	False
-White blood cell count	CD4-positive, alpha-beta T cell	0.6675213675213675	True	True	False
+White blood cell count	CD4-positive, alpha-beta T cell	0.6547008547008547	True	True	False
 White blood cell count	Capillary endothelial cells	0.8115257439773264	True	True	False
-White blood cell count	B cell	0.891632616805827	True	True	False
+White blood cell count	B cell	0.8845265588914549	True	True	False
+White blood cell count	Fenestrated cell	0.8507462686567164	True	True	False
+White blood cell count	Naive B cell	0.8513011152416357	True	True	False
+White blood cell count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 White blood cell count	T cell	0.6568848758465011	True	True	False
 White blood cell count	CD8-positive, alpha-beta T cell	0.8	True	True	False
-White blood cell count	Naive B cell	0.8604258195336262	True	True	False
-White blood cell count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 White blood cell count	NK cell	0.806157354618016	True	True	False
-White blood cell count	Fenestrated cell	0.8507462686567164	True	True	False
 White blood cell count	Vein endothelial cell	0.4473684210526316	True	True	False
 White blood cell count	Precursor B cell	0.9042056074766356	True	True	False
 White blood cell count	Granulocyte monocyte progenitor cell	0.784	True	True	False
 White blood cell count	Late pro-B cell	0.9124087591240876	True	True	False
-White blood cell count	Proerythroblast	0.2616822429906542	True	True	False
-White blood cell count	Mature NK T cell	0.5979899497487438	True	True	False
 White blood cell count	Endothelial cell of coronary artery	0.7193763919821826	True	True	False
+White blood cell count	Proerythroblast	0.205607476635514	True	True	False
+White blood cell count	Mature NK T cell	0.5979899497487438	True	True	False
 White blood cell count	Dendritic cell	0.8870967741935484	True	True	False
-White blood cell count	Endothelial cell of hepatic sinusoid	0.8881685575364667	True	True	False
 White blood cell count	Granulocytopoietic cell	0.8509316770186336	True	True	False
 White blood cell count	Monocyte	0.7619047619047619	True	True	False
 White blood cell count	Myeloid dendritic cell	0.7774798927613941	True	True	False
+White blood cell count	Endothelial cell of hepatic sinusoid	0.8654781199351702	True	True	False
 Hypothyroidism	Hematopoietic stem cell	0.9534180278281912	True	True	False
 Hypothyroidism	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Hypothyroidism	Late pro-B cell	0.9124087591240876	True	True	False
@@ -323,80 +325,79 @@ HDL cholesterol	Immature B cell	0.8166383701188455	True	True	False
 HDL cholesterol	Hematopoietic stem cell	0.7903811252268602	True	True	False
 HDL cholesterol	Valve cell	0.9428571428571428	True	True	False
 HDL cholesterol	Capillary endothelial cells	0.8488427019367029	True	True	False
-HDL cholesterol	Non-classical monocyte	0.7248322147651006	True	True	False
-HDL cholesterol	Macrophage	0.3342868818961994	True	True	False
-HDL cholesterol	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
+HDL cholesterol	Macrophage	0.3424601552921945	True	True	False
 HDL cholesterol	Fenestrated cell	0.9589552238805972	True	True	False
+HDL cholesterol	Non-classical monocyte	0.7248322147651006	True	True	False
+HDL cholesterol	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
 HDL cholesterol	Classical monocyte	0.504950495049505	True	True	False
 HDL cholesterol	Vein endothelial cell	0.7828947368421053	True	True	False
-HDL cholesterol	Promonocyte	0.7517241379310344	True	True	False
+HDL cholesterol	Promonocyte	0.7467980295566502	True	True	False
 HDL cholesterol	Granulocyte monocyte progenitor cell	0.704	True	True	False
 HDL cholesterol	Secretory cell	0.822380106571936	True	True	False
-HDL cholesterol	Late pro-B cell	0.5036496350364964	True	True	False
 HDL cholesterol	Pancreatic stellate cell	0.8125	True	True	False
-HDL cholesterol	Endocardial cell	0.992	True	True	False
+HDL cholesterol	Late pro-B cell	0.5036496350364964	True	True	False
+HDL cholesterol	Granulocytopoietic cell	0.6086956521739131	True	True	False
+HDL cholesterol	Monocyte	0.4832162373145979	True	True	False
+HDL cholesterol	Granulocyte	0.4248145650708024	True	True	False
+HDL cholesterol	Endocardial cell	0.9546666666666668	True	True	False
+HDL cholesterol	Endothelial cell of hepatic sinusoid	0.9448946515397084	True	True	False
 HDL cholesterol	Pericyte cell	0.8947368421052632	True	True	False
 HDL cholesterol	Bladder cell	0.9486166007905138	True	True	False
-HDL cholesterol	Endothelial cell of hepatic sinusoid	0.9675850891410048	True	True	False
-HDL cholesterol	Granulocytopoietic cell	0.6086956521739131	True	True	False
-HDL cholesterol	Granulocyte	0.6169925826028321	True	True	False
-HDL cholesterol	Monocyte	0.4832162373145979	True	True	False
 Testosterone male	Keratinocyte stem cell	0.7428571428571429	True	True	False
-Testosterone male	DN4 thymocyte	0.6930523917995444	True	True	False
+Testosterone male	DN4 thymocyte	0.6896355353075171	True	True	False
 Testosterone male	Intestinal crypt stem cell	0.7112096263457884	True	True	False
+Testosterone male	Mature alpha-beta T cell	0.4212121212121212	True	True	False
 Testosterone male	Hematopoietic stem cell	0.7504537205081669	True	True	False
-Testosterone male	CD4-positive, alpha-beta T cell	0.3974358974358974	True	True	False
-Testosterone male	Oligodendrocyte	0.9212034383954156	True	True	False
+Testosterone male	CD4-positive, alpha-beta T cell	0.3846153846153846	True	True	False
+Testosterone male	Oligodendrocyte	0.9102196752626552	True	True	False
 Testosterone male	Granulocyte monocyte progenitor cell	0.704	True	True	False
 Testosterone male	Late pro-B cell	0.7177615571776156	True	True	False
 Testosterone male	Hepatocyte	0.8932874354561101	True	True	False
-College education	Pancreatic B cell	0.9709388971684052	True	True	False
+Testosterone male	Pancreatic B cell	0.9284649776453056	True	True	False
+College education	Pancreatic A cell	0.9539347408829176	True	True	False
+College education	Pancreatic B cell	0.9523099850968704	True	True	False
 College education	Pancreatic D cell	0.9476439790575916	True	True	False
 College education	Pancreatic PP cell	0.9859154929577464	True	True	False
-College education	Pancreatic A cell	0.9539347408829176	True	True	False
 Total bilirubin	Immature B cell	0.8166383701188455	True	True	False
 Total bilirubin	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Total bilirubin	Intestinal crypt stem cell	0.8999366687777074	True	True	False
 Total bilirubin	Hematopoietic stem cell	0.9343617664851784	True	True	False
-Total bilirubin	B cell	0.754308047610588	True	True	False
+Total bilirubin	Macrophage	0.3845525132815692	True	True	False
+Total bilirubin	B cell	0.7468466868004974	True	True	False
+Total bilirubin	Naive B cell	0.6502196688070294	True	True	False
 Total bilirubin	Non-classical monocyte	0.7248322147651006	True	True	False
-Total bilirubin	Macrophage	0.3874131589701675	True	True	False
-Total bilirubin	Naive B cell	0.644136532612369	True	True	False
 Total bilirubin	Smooth muscle cell of the pulmonary artery	0.2342342342342342	True	True	False
 Total bilirubin	Classical monocyte	0.504950495049505	True	True	False
-Total bilirubin	Chondrocyte	0.9309090909090908	True	True	False
-Total bilirubin	Promonocyte	0.7793103448275862	True	True	False
 Total bilirubin	Enterocyte of epithelium of large intestine	0.5491738788355626	True	True	False
+Total bilirubin	Promonocyte	0.774384236453202	True	True	False
 Total bilirubin	Myeloid leukocyte	0.4976076555023923	True	True	False
 Total bilirubin	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Total bilirubin	Secretory cell	0.822380106571936	True	True	False
 Total bilirubin	Late pro-B cell	0.9124087591240876	True	True	False
-Total bilirubin	Proerythroblast	0.2616822429906542	True	True	False
+Total bilirubin	Proerythroblast	0.205607476635514	True	True	False
 Total bilirubin	Kupffer cell	0.6526717557251909	True	True	False
-Total bilirubin	Endothelial cell of hepatic sinusoid	0.4473257698541329	True	True	False
-Total bilirubin	Hepatocyte	0.9802065404475044	True	True	False
 Total bilirubin	Granulocytopoietic cell	0.8364389233954451	True	True	False
-Total bilirubin	Megakaryocyte-erythroid progenitor cell	0.1625	True	True	False
+Total bilirubin	Hepatocyte	0.9802065404475044	True	True	False
 Total bilirubin	Monocyte	0.4449648711943794	True	True	False
-Total bilirubin	Neutrophil	0.326797385620915	True	True	False
-Fasting glucose	Pancreatic B cell	0.9470938897168404	True	True	False
+Total bilirubin	Neutrophil	0.2679738562091503	True	True	False
+Fasting glucose	Pancreatic B cell	0.9284649776453056	True	True	False
 Breast cancer	Intestinal crypt stem cell	0.92273590880304	True	True	False
-Neuroticism	Pulmonary interstitial fibroblast	0.82	True	True	False
+Neuroticism	Pancreatic A cell	0.9539347408829176	True	True	False
 Neuroticism	Pancreatic D cell	0.9476439790575916	True	True	False
 Neuroticism	Pancreatic PP cell	0.9859154929577464	True	True	False
-Neuroticism	Pancreatic A cell	0.9539347408829176	True	True	False
+Neuroticism	Pulmonary interstitial fibroblast	0.82	True	True	False
 Primary biliary cirrhosis	Hematopoietic stem cell	0.557773744706594	True	True	False
-Primary biliary cirrhosis	Granulocyte	0.8668240053944707	True	True	False
-Primary biliary cirrhosis	Neutrophil	0.4313725490196078	True	True	False
-Subjective well being	Fibroblast	0.6977443609022557	True	True	False
-Subjective well being	Pancreatic B cell	0.9709388971684052	True	True	False
-Subjective well being	Pancreatic D cell	0.9476439790575916	True	True	False
+Primary biliary cirrhosis	Granulocyte	0.8634524612272421	True	True	False
+Primary biliary cirrhosis	Neutrophil	0.3725490196078431	True	True	False
+Subjective well being	Fibroblast	0.6639097744360902	True	True	False
 Subjective well being	Pancreatic A cell	0.9539347408829176	True	True	False
+Subjective well being	Pancreatic B cell	0.9523099850968704	True	True	False
+Subjective well being	Pancreatic D cell	0.9476439790575916	True	True	False
 Subjective well being	Adventitial cell	0.5778546712802768	True	True	False
-Sleep duration	Pancreatic B cell	0.9709388971684052	True	True	False
+Sleep duration	Pancreatic A cell	0.9539347408829176	True	True	False
+Sleep duration	Pancreatic B cell	0.9523099850968704	True	True	False
 Sleep duration	Pancreatic D cell	0.9476439790575916	True	True	False
 Sleep duration	Pancreatic PP cell	0.9859154929577464	True	True	False
-Sleep duration	Pancreatic A cell	0.9539347408829176	True	True	False
 Eczema	Basal cell of epidermis	0.3165638348362601	True	True	False
 Eczema	Keratinocyte	0.4238683127572016	True	True	False
 Eczema	Epidermal cell	0.8048780487804879	True	True	False
@@ -404,67 +405,67 @@ Eczema	Basal cell	0.740065451145395	True	True	False
 Eczema	Immature B cell	0.8166383701188455	True	True	False
 Eczema	Respiratory basal cell	0.8823529411764706	True	True	False
 Eczema	Classical monocyte	0.504950495049505	True	True	False
-Eczema	Granulocyte	0.899527983816588	True	True	False
 Eczema	Monocyte	0.7619047619047619	True	True	False
-Smoking status	Oligodendrocyte	0.9933142311365808	True	True	False
+Eczema	Granulocyte	0.8961564396493594	True	True	False
+Smoking status	Oligodendrocyte	0.9823304680038204	True	True	False
+Smoking status	Pancreatic A cell	0.9539347408829176	True	True	False
 Smoking status	Pancreatic D cell	0.9476439790575916	True	True	False
 Smoking status	Pancreatic PP cell	0.9859154929577464	True	True	False
 Smoking status	Bladder cell	0.9644268774703556	True	True	False
-Smoking status	Pancreatic A cell	0.9539347408829176	True	True	False
-Total protein	DN4 thymocyte	0.85250569476082	True	True	False
+Total protein	DN4 thymocyte	0.8394077448747153	True	True	False
 Total protein	Hematopoietic stem cell	0.9352692075015124	True	True	False
 Total protein	Valve cell	0.9428571428571428	True	True	False
 Total protein	Capillary endothelial cells	0.9272555503070382	True	True	False
-Total protein	CD8-positive, alpha-beta T cell	0.7728971962616823	True	True	False
-Total protein	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
-Total protein	NK cell	0.8244013683010262	True	True	False
 Total protein	Fenestrated cell	0.8507462686567164	True	True	False
+Total protein	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
+Total protein	CD8-positive, alpha-beta T cell	0.7728971962616823	True	True	False
+Total protein	NK cell	0.8244013683010262	True	True	False
 Total protein	Vein endothelial cell	0.7828947368421053	True	True	False
 Total protein	Granulocyte monocyte progenitor cell	0.704	True	True	False
 Total protein	Late pro-B cell	0.9124087591240876	True	True	False
-Total protein	Mature NK T cell	0.5979899497487438	True	True	False
 Total protein	Endothelial cell of coronary artery	0.75909428359317	True	True	False
+Total protein	Mature NK T cell	0.5979899497487438	True	True	False
 Total protein	Dendritic cell	0.8870967741935484	True	True	False
+Total protein	Granulocytopoietic cell	0.7577639751552795	True	True	False
+Total protein	Microglial cell	0.9632951462164606	True	True	False
+Total protein	Granulocyte	0.7693863789615644	True	True	False
+Total protein	Neutrophil	0.2745098039215686	True	True	False
 Total protein	Endocardial cell	0.808	True	True	False
 Total protein	Basophil	0.9014084507042254	True	True	False
-Total protein	Granulocytopoietic cell	0.7577639751552795	True	True	False
-Total protein	Granulocyte	0.7818610923803102	True	True	False
-Total protein	Microglial cell	0.9636719927645464	True	True	False
 Respiratory ENT	Immature B cell	0.8166383701188455	True	True	False
 Respiratory ENT	Hematopoietic stem cell	0.5084694494857834	True	True	False
 Respiratory ENT	Non-classical monocyte	0.7248322147651006	True	True	False
 Respiratory ENT	Classical monocyte	0.504950495049505	True	True	False
-Respiratory ENT	Promonocyte	0.6305418719211823	True	True	False
-Respiratory ENT	Precursor B cell	0.9042056074766356	True	True	False
+Respiratory ENT	Promonocyte	0.625615763546798	True	True	False
 Respiratory ENT	Myeloid leukocyte	0.4210526315789473	True	True	False
-Respiratory ENT	Pulmonary interstitial fibroblast	0.82	True	True	False
-Respiratory ENT	Pericyte cell	0.8947368421052632	True	True	False
-Respiratory ENT	Bladder cell	0.5029644268774703	True	True	False
+Respiratory ENT	Precursor B cell	0.9042056074766356	True	True	False
 Respiratory ENT	Leukocyte	0.3037974683544304	True	True	False
 Respiratory ENT	Monocyte	0.697111631537861	True	True	False
 Respiratory ENT	Myeloid dendritic cell	0.2627345844504021	True	True	False
+Respiratory ENT	Pericyte cell	0.8947368421052632	True	True	False
+Respiratory ENT	Pulmonary interstitial fibroblast	0.82	True	True	False
+Years of education	Pancreatic A cell	0.9539347408829176	True	True	False
 Years of education	Pancreatic D cell	0.9476439790575916	True	True	False
 Years of education	Pancreatic PP cell	0.9859154929577464	True	True	False
-Years of education	Pancreatic A cell	0.9539347408829176	True	True	False
-Autism spectrum disorder	Pancreatic B cell	0.9470938897168404	True	True	False
-Autism spectrum disorder	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
 Autism spectrum disorder	Neuronal stem cell	0.2783505154639175	True	True	False
+Autism spectrum disorder	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
+Autism spectrum disorder	Pancreatic B cell	0.9284649776453056	True	True	False
 Red blood cell distribution width	Basal cell of epidermis	0.5968201233981965	True	True	False
-Red blood cell distribution width	Bladder urothelial cell	0.423943661971831	True	True	False
+Red blood cell distribution width	Bladder urothelial cell	0.5253521126760563	True	True	False
 Red blood cell distribution width	Immature B cell	0.8166383701188455	True	True	False
 Red blood cell distribution width	Keratinocyte stem cell	0.7428571428571429	True	True	False
-Red blood cell distribution width	DN4 thymocyte	0.7494305239179955	True	True	False
-Red blood cell distribution width	Mature alpha-beta T cell	0.4909090909090909	True	True	False
+Red blood cell distribution width	DN4 thymocyte	0.7363325740318907	True	True	False
 Red blood cell distribution width	Intestinal crypt stem cell	0.973400886637112	True	True	False
-Red blood cell distribution width	CD4-positive, alpha-beta T cell	0.4401709401709401	True	True	False
-Red blood cell distribution width	B cell	0.8013856812933026	True	True	False
-Red blood cell distribution width	CD8-positive, alpha-beta T cell	0.6476635514018692	True	True	False
-Red blood cell distribution width	Macrophage	0.5136902329382917	True	True	False
+Red blood cell distribution width	Mature alpha-beta T cell	0.4909090909090909	True	True	False
+Red blood cell distribution width	CD4-positive, alpha-beta T cell	0.4273504273504273	True	True	False
+Red blood cell distribution width	Macrophage	0.5083776052308949	True	True	False
+Red blood cell distribution width	B cell	0.7976550008882572	True	True	False
 Red blood cell distribution width	Naive B cell	0.7461980398783373	True	True	False
+Red blood cell distribution width	CD8-positive, alpha-beta T cell	0.6476635514018692	True	True	False
 Red blood cell distribution width	NK cell	0.4857468643101482	True	True	False
 Red blood cell distribution width	Classical monocyte	0.504950495049505	True	True	False
-Red blood cell distribution width	Promonocyte	0.8246305418719212	True	True	False
 Red blood cell distribution width	Enterocyte of epithelium of large intestine	0.6081825334382376	True	True	False
+Red blood cell distribution width	Promonocyte	0.819704433497537	True	True	False
 Red blood cell distribution width	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Red blood cell distribution width	Secretory cell	0.8543516873889876	True	True	False
 Red blood cell distribution width	Late pro-B cell	0.9124087591240876	True	True	False
@@ -472,221 +473,219 @@ Red blood cell distribution width	Mature NK T cell	0.3467336683417085	True	True	
 Red blood cell distribution width	Large intestine goblet cell	0.6647763074984246	True	True	False
 Red blood cell distribution width	Leukocyte	0.3037974683544304	True	True	False
 Red blood cell distribution width	Granulocytopoietic cell	0.8509316770186336	True	True	False
-Red blood cell distribution width	Granulocyte	0.9389750505731626	True	True	False
 Red blood cell distribution width	Monocyte	0.5597189695550351	True	True	False
+Red blood cell distribution width	Granulocyte	0.935603506405934	True	True	False
 Red blood cell distribution width	Myeloid dendritic cell	0.2627345844504021	True	True	False
 Coronary atherosclerosis	Basal cell	0.8630201028517999	True	True	False
 Coronary atherosclerosis	Hematopoietic stem cell	0.8182093163944344	True	True	False
 Coronary atherosclerosis	Capillary endothelial cells	0.7401983939537081	True	True	False
-Coronary atherosclerosis	Mesenchymal stem cell of adipose	0.8301288823156561	True	True	False
-Coronary atherosclerosis	Stromal cell	0.4764705882352941	True	True	False
-Coronary atherosclerosis	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
+Coronary atherosclerosis	Mesenchymal stem cell of adipose	0.8231565603211494	True	True	False
+Coronary atherosclerosis	Stromal cell	0.4617647058823529	True	True	False
 Coronary atherosclerosis	Fenestrated cell	0.9589552238805972	True	True	False
+Coronary atherosclerosis	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 Coronary atherosclerosis	Pancreatic stellate cell	0.8125	True	True	False
-Coronary atherosclerosis	Fibroblast	0.5203007518796993	True	True	False
+Coronary atherosclerosis	Fibroblast	0.4090225563909774	True	True	False
+Coronary atherosclerosis	Fibroblast of cardiac tissue	0.8604177279673968	True	True	False
+Coronary atherosclerosis	Endothelial cell of hepatic sinusoid	0.8654781199351702	True	True	False
 Coronary atherosclerosis	Bladder cell	0.7845849802371542	True	True	False
-Coronary atherosclerosis	Endothelial cell of hepatic sinusoid	0.8881685575364667	True	True	False
-Coronary atherosclerosis	Fibroblast of cardiac tissue	0.8680590932246561	True	True	False
 Vitamin D	Basal cell of epidermis	0.963217845277646	True	True	False
-Vitamin D	Keratinocyte	0.8905349794238683	True	True	False
+Vitamin D	Keratinocyte	0.854320987654321	True	True	False
 Vitamin D	Bulge keratinocyte	0.9608294930875576	True	True	False
 Vitamin D	Epidermal cell	0.8048780487804879	True	True	False
 Vitamin D	Keratinocyte stem cell	0.7428571428571429	True	True	False
 Vitamin D	Hepatocyte	0.9802065404475044	True	True	False
 Neutrophil count	Basal cell of epidermis	0.4653535832937826	True	True	False
 Neutrophil count	Keratinocyte stem cell	0.7428571428571429	True	True	False
-Neutrophil count	DN4 thymocyte	0.7739179954441914	True	True	False
+Neutrophil count	DN4 thymocyte	0.770501138952164	True	True	False
 Neutrophil count	Intestinal crypt stem cell	0.4534515516149461	True	True	False
-Neutrophil count	CD4-positive, alpha-beta T cell	0.4700854700854701	True	True	False
+Neutrophil count	CD4-positive, alpha-beta T cell	0.4572649572649572	True	True	False
 Neutrophil count	Capillary endothelial cells	0.9017477562588568	True	True	False
-Neutrophil count	T cell	0.581640331075997	True	True	False
-Neutrophil count	CD8-positive, alpha-beta T cell	0.7485981308411215	True	True	False
-Neutrophil count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
-Neutrophil count	NK cell	0.7240592930444698	True	True	False
 Neutrophil count	Fenestrated cell	0.4888059701492537	True	True	False
+Neutrophil count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
+Neutrophil count	T cell	0.509405568096313	True	True	False
+Neutrophil count	CD8-positive, alpha-beta T cell	0.7485981308411215	True	True	False
+Neutrophil count	NK cell	0.7240592930444698	True	True	False
 Neutrophil count	Vein endothelial cell	0.4473684210526316	True	True	False
 Neutrophil count	Precursor B cell	0.9042056074766356	True	True	False
 Neutrophil count	Mature NK T cell	0.5979899497487438	True	True	False
 Neutrophil count	Kupffer cell	0.1946564885496183	True	True	False
-Neutrophil count	Endothelial cell of hepatic sinusoid	0.8881685575364667	True	True	False
-Neutrophil count	Megakaryocyte-erythroid progenitor cell	0.625	True	True	False
-Neutrophil count	Microglial cell	0.9670636116973168	True	True	False
+Neutrophil count	Megakaryocyte-erythroid progenitor cell	0.4625	True	True	False
+Neutrophil count	Microglial cell	0.9660838106722942	True	True	False
+Neutrophil count	Endothelial cell of hepatic sinusoid	0.8654781199351702	True	True	False
 Drinks per week	Bergmann glial cell	0.9814814814814816	True	True	False
 Drinks per week	Astrocyte	0.9628378378378378	True	True	False
 Age at menopause	Bladder urothelial cell	0.952112676056338	True	True	False
 Age at menopause	Keratinocyte stem cell	0.7428571428571429	True	True	False
-Age at menopause	DN4 thymocyte	0.5848519362186788	True	True	False
-Age at menopause	Mature alpha-beta T cell	0.403030303030303	True	True	False
+Age at menopause	DN4 thymocyte	0.5814350797266514	True	True	False
 Age at menopause	Intestinal crypt stem cell	0.6111462951234958	True	True	False
+Age at menopause	Mature alpha-beta T cell	0.403030303030303	True	True	False
 Age at menopause	CD8-positive, alpha-beta T cell	0.2934579439252336	True	True	False
 Age at menopause	Promonocyte	0.5201970443349754	True	True	False
 Age at menopause	Precursor B cell	0.7429906542056075	True	True	False
 Age at menopause	Granulocyte monocyte progenitor cell	0.784	True	True	False
-Age at menopause	Proerythroblast	0.0560747663551401	True	True	False
 Age at menopause	Granulocytopoietic cell	0.6873706004140787	True	True	False
-Age at menopause	Megakaryocyte-erythroid progenitor cell	0.1625	True	True	False
 Platelet count	Immature B cell	0.8166383701188455	True	True	False
-Platelet count	Luminal epithelial cell of mammary gland	0.0	True	True	False
-Platelet count	DN4 thymocyte	0.7767653758542141	True	True	False
-Platelet count	Mature alpha-beta T cell	0.5151515151515151	True	True	False
+Platelet count	DN4 thymocyte	0.7636674259681093	True	True	False
 Platelet count	Intestinal crypt stem cell	0.7897403419886003	True	True	False
+Platelet count	Mature alpha-beta T cell	0.5151515151515151	True	True	False
 Platelet count	Hematopoietic stem cell	0.941016333938294	True	True	False
 Platelet count	Valve cell	0.9428571428571428	True	True	False
-Platelet count	CD4-positive, alpha-beta T cell	0.5495726495726496	True	True	False
+Platelet count	CD4-positive, alpha-beta T cell	0.5367521367521367	True	True	False
 Platelet count	Capillary endothelial cells	0.9272555503070382	True	True	False
-Platelet count	B cell	0.8417125599573636	True	True	False
+Platelet count	Macrophage	0.5807110747854516	True	True	False
+Platelet count	B cell	0.8363830165215846	True	True	False
+Platelet count	Fenestrated cell	0.9589552238805972	True	True	False
+Platelet count	Naive B cell	0.7654613044947618	True	True	False
 Platelet count	Non-classical monocyte	0.7248322147651006	True	True	False
+Platelet count	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
 Platelet count	T cell	0.382242287434161	True	True	False
 Platelet count	CD8-positive, alpha-beta T cell	0.7579439252336448	True	True	False
-Platelet count	Macrophage	0.5958316305680424	True	True	False
-Platelet count	Naive B cell	0.7745860087867523	True	True	False
-Platelet count	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
 Platelet count	NK cell	0.5860889395667047	True	True	False
-Platelet count	Fenestrated cell	0.9589552238805972	True	True	False
 Platelet count	Classical monocyte	0.504950495049505	True	True	False
 Platelet count	Vein endothelial cell	0.7828947368421053	True	True	False
-Platelet count	Promonocyte	0.8167487684729065	True	True	False
+Platelet count	Promonocyte	0.8118226600985222	True	True	False
 Platelet count	Myeloid leukocyte	0.4976076555023923	True	True	False
 Platelet count	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Platelet count	Secretory cell	0.5417406749555951	True	True	False
 Platelet count	Late pro-B cell	0.7177615571776156	True	True	False
-Platelet count	Proerythroblast	0.4766355140186916	True	True	False
-Platelet count	Mature NK T cell	0.5979899497487438	True	True	False
 Platelet count	Endothelial cell of coronary artery	0.7806236080178174	True	True	False
+Platelet count	Proerythroblast	0.4205607476635514	True	True	False
+Platelet count	Mature NK T cell	0.5979899497487438	True	True	False
 Platelet count	Dendritic cell	0.6612903225806451	True	True	False
 Platelet count	Kupffer cell	0.5572519083969466	True	True	False
-Platelet count	Bladder cell	0.3023715415019762	True	True	False
-Platelet count	Endothelial cell of hepatic sinusoid	0.8881685575364667	True	True	False
 Platelet count	Leukocyte	0.3037974683544304	True	True	False
 Platelet count	Granulocytopoietic cell	0.8364389233954451	True	True	False
-Platelet count	Granulocyte	0.8651382333108564	True	True	False
-Platelet count	Megakaryocyte-erythroid progenitor cell	0.625	True	True	False
+Platelet count	Megakaryocyte-erythroid progenitor cell	0.4625	True	True	False
 Platelet count	Monocyte	0.7462919594067136	True	True	False
+Platelet count	Granulocyte	0.8617666891436278	True	True	False
 Platelet count	Myeloid dendritic cell	0.7774798927613941	True	True	False
-Platelet count	Neutrophil	0.3333333333333333	True	True	False
+Platelet count	Neutrophil	0.2745098039215686	True	True	False
+Platelet count	Endothelial cell of hepatic sinusoid	0.8654781199351702	True	True	False
+Platelet count	Bladder cell	0.3023715415019762	True	True	False
 Alkaline phosphatase	Bladder urothelial cell	0.7429577464788732	True	True	False
 Alkaline phosphatase	Immature B cell	0.7385398981324278	True	True	False
 Alkaline phosphatase	Intestinal crypt stem cell	0.973400886637112	True	True	False
 Alkaline phosphatase	Hematopoietic stem cell	0.691470054446461	True	True	False
 Alkaline phosphatase	Valve cell	0.6730158730158731	True	True	False
+Alkaline phosphatase	Macrophage	0.5271761340416837	True	True	False
+Alkaline phosphatase	Naive B cell	0.6563028050016898	True	True	False
 Alkaline phosphatase	Non-classical monocyte	0.7248322147651006	True	True	False
-Alkaline phosphatase	Macrophage	0.5373927257866775	True	True	False
-Alkaline phosphatase	Naive B cell	0.6316323082122338	True	True	False
-Alkaline phosphatase	Promonocyte	0.8492610837438423	True	True	False
+Alkaline phosphatase	Promonocyte	0.8443349753694581	True	True	False
 Alkaline phosphatase	Granulocyte monocyte progenitor cell	0.704	True	True	False
 Alkaline phosphatase	Secretory cell	0.8543516873889876	True	True	False
 Alkaline phosphatase	Pancreatic ductal cell	0.7699680511182109	True	True	False
 Alkaline phosphatase	Kupffer cell	0.9694656488549618	True	True	False
-Alkaline phosphatase	Endothelial cell of hepatic sinusoid	0.9675850891410048	True	True	False
 Alkaline phosphatase	Large intestine goblet cell	0.7662255828607435	True	True	False
 Alkaline phosphatase	Leukocyte	0.3037974683544304	True	True	False
-Alkaline phosphatase	Granulocyte	0.0	True	True	False
-Alkaline phosphatase	Microglial cell	0.9601296352125416	True	True	False
+Alkaline phosphatase	Microglial cell	0.9597527886644558	True	True	False
 Alkaline phosphatase	Monocyte	0.7619047619047619	True	True	False
-Alkaline phosphatase	Neutrophil	0.4313725490196078	True	True	False
-Worry	Oligodendrocyte	0.9933142311365808	True	True	False
-Worry	Pulmonary interstitial fibroblast	0.82	True	True	False
-Worry	Pancreatic B cell	0.9709388971684052	True	True	False
+Alkaline phosphatase	Granulocyte	0.0	True	True	False
+Alkaline phosphatase	Neutrophil	0.3725490196078431	True	True	False
+Alkaline phosphatase	Endothelial cell of hepatic sinusoid	0.9448946515397084	True	True	False
+Worry	Oligodendrocyte	0.9823304680038204	True	True	False
+Worry	Pancreatic A cell	0.9539347408829176	True	True	False
+Worry	Pancreatic B cell	0.9523099850968704	True	True	False
 Worry	Pancreatic D cell	0.9476439790575916	True	True	False
 Worry	Pancreatic PP cell	0.9859154929577464	True	True	False
-Worry	Pancreatic A cell	0.9539347408829176	True	True	False
-Insomnia	Pancreatic B cell	0.9709388971684052	True	True	False
+Worry	Pulmonary interstitial fibroblast	0.82	True	True	False
 Insomnia	Pancreatic A cell	0.9385796545105566	True	True	False
+Insomnia	Pancreatic B cell	0.9523099850968704	True	True	False
 Schizophrenia	Immature B cell	0.5874363327674024	True	True	False
-Schizophrenia	Pulmonary interstitial fibroblast	0.82	True	True	False
-Schizophrenia	Pancreatic PP cell	0.9859154929577464	True	True	False
 Schizophrenia	Pancreatic A cell	0.9539347408829176	True	True	False
+Schizophrenia	Pancreatic PP cell	0.9859154929577464	True	True	False
+Schizophrenia	Pulmonary interstitial fibroblast	0.82	True	True	False
 Asthma	Basal cell of epidermis	0.2944945420028476	True	True	False
 Asthma	Hematopoietic stem cell	0.7295825771324864	True	True	False
 Asthma	Classical monocyte	0.504950495049505	True	True	False
 Asthma	Proerythroblast	0.205607476635514	True	True	False
-Asthma	Pulmonary interstitial fibroblast	0.82	True	True	False
-Asthma	Pericyte cell	0.8947368421052632	True	True	False
-Asthma	Granulocyte	0.7710721510451787	True	True	False
 Asthma	Monocyte	0.6120218579234973	True	True	False
+Asthma	Granulocyte	0.76770060687795	True	True	False
 Asthma	Neutrophil	0.3725490196078431	True	True	False
-General risk tolerance	Pancreatic D cell	0.9476439790575916	True	True	False
-General risk tolerance	Pancreatic PP cell	0.9859154929577464	True	True	False
-General risk tolerance	Pancreatic A cell	0.9385796545105566	True	True	False
-General risk tolerance	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
+Asthma	Pericyte cell	0.8947368421052632	True	True	False
+Asthma	Pulmonary interstitial fibroblast	0.82	True	True	False
 General risk tolerance	Interneuron	0.8958333333333334	True	True	False
 General risk tolerance	Neuronal stem cell	0.7731958762886598	True	True	False
-Morning person	Oligodendrocyte	0.9933142311365808	True	True	False
-Morning person	Pancreatic D cell	0.9476439790575916	True	True	False
-Morning person	Pancreatic PP cell	0.9859154929577464	True	True	False
+General risk tolerance	Oligodendrocyte precursor cell	0.9903846153846154	True	True	False
+General risk tolerance	Pancreatic A cell	0.9385796545105566	True	True	False
+General risk tolerance	Pancreatic D cell	0.9476439790575916	True	True	False
+General risk tolerance	Pancreatic PP cell	0.9859154929577464	True	True	False
+Morning person	Oligodendrocyte	0.9823304680038204	True	True	False
 Morning person	Bergmann glial cell	0.9814814814814816	True	True	False
 Morning person	Pancreatic A cell	0.9539347408829176	True	True	False
+Morning person	Pancreatic D cell	0.9476439790575916	True	True	False
+Morning person	Pancreatic PP cell	0.9859154929577464	True	True	False
 Morning person	Astrocyte	0.9628378378378378	True	True	False
 Blood glucose	Intestinal crypt stem cell	0.9569347688410388	True	True	False
+Blood glucose	Large intestine goblet cell	0.7517328292375551	True	True	False
+Blood glucose	Pancreatic A cell	0.9539347408829176	True	True	False
 Blood glucose	Pancreatic D cell	0.9476439790575916	True	True	False
 Blood glucose	Pancreatic PP cell	0.9859154929577464	True	True	False
 Blood glucose	Pericyte cell	0.8947368421052632	True	True	False
-Blood glucose	Pancreatic A cell	0.9539347408829176	True	True	False
-Blood glucose	Large intestine goblet cell	0.7517328292375551	True	True	False
-Body mass index	Oligodendrocyte	0.9933142311365808	True	True	False
+Body mass index	Valve cell	0.9428571428571428	True	True	False
+Body mass index	Oligodendrocyte	0.9823304680038204	True	True	False
+Body mass index	Pancreatic A cell	0.9539347408829176	True	True	False
 Body mass index	Pancreatic D cell	0.9476439790575916	True	True	False
 Body mass index	Pancreatic PP cell	0.9859154929577464	True	True	False
 Body mass index	Bladder cell	0.892292490118577	True	True	False
-Body mass index	Pancreatic A cell	0.9539347408829176	True	True	False
 Body mass index	Smooth muscle cell	0.7475728155339806	True	True	False
 Lymphocyte count	Valve cell	0.9428571428571428	True	True	False
 Lymphocyte count	Capillary endothelial cells	0.7109116674539443	True	True	False
-Lymphocyte count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 Lymphocyte count	Fenestrated cell	0.8507462686567164	True	True	False
+Lymphocyte count	Smooth muscle cell of the pulmonary artery	0.6396396396396397	True	True	False
 Lymphocyte count	Granulocyte monocyte progenitor cell	0.784	True	True	False
-Lymphocyte count	Endothelial cell of hepatic sinusoid	0.6904376012965965	True	True	False
-Lymphocyte count	Microglial cell	0.96646065722038	True	True	False
+Lymphocyte count	Microglial cell	0.9660838106722942	True	True	False
 Lymphocyte count	Monocyte	0.7462919594067136	True	True	False
+Lymphocyte count	Endothelial cell of hepatic sinusoid	0.580226904376013	True	True	False
 Diastolic blood pressure	Basal cell	0.7999064983637214	True	True	False
-Diastolic blood pressure	Mesenchymal stem cell of adipose	0.9142193112191	True	True	False
-Diastolic blood pressure	Stromal cell	0.7970588235294118	True	True	False
+Diastolic blood pressure	Mesenchymal stem cell of adipose	0.9072469892245932	True	True	False
+Diastolic blood pressure	Stromal cell	0.7823529411764706	True	True	False
 Diastolic blood pressure	Chondrocyte	0.3163636363636363	True	True	False
 Diastolic blood pressure	Pancreatic stellate cell	0.8125	True	True	False
-Diastolic blood pressure	Fibroblast	0.7669172932330827	True	True	False
+Diastolic blood pressure	Fibroblast	0.7225563909774436	True	True	False
+Diastolic blood pressure	Mesenchymal stem cell	0.7130860741777467	True	True	False
+Diastolic blood pressure	Fibroblast of cardiac tissue	0.9049923586347428	True	True	False
+Diastolic blood pressure	Fibroblast of lung	0.9606625258799172	True	True	False
+Diastolic blood pressure	Endothelial cell of hepatic sinusoid	0.7925445705024311	True	True	False
 Diastolic blood pressure	Bladder cell	0.9960474308300395	True	True	False
 Diastolic blood pressure	Adventitial cell	0.6678200692041523	True	True	False
-Diastolic blood pressure	Endothelial cell of hepatic sinusoid	0.7925445705024311	True	True	False
-Diastolic blood pressure	Fibroblast of lung	0.9606625258799172	True	True	False
-Diastolic blood pressure	Fibroblast of cardiac tissue	0.912633723892002	True	True	False
-Diastolic blood pressure	Mesenchymal stem cell	0.7179846046186145	True	True	False
 Eosinophil count	Hematopoietic stem cell	0.9534180278281912	True	True	False
 Eosinophil count	Capillary endothelial cells	0.6863486065186585	True	True	False
 Eosinophil count	Granulocyte monocyte progenitor cell	0.784	True	True	False
 Eosinophil count	Late pro-B cell	0.9124087591240876	True	True	False
 Eosinophil count	Granulocytopoietic cell	0.8509316770186336	True	True	False
-Eosinophil count	Microglial cell	0.9626921917395236	True	True	False
+Eosinophil count	Microglial cell	0.962315345191438	True	True	False
 Eosinophil count	Monocyte	0.7619047619047619	True	True	False
-Hypertension	Mesenchymal stem cell of adipose	0.8419607014578492	True	True	False
-Hypertension	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
+Hypertension	Mesenchymal stem cell of adipose	0.8349883794633425	True	True	False
 Hypertension	Fenestrated cell	0.9589552238805972	True	True	False
+Hypertension	Smooth muscle cell of the pulmonary artery	0.8558558558558559	True	True	False
 Hypertension	Vein endothelial cell	0.7828947368421053	True	True	False
 Hypertension	Pancreatic stellate cell	0.8125	True	True	False
-Hypertension	Pulmonary interstitial fibroblast	0.82	True	True	False
-Hypertension	Bladder cell	0.9486166007905138	True	True	False
-Hypertension	Adventitial cell	0.6678200692041523	True	True	False
-Hypertension	Endothelial cell of hepatic sinusoid	0.5818476499189628	True	True	False
+Hypertension	Fibroblast of cardiac tissue	0.7949566989302088	True	True	False
 Hypertension	Fibroblast of lung	0.9606625258799172	True	True	False
-Hypertension	Fibroblast of cardiac tissue	0.7977585328578706	True	True	False
+Hypertension	Endothelial cell of hepatic sinusoid	0.5818476499189628	True	True	False
+Hypertension	Bladder cell	0.9486166007905138	True	True	False
+Hypertension	Pulmonary interstitial fibroblast	0.82	True	True	False
+Hypertension	Adventitial cell	0.6678200692041523	True	True	False
 Crohn disease	Immature B cell	0.8166383701188455	True	True	False
 Crohn disease	Precursor B cell	0.7429906542056075	True	True	False
-Crohn disease	Microglial cell	0.9375942116370214	True	True	False
+Crohn disease	Microglial cell	0.94287006331022	True	True	False
 Alanine aminotransferase	Immature B cell	0.8166383701188455	True	True	False
 Alanine aminotransferase	Intestinal crypt stem cell	0.8144395186827106	True	True	False
 Alanine aminotransferase	Hematopoietic stem cell	0.8932244404113733	True	True	False
+Alanine aminotransferase	Naive B cell	0.5508617776275769	True	True	False
 Alanine aminotransferase	Non-classical monocyte	0.7248322147651006	True	True	False
-Alanine aminotransferase	Naive B cell	0.5599864819195675	True	True	False
 Alanine aminotransferase	Classical monocyte	0.504950495049505	True	True	False
 Alanine aminotransferase	Promonocyte	0.8019704433497536	True	True	False
 Alanine aminotransferase	Myeloid leukocyte	0.4976076555023923	True	True	False
 Alanine aminotransferase	Granulocyte monocyte progenitor cell	0.704	True	True	False
 Alanine aminotransferase	Secretory cell	0.822380106571936	True	True	False
-Alanine aminotransferase	Proerythroblast	0.2616822429906542	True	True	False
-Alanine aminotransferase	Pancreatic stellate cell	0.8125	True	True	False
 Alanine aminotransferase	Pancreatic ductal cell	0.977635782747604	True	True	False
+Alanine aminotransferase	Pancreatic stellate cell	0.8125	True	True	False
+Alanine aminotransferase	Proerythroblast	0.205607476635514	True	True	False
+Alanine aminotransferase	Endothelial cell of hepatic sinusoid	0.8719611021069692	True	True	False
 Alanine aminotransferase	Pulmonary interstitial fibroblast	0.82	True	True	False
-Alanine aminotransferase	Endothelial cell of hepatic sinusoid	0.8946515397082658	True	True	False
 Multiple sclerosis	Late pro-B cell	0.6982968369829684	True	True	False
+Multiple sclerosis	Early pro-B cell	0.8333333333333334	True	True	False
 Waist hip ratio adjusted BMI	Bulge keratinocyte	0.9523809523809524	True	True	False
 Waist hip ratio adjusted BMI	Basal cell	0.8027115474520804	True	True	False
 Waist hip ratio adjusted BMI	Fenestrated cell	0.9589552238805972	True	True	False
-Waist hip ratio adjusted BMI	Pericyte cell	0.8947368421052632	True	True	False

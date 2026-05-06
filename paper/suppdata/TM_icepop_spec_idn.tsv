@@ -1,169 +1,192 @@
 Trait	Cell type	Pct. of sig. cells	ICePop discovery	Seismic discovery	scDRS discovery
+Hair pigmentation	Endothelial cell	0.3632305194805195	True	False	False
 Hair pigmentation	DN4 thymocyte	0.3490888382687927	True	False	False
-Hair pigmentation	Endothelial cell	0.3488230519480519	True	False	False
-Hair pigmentation	Mature alpha-beta T cell	0.403030303030303	True	False	False
 LDL cholesterol	Basal cell of epidermis	0.4596582819174181	True	False	False
-LDL cholesterol	Keratinocyte	0.437037037037037	True	False	False
-LDL cholesterol	Capillary endothelial cells	0.5611714690599906	True	False	False
+LDL cholesterol	Keratinocyte	0.4172839506172839	True	False	False
 LDL cholesterol	Epithelial cell of large intestine	0.5305164319248826	True	False	False
+LDL cholesterol	Capillary endothelial cells	0.5611714690599906	True	False	False
 LDL cholesterol	Myeloid cell	0.3935837245696401	True	False	False
 Hair color	Endothelial cell	0.3800730519480519	True	False	False
+Hair color	DN4 thymocyte	0.4151480637813212	True	False	False
 Inflammatory bowel disease	Precursor B cell	0.7429906542056075	True	False	False
-Inflammatory bowel disease	Thymocyte	0.8898461538461538	True	False	False
-Inflammatory bowel disease	Epithelial cell of thymus	0.0303030303030303	True	False	False
+Inflammatory bowel disease	Thymocyte	0.8818461538461538	True	False	False
 Inflammatory bowel disease	Microglial cell	0.9384986433524268	True	False	False
-Monocyte count	Endothelial cell	0.351663961038961	True	False	False
+Inflammatory bowel disease	Atrial myocyte	0.0	True	False	False
+Monocyte count	Endothelial cell	0.3492288961038961	True	False	False
 Monocyte count	Mesenchymal stem cell of adipose	0.1364884851045848	True	False	False
 Monocyte count	Thymocyte	0.7046153846153846	True	False	False
+Monocyte count	Aortic endothelial cell	0.019271948608137	True	False	False
 Monocyte count	Atrial myocyte	0.0248138957816377	True	False	False
 Prostate cancer	Hematopoietic stem cell	0.7084089534180278	True	False	False
+Prostate cancer	Fibroblast of cardiac tissue	0.6874681609780947	True	False	False
 Alzheimer disease	NK cell	0.4492588369441277	True	False	False
+Alzheimer disease	Atrial myocyte	0.0248138957816377	True	False	False
+Basal metabolic rate	Basal cell of epidermis	0.2090650213573801	True	False	False
 Basal metabolic rate	Bulge keratinocyte	0.4819508448540706	True	False	False
 Basal metabolic rate	Immature B cell	0.7385398981324278	True	False	False
+Basal metabolic rate	DN4 thymocyte	0.2522779043280182	True	False	False
 Basal metabolic rate	Intestinal crypt stem cell	0.4958834705509816	True	False	False
 Basal metabolic rate	Capillary endothelial cells	0.4752007557864903	True	False	False
-Basal metabolic rate	Smooth muscle cell of trachea	0.224	True	False	False
-Basal metabolic rate	Fibroblast of cardiac tissue	0.7577687213448803	True	False	False
-Basal metabolic rate	Mesenchymal stem cell	0.4646606018194542	True	False	False
+Basal metabolic rate	Smooth muscle cell of trachea	0.168	True	False	False
+Basal metabolic rate	Mesenchymal stem cell	0.4597620713785864	True	False	False
+Basal metabolic rate	Fibroblast of cardiac tissue	0.7529291900152827	True	False	False
 Atrial fibrillation	Endothelial cell	0.351663961038961	True	False	False
-Atrial fibrillation	Fibroblast	0.4150375939849624	True	False	False
+Atrial fibrillation	Non-classical monocyte	0.7248322147651006	True	False	False
+Atrial fibrillation	Fibroblast	0.3849624060150376	True	False	False
 Major depressive disorder	Basal cell	0.9509116409537168	True	False	False
 Major depressive disorder	Epithelial cell of thymus	0.2303030303030303	True	False	False
 Major depressive disorder	Enteroendocrine cell	0.9565217391304348	True	False	False
-Standing height	Basal cell of epidermis	0.6039392501186521	True	False	False
+Standing height	Basal cell of epidermis	0.649264356905553	True	False	False
 Standing height	Keratinocyte	0.1621399176954732	True	False	False
 Standing height	Bulge keratinocyte	0.6163594470046083	True	False	False
+Standing height	Endothelial cell	0.5915178571428571	True	False	False
 Standing height	DN4 thymocyte	0.2585421412300683	True	False	False
-Standing height	Endothelial cell	0.5927353896103896	True	False	False
-Standing height	Skeletal muscle satellite cell	0.689908256880734	True	False	False
 Standing height	Epithelial cell of large intestine	0.2206572769953051	True	False	False
-Standing height	Endothelial cell of coronary artery	0.3589458054936897	True	False	False
+Standing height	Skeletal muscle satellite cell	0.689908256880734	True	False	False
+Standing height	Endothelial cell of coronary artery	0.3671121009651076	True	False	False
 Standing height	Aortic endothelial cell	0.0813704496788008	True	False	False
-Standing height	Smooth muscle cell of trachea	0.056	True	False	False
 Age at menarche	Hematopoietic stem cell	0.6179673321234119	True	False	False
-Age at menarche	Oligodendrocyte	0.9641833810888252	True	False	False
+Age at menarche	Oligodendrocyte	0.9531996179560648	True	False	False
 Ulcerative colitis	Epithelial cell	0.0352112676056338	True	False	False
 Ulcerative colitis	Enterocyte of epithelium of large intestine	0.2804878048780488	True	False	False
-Ulcerative colitis	Thymocyte	0.8898461538461538	True	False	False
+Ulcerative colitis	Thymocyte	0.8818461538461538	True	False	False
 Balding Type I	Epidermal cell	0.6077235772357723	True	False	False
 Balding Type I	Intestinal crypt stem cell	0.7808739708676378	True	False	False
-Balding Type I	Fibroblast of cardiac tissue	0.544065206316862	True	False	False
 Balding Type I	Mesenchymal stem cell	0.5262421273617914	True	False	False
+Balding Type I	Fibroblast of cardiac tissue	0.5641874681609781	True	False	False
+Balding Type I	Aortic endothelial cell	0.0	True	False	False
 Celiac disease	Myeloid cell	0.6025039123630673	True	False	False
 Celiac disease	Proerythroblast	0.205607476635514	True	False	False
 Celiac disease	Thymocyte	0.6215384615384615	True	False	False
 Hemoglobin A1c	Basal cell of epidermis	0.3334124347413384	True	False	False
-Hemoglobin A1c	Endothelial cell	0.1708603896103896	True	False	False
+Hemoglobin A1c	Endothelial cell	0.1684253246753246	True	False	False
 Hemoglobin A1c	CD4-positive, alpha-beta T cell	0.1153846153846153	True	False	False
 Hemoglobin A1c	Capillary endothelial cells	0.6277751535191308	True	False	False
-Hemoglobin A1c	B cell	0.7379641144075324	True	False	False
-Hemoglobin A1c	Enterocyte of epithelium of large intestine	0.2116443745082612	True	False	False
+Hemoglobin A1c	B cell	0.7271273760881151	True	False	False
 Hemoglobin A1c	Myeloid cell	0.4612676056338028	True	False	False
+Hemoglobin A1c	Enterocyte of epithelium of large intestine	0.2116443745082612	True	False	False
 Hemoglobin A1c	Precursor B cell	0.7429906542056075	True	False	False
-Hemoglobin A1c	Smooth muscle cell	0.7475728155339806	True	False	False
 Hemoglobin A1c	Large intestine goblet cell	0.704473850031506	True	False	False
+Hemoglobin A1c	Smooth muscle cell	0.7475728155339806	True	False	False
 General intelligence	Immature B cell	0.6808149405772496	True	False	False
 Heel bone mineral density T score	Basal cell of epidermis	0.5170859041290935	True	False	False
 Heel bone mineral density T score	Bulge keratinocyte	0.7857142857142857	True	False	False
 Heel bone mineral density T score	Hematopoietic stem cell	0.3049001814882032	True	False	False
 Red blood cell count	Basal cell of epidermis	0.3872804935927859	True	False	False
-Red blood cell count	Endothelial cell	0.677150974025974	True	False	False
-Red blood cell count	Macrophage	0.2084184715978749	True	False	False
-Red blood cell count	Enterocyte of epithelium of large intestine	0.512588512981904	True	False	False
+Red blood cell count	Endothelial cell	0.6885146103896104	True	False	False
+Red blood cell count	Macrophage	0.2051491622394769	True	False	False
+Red blood cell count	Mesenchymal stem cell of adipose	0.0910627508979505	True	False	False
+Red blood cell count	T cell	0.0895410082768999	True	False	False
 Red blood cell count	Myeloid cell	0.1956181533646322	True	False	False
+Red blood cell count	Enterocyte of epithelium of large intestine	0.512588512981904	True	False	False
 Red blood cell count	Thymocyte	0.2683076923076923	True	False	False
 Red blood cell count	Aortic endothelial cell	0.145610278372591	True	False	False
-Attention deficit hyperactivity disorder	Pancreatic B cell	0.9709388971684052	True	False	False
+Attention deficit hyperactivity disorder	Pancreatic B cell	0.9523099850968704	True	False	False
 Sex hormone binding globulin	Basal cell of epidermis	0.6654010441385857	True	False	False
 Sex hormone binding globulin	Epidermal cell	0.6077235772357723	True	False	False
-Sex hormone binding globulin	CD4-positive, alpha-beta T cell	0.3230769230769231	True	False	False
-Sex hormone binding globulin	Mesenchymal stem cell of adipose	0.4591168392140292	True	False	False
+Sex hormone binding globulin	Epithelial cell of large intestine	0.2089201877934272	True	False	False
+Sex hormone binding globulin	CD4-positive, alpha-beta T cell	0.3102564102564102	True	False	False
+Sex hormone binding globulin	Macrophage	0.1103391908459338	True	False	False
 Sex hormone binding globulin	B cell	0.4125066619292947	True	False	False
+Sex hormone binding globulin	Mesenchymal stem cell of adipose	0.4654553137544897	True	False	False
 Sex hormone binding globulin	Naive B cell	0.3399797228793511	True	False	False
-Sex hormone binding globulin	Enterocyte of epithelium of large intestine	0.1687647521636506	True	False	False
 Sex hormone binding globulin	Myeloid cell	0.2038341158059468	True	False	False
+Sex hormone binding globulin	Enterocyte of epithelium of large intestine	0.1687647521636506	True	False	False
 Sex hormone binding globulin	Large intestine goblet cell	0.5040957781978576	True	False	False
 Mean corpuscular hemoglobin	Keratinocyte	0.3860082304526749	True	False	False
 Mean corpuscular hemoglobin	Epidermal cell	0.6077235772357723	True	False	False
+Mean corpuscular hemoglobin	Myeloid cell	0.7132237871674492	True	False	False
 Mean corpuscular hemoglobin	Enterocyte of epithelium of large intestine	0.4386309992132179	True	False	False
-Mean corpuscular hemoglobin	Myeloid cell	0.6737089201877934	True	False	False
 Mean corpuscular hemoglobin	Large intestine goblet cell	0.3774417139256458	True	False	False
-Mean corpuscular hemoglobin	Epithelial cell of thymus	0.0303030303030303	True	False	False
 Mean corpuscular hemoglobin	Neutrophil	0.3725490196078431	True	False	False
-Triglycerides	Endothelial cell	0.2702922077922078	True	False	False
+Triglycerides	Endothelial cell	0.2678571428571428	True	False	False
 Triglycerides	Capillary endothelial cells	0.7094945677846008	True	False	False
-Triglycerides	Mesenchymal stem cell of adipose	0.7008240016902598	True	False	False
+Triglycerides	Mesenchymal stem cell of adipose	0.6792731882526939	True	False	False
 Triglycerides	Secretory cell	0.6252220248667851	True	False	False
 Triglycerides	Pancreatic stellate cell	0.8125	True	False	False
-Triglycerides	Fibroblast of cardiac tissue	0.5356597045338767	True	False	False
+Triglycerides	Endothelial cell of coronary artery	0.2249443207126948	True	False	False
 Triglycerides	Monocyte	0.4402810304449648	True	False	False
+Triglycerides	Fibroblast of cardiac tissue	0.5356597045338767	True	False	False
+Triglycerides	Aortic endothelial cell	0.0	True	False	False
 Bipolar disorder	DN4 thymocyte	0.3963553530751708	True	False	False
-Bipolar disorder	CD4-positive, alpha-beta T cell	0.4888888888888889	True	False	False
+Bipolar disorder	CD4-positive, alpha-beta T cell	0.4606837606837606	True	False	False
+Bipolar disorder	T cell	0.0	True	False	False
 Reaction time	Basal cell	0.9055633473585788	True	False	False
 Total cholesterol	Endothelial cell	0.4182224025974026	True	False	False
+Total cholesterol	Epithelial cell of large intestine	0.5181924882629108	True	False	False
 Total cholesterol	CD4-positive, alpha-beta T cell	0.2	True	False	False
 Total cholesterol	Capillary endothelial cells	0.6523382144544166	True	False	False
-Total cholesterol	Epithelial cell of large intestine	0.5181924882629108	True	False	False
-Total cholesterol	B cell	0.5031089003375377	True	False	False
 Total cholesterol	Macrophage	0.0130772374335921	True	False	False
+Total cholesterol	B cell	0.5171433647184225	True	False	False
 Total cholesterol	Naive B cell	0.3264616424467725	True	False	False
+Total cholesterol	T cell	0.127915726109857	True	False	False
 Total cholesterol	Myeloid cell	0.47339593114241	True	False	False
-Number of children ever born	Oligodendrocyte	0.9503342884431708	True	False	False
+Total cholesterol	Endothelial cell of coronary artery	0.3801039346696362	True	False	False
+Total cholesterol	Aortic endothelial cell	0.019271948608137	True	False	False
+Number of children ever born	Oligodendrocyte	0.9393505253104109	True	False	False
 Number of children ever born	Bergmann glial cell	0.9814814814814816	True	False	False
 Rheumatoid arthritis	Myeloid cell	0.4667449139280125	True	False	False
 Lung FVC	Basal cell of epidermis	0.5016611295681063	True	False	False
+Lung FVC	Epithelial cell	0.0	True	False	False
 Lung FVC	Epithelial cell of thymus	0.2303030303030303	True	False	False
+Systemic lupus erythematosus	Epithelial cell	0.0352112676056338	True	False	False
 Systemic lupus erythematosus	Myeloid cell	0.7421752738654147	True	False	False
-Systemic lupus erythematosus	Granulocyte	0.8347943358057991	True	False	False
-Systolic blood pressure	Basal cell of epidermis	0.5382059800664452	True	False	False
+Systemic lupus erythematosus	Granulocyte	0.7697235333782873	True	False	False
+Systolic blood pressure	Basal cell of epidermis	0.5579022306597058	True	False	False
 Systolic blood pressure	Bulge keratinocyte	0.782642089093702	True	False	False
-White blood cell count	Endothelial cell	0.4951298701298701	True	False	False
-White blood cell count	Thymocyte	0.7956923076923077	True	False	False
+White blood cell count	Basal cell of epidermis	0.1971998101566207	True	False	False
+White blood cell count	Endothelial cell	0.4926948051948052	True	False	False
+White blood cell count	Thymocyte	0.7876923076923077	True	False	False
 White blood cell count	Aortic endothelial cell	0.164882226980728	True	False	False
 Hypothyroidism	Neutrophil	0.3725490196078431	True	False	False
-HDL cholesterol	DN4 thymocyte	0.3553530751708428	True	False	False
-HDL cholesterol	Endothelial cell	0.6566558441558441	True	False	False
+HDL cholesterol	Endothelial cell	0.6542207792207793	True	False	False
+HDL cholesterol	DN4 thymocyte	0.3456719817767654	True	False	False
 HDL cholesterol	CD4-positive, alpha-beta T cell	0.1452991452991453	True	False	False
+HDL cholesterol	B cell	0.5940664416414994	True	False	False
 HDL cholesterol	Mesenchymal stem cell of adipose	0.4248890766955419	True	False	False
-HDL cholesterol	B cell	0.5977971220465447	True	False	False
-HDL cholesterol	Naive B cell	0.4697532950321054	True	False	False
+HDL cholesterol	Naive B cell	0.4626563028050017	True	False	False
+HDL cholesterol	T cell	0.0	True	False	False
 HDL cholesterol	Myeloid cell	0.4499217527386541	True	False	False
 HDL cholesterol	Precursor B cell	0.7429906542056075	True	False	False
 HDL cholesterol	Proerythroblast	0.205607476635514	True	False	False
 HDL cholesterol	Aortic endothelial cell	0.2055674518201284	True	False	False
-HDL cholesterol	Large intestine goblet cell	0.2350346565847511	True	False	False
-Testosterone male	Thymocyte	0.5427692307692308	True	False	False
+Testosterone male	Epithelial cell of large intestine	0.3356807511737089	True	False	False
+Testosterone male	B cell	0.1698347841534908	True	False	False
+Testosterone male	T cell	0.0714823175319789	True	False	False
+Testosterone male	CD8-positive, alpha-beta T cell	0.3794392523364486	True	False	False
+Testosterone male	Enterocyte of epithelium of large intestine	0.2159716758457907	True	False	False
+Testosterone male	Thymocyte	0.5347692307692308	True	False	False
 College education	Immature B cell	0.6027164685908319	True	False	False
-Total bilirubin	DN4 thymocyte	0.2033029612756264	True	False	False
-Total bilirubin	Endothelial cell	0.4586038961038961	True	False	False
-Total bilirubin	Capillary endothelial cells	0.2919225318847425	True	False	False
+Total bilirubin	Endothelial cell	0.4561688311688311	True	False	False
+Total bilirubin	DN4 thymocyte	0.2198177676537585	True	False	False
 Total bilirubin	Epithelial cell of large intestine	0.3826291079812207	True	False	False
 Total bilirubin	Myeloid cell	0.6353677621283255	True	False	False
-Total bilirubin	Thymocyte	0.2147692307692307	True	False	False
+Total bilirubin	Endothelial cell of coronary artery	0.2642910170749814	True	False	False
+Total bilirubin	Aortic endothelial cell	0.0	True	False	False
 Fasting glucose	Secretory cell	0.8543516873889876	True	False	False
 Breast cancer	Epithelial cell of large intestine	0.4172535211267605	True	False	False
 Breast cancer	Secretory cell	0.7992895204262878	True	False	False
 Neuroticism	Basal cell	0.916783543712015	True	False	False
-Neuroticism	Bladder cell	0.7282608695652174	True	False	False
 Neuroticism	Epithelial cell of thymus	0.2303030303030303	True	False	False
-Primary biliary cirrhosis	Microglial cell	0.961637021404884	True	False	False
-Subjective well being	Stromal cell	0.6823529411764706	True	False	False
+Neuroticism	Bladder cell	0.7282608695652174	True	False	False
+Primary biliary cirrhosis	Microglial cell	0.9660838106722942	True	False	False
+Subjective well being	Stromal cell	0.6676470588235294	True	False	False
+Subjective well being	Basal epithelial cell of tracheobronchial tree	0.0	True	False	False
 Subjective well being	Pancreatic PP cell	0.9859154929577464	True	False	False
 Subjective well being	Enteroendocrine cell	0.4285714285714285	True	False	False
-Subjective well being	Ventricular myocyte	0.7551020408163265	True	False	False
 Sleep duration	Smooth muscle cell	0.7475728155339806	True	False	False
 Eczema	Hematopoietic stem cell	0.4171203871748336	True	False	False
 Eczema	Precursor B cell	0.7429906542056075	True	False	False
 Eczema	Microglial cell	0.9473168525776304	True	False	False
 Smoking status	Basal cell	0.9509116409537168	True	False	False
-Total protein	Endothelial cell	0.676948051948052	True	False	False
-Total protein	Mesenchymal stem cell of adipose	0.2575533488273822	True	False	False
-Total protein	Thymocyte	0.3926153846153846	True	False	False
-Total protein	Aortic endothelial cell	0.2055674518201284	True	False	False
-Total protein	Fibroblast of cardiac tissue	0.4149261334691798	True	False	False
-Total protein	Epithelial cell of thymus	0.0303030303030303	True	False	False
+Total protein	Endothelial cell	0.6739042207792207	True	False	False
+Total protein	Epithelial cell	0.0352112676056338	True	False	False
+Total protein	Mesenchymal stem cell of adipose	0.2351574054510881	True	False	False
+Total protein	Thymocyte	0.3846153846153846	True	False	False
 Total protein	Mesenchymal stem cell	0.2442267319804058	True	False	False
-Respiratory ENT	Myeloid cell	0.5661189358372457	True	False	False
+Total protein	Fibroblast of cardiac tissue	0.4149261334691798	True	False	False
+Total protein	Aortic endothelial cell	0.2055674518201284	True	False	False
+Respiratory ENT	Myeloid cell	0.57981220657277	True	False	False
 Respiratory ENT	Proerythroblast	0.205607476635514	True	False	False
 Years of education	Brain pericyte	0.6570247933884298	True	False	False
 Autism spectrum disorder	Bergmann glial cell	0.9814814814814816	True	False	False
@@ -172,72 +195,78 @@ Red blood cell distribution width	Keratinocyte	0.2353909465020576	True	False	Fal
 Red blood cell distribution width	Epidermal cell	0.6524390243902439	True	False	False
 Red blood cell distribution width	T cell	0.2212189616252821	True	False	False
 Red blood cell distribution width	Precursor B cell	0.7429906542056075	True	False	False
-Red blood cell distribution width	Thymocyte	0.4424615384615384	True	False	False
-Red blood cell distribution width	Epithelial cell of thymus	0.0303030303030303	True	False	False
+Red blood cell distribution width	Thymocyte	0.4344615384615384	True	False	False
 Red blood cell distribution width	Microglial cell	0.9284745251733494	True	False	False
+Coronary atherosclerosis	Myeloid cell	0.1744913928012519	True	False	False
 Coronary atherosclerosis	Mesenchymal stem cell	0.3771868439468159	True	False	False
 Vitamin D	Intestinal crypt stem cell	0.8372387587080431	True	False	False
+Vitamin D	Enterocyte of epithelium of large intestine	0.4504327301337529	True	False	False
 Neutrophil count	Epidermal cell	0.2052845528455284	True	False	False
-Neutrophil count	Endothelial cell	0.1706574675324675	True	False	False
+Neutrophil count	Endothelial cell	0.1682224025974026	True	False	False
 Neutrophil count	Epithelial cell	0.0352112676056338	True	False	False
-Neutrophil count	Thymocyte	0.6141538461538462	True	False	False
+Neutrophil count	Thymocyte	0.6061538461538462	True	False	False
 Neutrophil count	Aortic endothelial cell	0.0471092077087794	True	False	False
-Neutrophil count	Epithelial cell of thymus	0.0303030303030303	True	False	False
+Neutrophil count	Atrial myocyte	0.0	True	False	False
 Age at menopause	CD4-positive, alpha-beta T cell	0.3145299145299145	True	False	False
-Age at menopause	B cell	0.5544501687688754	True	False	False
-Age at menopause	T cell	0.1580135440180587	True	False	False
+Age at menopause	B cell	0.5683069817019009	True	False	False
 Age at menopause	Naive B cell	0.3673538357553227	True	False	False
-Age at menopause	Thymocyte	0.272	True	False	False
+Age at menopause	T cell	0.1580135440180587	True	False	False
+Age at menopause	Thymocyte	0.264	True	False	False
 Platelet count	Basal cell of epidermis	0.1912672045562411	True	False	False
 Platelet count	Epidermal cell	0.6077235772357723	True	False	False
-Platelet count	Endothelial cell	0.6974431818181818	True	False	False
+Platelet count	Endothelial cell	0.6919642857142857	True	False	False
 Platelet count	Epithelial cell of large intestine	0.1619718309859155	True	False	False
 Platelet count	Mesenchymal stem cell of adipose	0.3657299809845764	True	False	False
-Platelet count	Enterocyte of epithelium of large intestine	0.2533438237608182	True	False	False
 Platelet count	Myeloid cell	0.7476525821596244	True	False	False
+Platelet count	Enterocyte of epithelium of large intestine	0.2533438237608182	True	False	False
 Platelet count	Precursor B cell	0.5058411214953271	True	False	False
+Platelet count	Microglial cell	0.933750376846548	True	False	False
 Platelet count	Aortic endothelial cell	0.2055674518201284	True	False	False
-Platelet count	Microglial cell	0.9341272233946336	True	False	False
 Alkaline phosphatase	Skeletal muscle satellite cell	0.6359633027522936	True	False	False
-Alkaline phosphatase	B cell	0.7456031266654823	True	False	False
-Alkaline phosphatase	Enterocyte of epithelium of large intestine	0.5810385523210071	True	False	False
+Alkaline phosphatase	B cell	0.741872446260437	True	False	False
+Alkaline phosphatase	Mesenchymal stem cell of adipose	0.0781745193323473	True	False	False
 Alkaline phosphatase	Myeloid cell	0.7406103286384976	True	False	False
+Alkaline phosphatase	Enterocyte of epithelium of large intestine	0.5810385523210071	True	False	False
+Alkaline phosphatase	Proerythroblast	0.205607476635514	True	False	False
 Alkaline phosphatase	Mature NK T cell	0.4271356783919598	True	False	False
+Worry	Basal cell	0.7115474520804114	True	False	False
+Asthma	Epithelial cell	0.0352112676056338	True	False	False
 Asthma	Myeloid cell	0.7269170579029735	True	False	False
-General risk tolerance	Oligodendrocyte	0.9794651384909264	True	False	False
-General risk tolerance	Pancreatic B cell	0.9709388971684052	True	False	False
-Morning person	Basal cell	0.6984572230014026	True	False	False
-Morning person	Smooth muscle cell of trachea	0.224	True	False	False
+General risk tolerance	Oligodendrocyte	0.968481375358166	True	False	False
+General risk tolerance	Pancreatic B cell	0.9523099850968704	True	False	False
+Morning person	Basal cell	0.7784011220196353	True	False	False
+Morning person	Smooth muscle cell of trachea	0.168	True	False	False
 Body mass index	Basal cell	0.788218793828892	True	False	False
-Body mass index	Fibroblast	0.4218045112781955	True	False	False
-Body mass index	Fibroblast of cardiac tissue	0.3866530820173204	True	False	False
+Body mass index	Mesenchymal stem cell of adipose	0.2186773716458905	True	False	False
+Body mass index	Fibroblast	0.3917293233082706	True	False	False
 Body mass index	Epithelial cell of thymus	0.2303030303030303	True	False	False
-Lymphocyte count	Endothelial cell	0.4620535714285714	True	False	False
+Body mass index	Fibroblast of cardiac tissue	0.4067753438614366	True	False	False
+Lymphocyte count	Endothelial cell	0.4596185064935065	True	False	False
 Lymphocyte count	Epithelial cell	0.0352112676056338	True	False	False
 Diastolic blood pressure	Basal cell of epidermis	0.3127669672520171	True	False	False
 Diastolic blood pressure	Bulge keratinocyte	0.7296466973886329	True	False	False
 Idiopathic pulmonary fibrosis	T cell	0.2964635063957863	True	False	False
 Idiopathic pulmonary fibrosis	Neuroepithelial cell	0.4503311258278146	True	False	False
+Eosinophil count	Endothelial cell	0.0722402597402597	True	False	False
+Eosinophil count	Endothelial cell of coronary artery	0.2167780252412769	True	False	False
 Eosinophil count	Atrial myocyte	0.0248138957816377	True	False	False
-Eosinophil count	Epithelial cell of thymus	0.0303030303030303	True	False	False
 Hypertension	Hematopoietic stem cell	0.6085904416212946	True	False	False
-Hypertension	Fibroblast	0.4308270676691729	True	False	False
+Hypertension	Fibroblast	0.4150375939849624	True	False	False
 Crohn disease	Hematopoietic stem cell	0.3920145190562613	True	False	False
 Crohn disease	Thymocyte	0.8123076923076923	True	False	False
+Crohn disease	Atrial myocyte	0.0248138957816377	True	False	False
 Alanine aminotransferase	Basal cell of epidermis	0.3685334598955861	True	False	False
 Alanine aminotransferase	Epithelial cell of large intestine	0.3491784037558685	True	False	False
-Alanine aminotransferase	Mesenchymal stem cell of adipose	0.7192055778575956	True	False	False
-Alanine aminotransferase	B cell	0.6301296855569373	True	False	False
-Alanine aminotransferase	Stromal cell	0.5794117647058824	True	False	False
-Alanine aminotransferase	Macrophage	0.0269718022067838	True	False	False
+Alanine aminotransferase	Macrophage	0.0408663669799754	True	False	False
+Alanine aminotransferase	B cell	0.631728548587671	True	False	False
+Alanine aminotransferase	Mesenchymal stem cell of adipose	0.7122332558630889	True	False	False
+Alanine aminotransferase	Stromal cell	0.5647058823529412	True	False	False
 Alanine aminotransferase	Chondrocyte	0.3163636363636363	True	False	False
-Alanine aminotransferase	Myeloid cell	0.3869327073552425	True	False	False
+Alanine aminotransferase	Myeloid cell	0.4147104851330203	True	False	False
 Alanine aminotransferase	Precursor B cell	0.8329439252336449	True	False	False
 Alanine aminotransferase	Mature NK T cell	0.4271356783919598	True	False	False
-Alanine aminotransferase	Fibroblast	0.3308270676691729	True	False	False
-Alanine aminotransferase	Large intestine goblet cell	0.4133585381222432	True	False	False
 Alanine aminotransferase	Hepatocyte	0.8881239242685026	True	False	False
-Alanine aminotransferase	Fibroblast of cardiac tissue	0.391237901171676	True	False	False
+Alanine aminotransferase	Fibroblast of cardiac tissue	0.3863983698420784	True	False	False
 Alanine aminotransferase	Neuroepithelial cell	0.152317880794702	True	False	False
 Multiple sclerosis	Proerythroblast	0.205607476635514	True	False	False
 Multiple sclerosis	Kidney collecting duct epithelial cell	0.6	True	False	False

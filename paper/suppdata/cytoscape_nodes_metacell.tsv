@@ -24,12 +24,12 @@ Type 2 diabetes	8
 Alanine aminotransferase	2
 Alkaline phosphatase	3
 Total cholesterol	3
-Blood glucose	10
+Blood glucose	11
 Hemoglobin A1c	3
 HDL cholesterol	2
 LDL cholesterol	3
 Sex hormone binding globulin	2
-Testosterone male	10
+Testosterone male	11
 Total bilirubin	3
 Total protein	0
 Triglycerides	2
@@ -40,14 +40,14 @@ BMI	5
 ASD	6
 ADHD	6
 Alzheimer disease	8
-Bipolar disorder	4
+Bipolar disorder	10
 General risk tolerance	6
 Insomnia	6
 Intelligence	4
 MDD	5
 Reaction time	5
-Schizophrenia	4
-Sleep duration	4
+Schizophrenia	10
+Sleep duration	10
 Subjective well being	5
 Verbal numeric reasoning	4
 Worry	5
@@ -56,14 +56,14 @@ Morning person	5
 Drinks per week	6
 College education	4
 Years of education	4
-Smoking status	4
+Smoking status	10
 Number of children ever born	6
 Coronary atherosclerosis	2
 Heart failure	8
 Atrial fibrillation	8
 Coronary artery disease	8
-Diastolic blood pressure	9
 Systolic blood pressure	9
+Diastolic blood pressure	9
 Hypertension	9
 IPF	8
 Asthma	1
@@ -78,5 +78,5 @@ Balding Type I	7
 Height	9
 Breast cancer	8
 Hair pigmentation	7
-Age at menarche	4
-Age at menopause	10
+Age at menarche	10
+Age at menopause	11

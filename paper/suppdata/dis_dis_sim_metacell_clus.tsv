@@ -24,12 +24,12 @@ PASS_Type_2_Diabetes	Type 2 diabetes	8
 UKB_460K.biochemistry_AlanineAminotransferase	Alanine aminotransferase	2
 UKB_460K.biochemistry_AlkalinePhosphatase	Alkaline phosphatase	3
 UKB_460K.biochemistry_Cholesterol	Total cholesterol	3
-UKB_460K.biochemistry_Glucose	Blood glucose	10
+UKB_460K.biochemistry_Glucose	Blood glucose	11
 UKB_460K.biochemistry_HbA1c	Hemoglobin A1c	3
 UKB_460K.biochemistry_HDLcholesterol	HDL cholesterol	2
 UKB_460K.biochemistry_LDLdirect	LDL cholesterol	3
 UKB_460K.biochemistry_SHBG	Sex hormone binding globulin	2
-UKB_460K.biochemistry_Testosterone_Male	Testosterone male	10
+UKB_460K.biochemistry_Testosterone_Male	Testosterone male	11
 UKB_460K.biochemistry_TotalBilirubin	Total bilirubin	3
 UKB_460K.biochemistry_TotalProtein	Total protein	0
 UKB_460K.biochemistry_Triglycerides	Triglycerides	2
@@ -40,14 +40,14 @@ UKB_460K.body_BMIz	BMI	5
 asd	ASD	6
 PASS_ADHD_Demontis2018	ADHD	6
 PASS_Alzheimers_Jansen2019	Alzheimer disease	8
-PASS_BIP_Mullins2021	Bipolar disorder	4
+PASS_BIP_Mullins2021	Bipolar disorder	10
 PASS_GeneralRiskTolerance_KarlssonLinner2019	General risk tolerance	6
 PASS_Insomnia_Jansen2019	Insomnia	6
 PASS_Intelligence_SavageJansen2018	Intelligence	4
 PASS_MDD_Howard2019	MDD	5
 PASS_ReactionTime_Davies2018	Reaction time	5
-PASS_Schizophrenia_Pardinas2018	Schizophrenia	4
-PASS_SleepDuration_Dashti2019	Sleep duration	4
+PASS_Schizophrenia_Pardinas2018	Schizophrenia	10
+PASS_SleepDuration_Dashti2019	Sleep duration	10
 PASS_SWB	Subjective well being	5
 PASS_VerbalNumericReasoning_Davies2018	Verbal numeric reasoning	4
 PASS_Worry_Nagel2018	Worry	5
@@ -56,14 +56,14 @@ UKB_460K.other_MORNINGPERSON	Morning person	5
 PASS_DrinksPerWeek_Liu2019	Drinks per week	6
 UKB_460K.cov_EDU_COLLEGE	College education	4
 UKB_460K.cov_EDU_YEARS	Years of education	4
-UKB_460K.cov_SMOKING_STATUS	Smoking status	4
+UKB_460K.cov_SMOKING_STATUS	Smoking status	10
 UKB_460K.repro_NumberChildrenEverBorn_Pooled	Number of children ever born	6
 Coronary_atherosclerosis	Coronary atherosclerosis	2
 heart_failure	Heart failure	8
 PASS_AtrialFibrillation_Nielsen2018	Atrial fibrillation	8
 PASS_Coronary_Artery_Disease	Coronary artery disease	8
-UKB_460K.bp_DIASTOLICadjMEDz	Diastolic blood pressure	9
 UKB_460K.bp_SYSTOLICadjMEDz	Systolic blood pressure	9
+UKB_460K.bp_DIASTOLICadjMEDz	Diastolic blood pressure	9
 UKB_460K.disease_HYPERTENSION_DIAGNOSED	Hypertension	9
 IPF	IPF	8
 UKB_460K.disease_ASTHMA_DIAGNOSED	Asthma	1
@@ -78,5 +78,5 @@ UKB_460K.body_BALDING1	Balding Type I	7
 UKB_460K.body_HEIGHTz	Height	9
 UKB_460K.cancer_BREAST	Breast cancer	8
 UKB_460K.pigment_HAIR	Hair pigmentation	7
-UKB_460K.repro_MENARCHE_AGE	Age at menarche	4
-UKB_460K.repro_MENOPAUSE_AGE	Age at menopause	10
+UKB_460K.repro_MENARCHE_AGE	Age at menarche	10
+UKB_460K.repro_MENOPAUSE_AGE	Age at menopause	11

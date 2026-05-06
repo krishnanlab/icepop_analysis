@@ -1,77 +1,84 @@
 Gene	gene-name	Entrez	ensembl-id	chromosome	Cell group	FDR	Associated	Influence score	Influence score rank	genetic-category	gene-score	eagle	syndromic	number-of-reports
-RPH3A	rabphilin 3A	22895	ENSG00000089169	12	1	0.0554818610894805	True	0.08664747838378295	10.0	Rare Single Gene Mutation, Functional	3.0		0	7
-SCN9A	sodium voltage-gated channel alpha subunit 9	6335	ENSG00000169432	2	1	0.0554818610894805	True	0.06155901521691932	25.0	Rare Single Gene Mutation	2.0		0	11
-HTR1B	5-hydroxytryptamine (serotonin) receptor 1B	3351	ENSG00000135312	6	1	0.0554818610894805	True	0.05946696987469496	27.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
-PCDH10	protocadherin 10	57575	ENSG00000138650	4	1	0.0554818610894805	True	0.05192797312799699	33.0	Rare Single Gene Mutation, Functional	2.0		0	12
-HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	3359	ENSG00000166736	11	1	0.0554818610894805	True	0.04541130662726285	42.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	9
-GABBR2	gamma-aminobutyric acid type B receptor subunit 2	9568	ENSG00000136928	9	1	0.0554818610894805	True	0.038438683682111834	52.0	Rare Single Gene Mutation, Syndromic, Functional	2.0		1	16
-GPR85	G protein-coupled receptor 85	54329	ENSG00000164604	7	1	0.0554818610894805	True	0.03324518504324544	62.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
-SLC45A1	solute carrier family 45 member 1	50651	ENSG00000162426	1	1	0.0554818610894805	True	0.032097747824016636	66.0	Rare Single Gene Mutation, Syndromic			1	6
-CASKIN1	CASK interacting protein 1	57524	ENSG00000167971	16	1	0.0554818610894805	True	0.02821863240398949	79.0	Rare Single Gene Mutation, Functional	2.0		0	9
-MAP1A	microtubule associated protein 1A	4130	ENSG00000166963	15	1	0.0554818610894805	True	0.02602115595261894	90.0	Rare Single Gene Mutation	1.0	0.0	0	4
-HCN1	Hyperpolarization activated cyclic nucleotide-gated potassium channel 1	348980	ENSG00000164588	5	1	0.0554818610894805	True	0.02415416582524647	96.0	Rare Single Gene Mutation, Genetic Association	3.0		0	15
-NTRK3	neurotrophic tyrosine kinase, receptor, type 3	4916	ENSG00000140538	15	1	0.0554818610894805	True	0.024054461632915206	97.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	15
-KCNB1	potassium voltage-gated channel subfamily B member 1	3745	ENSG00000158445	20	1	0.0554818610894805	True	0.02361316548490165	101.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0		1	31
-CDH2	cadherin 2	1000	ENSG00000170558	18	1	0.0554818610894805	True	0.022945432711133154	104.0	Rare Single Gene Mutation, Syndromic	3.0		1	8
-CIB2	Calcium and integrin binding family member 2	10518	ENSG00000136425	15	1	0.0554818610894805	True	0.022460976127462295	108.0	Rare Single Gene Mutation	2.0		0	2
-VWA7	von Willebrand factor A domain containing 7	80737	ENSG00000204396	6	1	0.0554818610894805	True	0.022414566419993627	109.0	Rare Single Gene Mutation	3.0		0	3
-CNTNAP5	contactin associated protein-like 5	129684	ENSG00000155052	2	1	0.0554818610894805	True	0.022351498798879658	110.0	Rare Single Gene Mutation, Genetic Association	2.0		0	16
-SCGN	secretagogin, EF-hand calcium binding protein	10590	ENSG00000079689	6	1	0.0554818610894805	True	0.020951336102639162	120.0	Rare Single Gene Mutation, Functional	3.0		0	4
-VASH1	vasohibin 1	22846	ENSG00000071246	14	1	0.0554818610894805	True	0.01933006597674485	134.0	Genetic Association	2.0		0	4
-SCN2A	sodium channel, voltage-gated, type II, alpha subunit	6326	ENSG00000136531	2	1	0.0554818610894805	True	0.01909156339461735	136.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	109.3	0	141
-CNR1	cannabinoid receptor 1 (brain)	1268	ENSG00000118432	6	1	0.0554818610894805	True	0.01832006682326193	143.0	Rare Single Gene Mutation, Genetic Association	2.0		0	8
-ELAVL2	ELAV like neuron-specific RNA binding protein 2	1993	ENSG00000107105	9	1	0.0554818610894805	True	0.018212491858974243	144.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
-CDH8	cadherin 8, type 2	1006	ENSG00000150394	16	1	0.0554818610894805	True	0.018117580623052618	145.0	Rare Single Gene Mutation	2.0		0	13
-PCDHA1	Protocadherin alpha 1	56147	ENSG00000204970	5	1	0.0554818610894805	True	0.016609356562492378	160.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	5
-DLG4	discs large MAGUK scaffold protein 4	1742	ENSG00000132535	17	1	0.0554818610894805	True	0.016542282262875324	161.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	2.45	0	25
-SCN9A	sodium voltage-gated channel alpha subunit 9	6335	ENSG00000169432	2	2	0.2197922538178101	False	0.0524290158878631	22.0	Rare Single Gene Mutation	2.0		0	11
-AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	116986	ENSG00000135439	12	2	0.2197922538178101	False	0.04014756885079959	37.0	Rare Single Gene Mutation	2.0	3.25	0	6
-CACNA1I	Calcium channel, voltage-dependent, T type, alpha 1I subunit	8911	ENSG00000100346	22	2	0.2197922538178101	False	0.026833625117507916	68.0	Rare Single Gene Mutation, Genetic Association	2.0		0	11
-LRFN5	leucine rich repeat and fibronectin type III domain containing 5	145581	ENSG00000165379	14	2	0.2197922538178101	False	0.02523118695461368	73.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
-CASKIN1	CASK interacting protein 1	57524	ENSG00000167971	16	2	0.2197922538178101	False	0.025229428163562037	74.0	Rare Single Gene Mutation, Functional	2.0		0	9
-SCGN	secretagogin, EF-hand calcium binding protein	10590	ENSG00000079689	6	2	0.2197922538178101	False	0.01982343619834368	107.0	Rare Single Gene Mutation, Functional	3.0		0	4
-SLC45A1	solute carrier family 45 member 1	50651	ENSG00000162426	1	2	0.2197922538178101	False	0.01979635672423204	108.0	Rare Single Gene Mutation, Syndromic			1	6
-CIB2	Calcium and integrin binding family member 2	10518	ENSG00000136425	15	2	0.2197922538178101	False	0.019667946798743337	109.0	Rare Single Gene Mutation	2.0		0	2
-KCNC1	potassium voltage-gated channel subfamily C member 1	3746	ENSG00000129159	11	2	0.2197922538178101	False	0.01893072816945317	118.0	Rare Single Gene Mutation, Functional	2.0		0	10
-CNTNAP5	contactin associated protein-like 5	129684	ENSG00000155052	2	2	0.2197922538178101	False	0.018517149817063615	120.0	Rare Single Gene Mutation, Genetic Association	2.0		0	16
-MAP1A	microtubule associated protein 1A	4130	ENSG00000166963	15	2	0.2197922538178101	False	0.01806182971761576	123.0	Rare Single Gene Mutation	1.0	0.0	0	4
-SCN2A	sodium channel, voltage-gated, type II, alpha subunit	6326	ENSG00000136531	2	2	0.2197922538178101	False	0.018021758140354557	125.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	109.3	0	141
-KCNB1	potassium voltage-gated channel subfamily B member 1	3745	ENSG00000158445	20	2	0.2197922538178101	False	0.017804981462390106	128.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0		1	31
-SLC24A2	solute carrier family 24 member 2	25769	ENSG00000155886	9	2	0.2197922538178101	False	0.017500536776456858	130.0	Rare Single Gene Mutation	2.0		0	4
-GRID1	Glutamate receptor, ionotropic, delta 1	2894	ENSG00000182771	10	2	0.2197922538178101	False	0.016562662584339024	137.0	Rare Single Gene Mutation, Genetic Association	2.0		0	7
-SCN9A	sodium voltage-gated channel alpha subunit 9	6335	ENSG00000169432	2	3	0.0299895626641447	True	0.08403646534459598	8.0	Rare Single Gene Mutation	2.0		0	11
-AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	116986	ENSG00000135439	12	3	0.0299895626641447	True	0.0696226552296741	12.0	Rare Single Gene Mutation	2.0	3.25	0	6
-KCNN2	potassium calcium-activated channel subfamily N member 2	3781	ENSG00000080709	5	3	0.0299895626641447	True	0.05556805979271273	21.0	Rare Single Gene Mutation	3.0		0	4
-SLC45A1	solute carrier family 45 member 1	50651	ENSG00000162426	1	3	0.0299895626641447	True	0.05099200506701772	29.0	Rare Single Gene Mutation, Syndromic			1	6
-CDH2	cadherin 2	1000	ENSG00000170558	18	3	0.0299895626641447	True	0.045765718121378945	32.0	Rare Single Gene Mutation, Syndromic	3.0		1	8
-LRFN5	leucine rich repeat and fibronectin type III domain containing 5	145581	ENSG00000165379	14	3	0.0299895626641447	True	0.041814339882508135	36.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
-RPH3A	rabphilin 3A	22895	ENSG00000089169	12	3	0.0299895626641447	True	0.038301325939032044	41.0	Rare Single Gene Mutation, Functional	3.0		0	7
-PCDHA1	Protocadherin alpha 1	56147	ENSG00000204970	5	3	0.0299895626641447	True	0.037105938930301334	47.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	5
-DCC	DCCnetrin 1 receptor	1630	ENSG00000187323	18	3	0.0299895626641447	True	0.03353797943104581	53.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
-GABBR2	gamma-aminobutyric acid type B receptor subunit 2	9568	ENSG00000136928	9	3	0.0299895626641447	True	0.03198794883264978	56.0	Rare Single Gene Mutation, Syndromic, Functional	2.0		1	16
-VASH1	vasohibin 1	22846	ENSG00000071246	14	3	0.0299895626641447	True	0.031856016556465576	57.0	Genetic Association	2.0		0	4
-GRIK4	Glutamate receptor, ionotropic, kainate 4	2900	ENSG00000149403	11	3	0.0299895626641447	True	0.03177704670856864	60.0	Rare Single Gene Mutation, Functional	2.0		0	7
-SCN2A	sodium channel, voltage-gated, type II, alpha subunit	6326	ENSG00000136531	2	3	0.0299895626641447	True	0.029802783198989376	68.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	109.3	0	141
-KCNB1	potassium voltage-gated channel subfamily B member 1	3745	ENSG00000158445	20	3	0.0299895626641447	True	0.029590504078258435	70.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0		1	31
-CNR1	cannabinoid receptor 1 (brain)	1268	ENSG00000118432	6	3	0.0299895626641447	True	0.02923688990910827	71.0	Rare Single Gene Mutation, Genetic Association	2.0		0	8
-ELAVL2	ELAV like neuron-specific RNA binding protein 2	1993	ENSG00000107105	9	3	0.0299895626641447	True	0.02891512708515495	73.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
-NTRK3	neurotrophic tyrosine kinase, receptor, type 3	4916	ENSG00000140538	15	3	0.0299895626641447	True	0.02673925322522238	81.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	15
-RIMS1	Regulating synaptic membrane exocytosis 1	22999	ENSG00000079841	6	3	0.0299895626641447	True	0.026267852330232606	85.0	Rare Single Gene Mutation, Genetic Association	1.0	11.35	0	11
-GRM7	Glutamate receptor, metabotropic 7	2917	ENSG00000196277	3	3	0.0299895626641447	True	0.02600063919273079	89.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	18
-CASKIN1	CASK interacting protein 1	57524	ENSG00000167971	16	3	0.0299895626641447	True	0.025653178849280107	91.0	Rare Single Gene Mutation, Functional	2.0		0	9
-CADPS	calcium dependent secretion activator	8618	ENSG00000163618	3	3	0.0299895626641447	True	0.025589362685570233	92.0	Rare Single Gene Mutation, Genetic Association	2.0		0	5
-MDGA2	MAM domain containing glycosylphosphatidylinositol anchor 2	161357	ENSG00000139915	14	3	0.0299895626641447	True	0.02553104334904031	93.0	Rare Single Gene Mutation, Genetic Association	2.0		0	9
-DGKI	diacylglycerol kinase iota	9162	ENSG00000157680	7	3	0.0299895626641447	True	0.024057943145399545	103.0	Rare Single Gene Mutation, Genetic Association	3.0		0	5
-CADM2	Cell adhesion molecule 2	253559	ENSG00000175161	3	3	0.0299895626641447	True	0.02382937456924971	107.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
-NRXN1	neurexin 1	9378	ENSG00000179915	2	3	0.0299895626641447	True	0.02273486011222057	113.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0	143.75	0	118
-PCDH15	protocadherin related 15	65217	ENSG00000150275	10	3	0.0299895626641447	True	0.022671149007516957	114.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	2.0		0	13
-DLG4	discs large MAGUK scaffold protein 4	1742	ENSG00000132535	17	3	0.0299895626641447	True	0.02173990032394841	119.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	2.45	0	25
-CDH10	cadherin 10, type 2 (T2-cadherin)	1008	ENSG00000040731	5	3	0.0299895626641447	True	0.019280796701514454	134.0	Rare Single Gene Mutation, Genetic Association	2.0		0	11
-SHANK1	SH3 and multiple ankyrin repeat domains 1	50944	ENSG00000161681	19	3	0.0299895626641447	True	0.01852633581457197	138.0	Rare Single Gene Mutation, Genetic Association	2.0	14.65	0	18
-AHI1	Abelson helper integration site 1	54806	ENSG00000135541	6	3	0.0299895626641447	True	0.01838058122984702	140.0	Rare Single Gene Mutation, Syndromic, Genetic Association			1	23
-DMXL2	Dmx-like 2	23312	ENSG00000104093	15	3	0.0299895626641447	True	0.018167407352313536	143.0	Rare Single Gene Mutation	2.0		0	10
-MAP1A	microtubule associated protein 1A	4130	ENSG00000166963	15	3	0.0299895626641447	True	0.018096273692190808	144.0	Rare Single Gene Mutation	1.0	0.0	0	4
-GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	2562	ENSG00000166206	15	3	0.0299895626641447	True	0.01783654230864407	145.0	Rare Single Gene Mutation, Genetic Association, Functional	1.0		0	52
-CNTNAP5	contactin associated protein-like 5	129684	ENSG00000155052	2	3	0.0299895626641447	True	0.01776655676271826	146.0	Rare Single Gene Mutation, Genetic Association	2.0		0	16
-SLC24A2	solute carrier family 24 member 2	25769	ENSG00000155886	9	3	0.0299895626641447	True	0.017623820908966796	147.0	Rare Single Gene Mutation	2.0		0	4
-RBFOX1	RNA binding protein, fox-1 homolog (C. elegans) 1	54715	ENSG00000078328	16	3	0.0299895626641447	True	0.016626041996938533	153.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	45
+RPH3A	rabphilin 3A	22895	ENSG00000089169	12	1	0.0493421829057201	True	0.09529402210819198	10.0	Rare Single Gene Mutation, Functional	3.0		0	7
+SCN9A	sodium voltage-gated channel alpha subunit 9	6335	ENSG00000169432	2	1	0.0493421829057201	True	0.06773741266753587	25.0	Rare Single Gene Mutation	2.0		0	11
+HTR1B	5-hydroxytryptamine (serotonin) receptor 1B	3351	ENSG00000135312	6	1	0.0493421829057201	True	0.06540943611974259	27.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
+PCDH10	protocadherin 10	57575	ENSG00000138650	4	1	0.0493421829057201	True	0.05712994749658273	33.0	Rare Single Gene Mutation, Functional	2.0		0	12
+HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	3359	ENSG00000166736	11	1	0.0493421829057201	True	0.04996551897555991	42.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	9
+GABBR2	gamma-aminobutyric acid type B receptor subunit 2	9568	ENSG00000136928	9	1	0.0493421829057201	True	0.0422978832664631	52.0	Rare Single Gene Mutation, Syndromic, Functional	2.0		1	16
+GPR85	G protein-coupled receptor 85	54329	ENSG00000164604	7	1	0.0493421829057201	True	0.03657314889527762	62.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
+SLC45A1	solute carrier family 45 member 1	50651	ENSG00000162426	1	1	0.0493421829057201	True	0.035318078187875475	66.0	Rare Single Gene Mutation, Syndromic			1	6
+CASKIN1	CASK interacting protein 1	57524	ENSG00000167971	16	1	0.0493421829057201	True	0.031048345615756	79.0	Rare Single Gene Mutation, Functional	2.0		0	9
+MAP1A	microtubule associated protein 1A	4130	ENSG00000166963	15	1	0.0493421829057201	True	0.028633349640546757	90.0	Rare Single Gene Mutation	1.0	0.0	0	4
+HCN1	Hyperpolarization activated cyclic nucleotide-gated potassium channel 1	348980	ENSG00000164588	5	1	0.0493421829057201	True	0.02657732039517599	96.0	Rare Single Gene Mutation, Genetic Association	3.0		0	15
+NTRK3	neurotrophic tyrosine kinase, receptor, type 3	4916	ENSG00000140538	15	1	0.0493421829057201	True	0.026468263465154424	97.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	15
+KCNB1	potassium voltage-gated channel subfamily B member 1	3745	ENSG00000158445	20	1	0.0493421829057201	True	0.025983734912982507	100.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0		1	31
+CDH2	cadherin 2	1000	ENSG00000170558	18	1	0.0493421829057201	True	0.025249002408581717	104.0	Rare Single Gene Mutation, Syndromic	3.0		1	8
+CIB2	Calcium and integrin binding family member 2	10518	ENSG00000136425	15	1	0.0493421829057201	True	0.024715585009588502	108.0	Rare Single Gene Mutation	2.0		0	2
+VWA7	von Willebrand factor A domain containing 7	80737	ENSG00000204396	6	1	0.0493421829057201	True	0.024661001454155146	109.0	Rare Single Gene Mutation	3.0		0	3
+CNTNAP5	contactin associated protein-like 5	129684	ENSG00000155052	2	1	0.0493421829057201	True	0.024595523889381164	110.0	Rare Single Gene Mutation, Genetic Association	2.0		0	16
+SCGN	secretagogin, EF-hand calcium binding protein	10590	ENSG00000079689	6	1	0.0493421829057201	True	0.023053529845780386	120.0	Rare Single Gene Mutation, Functional	3.0		0	4
+VASH1	vasohibin 1	22846	ENSG00000071246	14	1	0.0493421829057201	True	0.02126994749579292	134.0	Genetic Association	2.0		0	4
+SCN2A	sodium channel, voltage-gated, type II, alpha subunit	6326	ENSG00000136531	2	1	0.0493421829057201	True	0.02100652689136913	136.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	109.3	0	141
+CNR1	cannabinoid receptor 1 (brain)	1268	ENSG00000118432	6	1	0.0493421829057201	True	0.020157348798377443	143.0	Rare Single Gene Mutation, Genetic Association	2.0		0	8
+ELAVL2	ELAV like neuron-specific RNA binding protein 2	1993	ENSG00000107105	9	1	0.0493421829057201	True	0.020039891663839376	144.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
+CDH8	cadherin 8, type 2	1006	ENSG00000150394	16	1	0.0493421829057201	True	0.01993236995068902	145.0	Rare Single Gene Mutation	2.0		0	13
+PCDHA1	Protocadherin alpha 1	56147	ENSG00000204970	5	1	0.0493421829057201	True	0.018273219124136954	160.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	5
+DLG4	discs large MAGUK scaffold protein 4	1742	ENSG00000132535	17	1	0.0493421829057201	True	0.01820273860044065	161.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	2.45	0	25
+CAMK2A	calcium/calmodulin dependent protein kinase II alpha	815	ENSG00000070808	5	1	0.0493421829057201	True	0.017442603258622763	166.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	2.0		1	13
+SCN9A	sodium voltage-gated channel alpha subunit 9	6335	ENSG00000169432	2	2	0.2942020029586559	False	0.05323708507181501	22.0	Rare Single Gene Mutation	2.0		0	11
+AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	116986	ENSG00000135439	12	2	0.2942020029586559	False	0.04076723005889113	37.0	Rare Single Gene Mutation	2.0	3.25	0	6
+CACNA1I	Calcium channel, voltage-dependent, T type, alpha 1I subunit	8911	ENSG00000100346	22	2	0.2942020029586559	False	0.02724656243126844	68.0	Rare Single Gene Mutation, Genetic Association	2.0		0	11
+LRFN5	leucine rich repeat and fibronectin type III domain containing 5	145581	ENSG00000165379	14	2	0.2942020029586559	False	0.02561957321612998	73.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
+CASKIN1	CASK interacting protein 1	57524	ENSG00000167971	16	2	0.2942020029586559	False	0.025616573426064656	74.0	Rare Single Gene Mutation, Functional	2.0		0	9
+SCGN	secretagogin, EF-hand calcium binding protein	10590	ENSG00000079689	6	2	0.2942020029586559	False	0.020128672101916777	107.0	Rare Single Gene Mutation, Functional	3.0		0	4
+SLC45A1	solute carrier family 45 member 1	50651	ENSG00000162426	1	2	0.2942020029586559	False	0.020100954041713165	108.0	Rare Single Gene Mutation, Syndromic			1	6
+CIB2	Calcium and integrin binding family member 2	10518	ENSG00000136425	15	2	0.2942020029586559	False	0.01997131003768223	109.0	Rare Single Gene Mutation	2.0		0	2
+KCNC1	potassium voltage-gated channel subfamily C member 1	3746	ENSG00000129159	11	2	0.2942020029586559	False	0.01921894192152107	118.0	Rare Single Gene Mutation, Functional	2.0		0	10
+CNTNAP5	contactin associated protein-like 5	129684	ENSG00000155052	2	2	0.2942020029586559	False	0.018802912575015093	120.0	Rare Single Gene Mutation, Genetic Association	2.0		0	16
+MAP1A	microtubule associated protein 1A	4130	ENSG00000166963	15	2	0.2942020029586559	False	0.018340535318234416	123.0	Rare Single Gene Mutation	1.0	0.0	0	4
+SCN2A	sodium channel, voltage-gated, type II, alpha subunit	6326	ENSG00000136531	2	2	0.2942020029586559	False	0.018298456339975757	124.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	109.3	0	141
+KCNB1	potassium voltage-gated channel subfamily B member 1	3745	ENSG00000158445	20	2	0.2942020029586559	False	0.018079758952793977	128.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0		1	31
+SLC24A2	solute carrier family 24 member 2	25769	ENSG00000155886	9	2	0.2942020029586559	False	0.01776858842178688	130.0	Rare Single Gene Mutation	2.0		0	4
+GRID1	Glutamate receptor, ionotropic, delta 1	2894	ENSG00000182771	10	2	0.2942020029586559	False	0.01681765497107851	137.0	Rare Single Gene Mutation, Genetic Association	2.0		0	7
+ELAVL2	ELAV like neuron-specific RNA binding protein 2	1993	ENSG00000107105	9	2	0.2942020029586559	False	0.01650574487644377	139.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
+CDH2	cadherin 2	1000	ENSG00000170558	18	2	0.2942020029586559	False	0.016503407347723636	140.0	Rare Single Gene Mutation, Syndromic	3.0		1	8
+SCN9A	sodium voltage-gated channel alpha subunit 9	6335	ENSG00000169432	2	3	0.0294166066070175	True	0.09186133719235755	8.0	Rare Single Gene Mutation	2.0		0	11
+AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	116986	ENSG00000135439	12	3	0.0294166066070175	True	0.0761079978778833	12.0	Rare Single Gene Mutation	2.0	3.25	0	6
+KCNN2	potassium calcium-activated channel subfamily N member 2	3781	ENSG00000080709	5	3	0.0294166066070175	True	0.060744331211281165	21.0	Rare Single Gene Mutation	3.0		0	4
+SLC45A1	solute carrier family 45 member 1	50651	ENSG00000162426	1	3	0.0294166066070175	True	0.05573700151824438	29.0	Rare Single Gene Mutation, Syndromic			1	6
+CDH2	cadherin 2	1000	ENSG00000170558	18	3	0.0294166066070175	True	0.05002863494928855	32.0	Rare Single Gene Mutation, Syndromic	3.0		1	8
+LRFN5	leucine rich repeat and fibronectin type III domain containing 5	145581	ENSG00000165379	14	3	0.0294166066070175	True	0.045706880072877036	36.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
+RPH3A	rabphilin 3A	22895	ENSG00000089169	12	3	0.0294166066070175	True	0.041862618780560745	41.0	Rare Single Gene Mutation, Functional	3.0		0	7
+PCDHA1	Protocadherin alpha 1	56147	ENSG00000204970	5	3	0.0294166066070175	True	0.04054700746356233	47.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	5
+DCC	DCCnetrin 1 receptor	1630	ENSG00000187323	18	3	0.0294166066070175	True	0.03666152257261341	53.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
+GABBR2	gamma-aminobutyric acid type B receptor subunit 2	9568	ENSG00000136928	9	3	0.0294166066070175	True	0.03496751303661504	56.0	Rare Single Gene Mutation, Syndromic, Functional	2.0		1	16
+VASH1	vasohibin 1	22846	ENSG00000071246	14	3	0.0294166066070175	True	0.03482100924710113	57.0	Genetic Association	2.0		0	4
+GRIK4	Glutamate receptor, ionotropic, kainate 4	2900	ENSG00000149403	11	3	0.0294166066070175	True	0.034730943886476316	60.0	Rare Single Gene Mutation, Functional	2.0		0	7
+SCN2A	sodium channel, voltage-gated, type II, alpha subunit	6326	ENSG00000136531	2	3	0.0294166066070175	True	0.032575743657375845	68.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	109.3	0	141
+KCNB1	potassium voltage-gated channel subfamily B member 1	3745	ENSG00000158445	20	3	0.0294166066070175	True	0.03234663750534286	70.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0		1	31
+CNR1	cannabinoid receptor 1 (brain)	1268	ENSG00000118432	6	3	0.0294166066070175	True	0.03195683197609067	71.0	Rare Single Gene Mutation, Genetic Association	2.0		0	8
+ELAVL2	ELAV like neuron-specific RNA binding protein 2	1993	ENSG00000107105	9	3	0.0294166066070175	True	0.031606132226989034	73.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	7
+NTRK3	neurotrophic tyrosine kinase, receptor, type 3	4916	ENSG00000140538	15	3	0.0294166066070175	True	0.029228338200823604	81.0	Rare Single Gene Mutation, Syndromic, Genetic Association	2.0		0	15
+RIMS1	Regulating synaptic membrane exocytosis 1	22999	ENSG00000079841	6	3	0.0294166066070175	True	0.028714328592026196	85.0	Rare Single Gene Mutation, Genetic Association	1.0	11.35	0	11
+GRM7	Glutamate receptor, metabotropic 7	2917	ENSG00000196277	3	3	0.0294166066070175	True	0.02842266992746973	89.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	18
+CASKIN1	CASK interacting protein 1	57524	ENSG00000167971	16	3	0.0294166066070175	True	0.02804014232267509	91.0	Rare Single Gene Mutation, Functional	2.0		0	9
+CADPS	calcium dependent secretion activator	8618	ENSG00000163618	3	3	0.0294166066070175	True	0.027972566241336212	92.0	Rare Single Gene Mutation, Genetic Association	2.0		0	5
+MDGA2	MAM domain containing glycosylphosphatidylinositol anchor 2	161357	ENSG00000139915	14	3	0.0294166066070175	True	0.027908162179604228	93.0	Rare Single Gene Mutation, Genetic Association	2.0		0	9
+DGKI	diacylglycerol kinase iota	9162	ENSG00000157680	7	3	0.0294166066070175	True	0.026297592913654858	103.0	Rare Single Gene Mutation, Genetic Association	3.0		0	5
+CADM2	Cell adhesion molecule 2	253559	ENSG00000175161	3	3	0.0294166066070175	True	0.02604889767662395	107.0	Rare Single Gene Mutation, Genetic Association	2.0		0	6
+NRXN1	neurexin 1	9378	ENSG00000179915	2	3	0.0294166066070175	True	0.024852520243806193	113.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	1.0	143.75	0	118
+PCDH15	protocadherin related 15	65217	ENSG00000150275	10	3	0.0294166066070175	True	0.02478255303267853	114.0	Rare Single Gene Mutation, Syndromic, Genetic Association, Functional	2.0		0	13
+DLG4	discs large MAGUK scaffold protein 4	1742	ENSG00000132535	17	3	0.0294166066070175	True	0.02376442904335895	119.0	Rare Single Gene Mutation, Syndromic, Functional	1.0	2.45	0	25
+CDH10	cadherin 10, type 2 (T2-cadherin)	1008	ENSG00000040731	5	3	0.0294166066070175	True	0.021075949241414843	134.0	Rare Single Gene Mutation, Genetic Association	2.0		0	11
+SHANK1	SH3 and multiple ankyrin repeat domains 1	50944	ENSG00000161681	19	3	0.0294166066070175	True	0.020250833948733518	138.0	Rare Single Gene Mutation, Genetic Association	2.0	14.65	0	18
+AHI1	Abelson helper integration site 1	54806	ENSG00000135541	6	3	0.0294166066070175	True	0.020092658245168822	140.0	Rare Single Gene Mutation, Syndromic, Genetic Association			1	23
+DMXL2	Dmx-like 2	23312	ENSG00000104093	15	3	0.0294166066070175	True	0.019859169806966635	143.0	Rare Single Gene Mutation	2.0		0	10
+MAP1A	microtubule associated protein 1A	4130	ENSG00000166963	15	3	0.0294166066070175	True	0.01978133950957168	144.0	Rare Single Gene Mutation	1.0	0.0	0	4
+GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	2562	ENSG00000166206	15	3	0.0294166066070175	True	0.019495360008740987	145.0	Rare Single Gene Mutation, Genetic Association, Functional	1.0		0	52
+CNTNAP5	contactin associated protein-like 5	129684	ENSG00000155052	2	3	0.0294166066070175	True	0.019421772274239406	146.0	Rare Single Gene Mutation, Genetic Association	2.0		0	16
+SLC24A2	solute carrier family 24 member 2	25769	ENSG00000155886	9	3	0.0294166066070175	True	0.019262569916272614	147.0	Rare Single Gene Mutation	2.0		0	4
+RBFOX1	RNA binding protein, fox-1 homolog (C. elegans) 1	54715	ENSG00000078328	16	3	0.0294166066070175	True	0.018172295784960355	153.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	45
+CTNND2	Catenin (cadherin-associated protein), delta 2	1501	ENSG00000169862	5	3	0.0294166066070175	True	0.017740131810624997	158.0	Rare Single Gene Mutation, Syndromic, Functional	2.0		0	17
+HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	3359	ENSG00000166736	11	3	0.0294166066070175	True	0.017687632252791616	159.0	Rare Single Gene Mutation, Genetic Association, Functional	2.0		0	9
+IL1R2	interleukin 1 receptor, type II	7850	ENSG00000115590	2	3	0.0294166066070175	True	0.017019861791358906	166.0	Rare Single Gene Mutation	2.0		0	8
+CELF4	CUGBP, Elav-like family member 4	56853	ENSG00000101489	18	3	0.0294166066070175	True	0.01648468456047549	173.0	Rare Single Gene Mutation, Functional	1.0	8.5	0	15

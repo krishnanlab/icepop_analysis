@@ -1,169 +1,168 @@
 source	target	weight
-Neutrophil count	White blood cell count	0.9029824645187523
-Neutrophil count	Total protein	0.7784082108139829
-Eosinophil count	Lymphocyte count	0.8947099013478159
-Eosinophil count	White blood cell count	0.7602464117210417
-Eosinophil count	Hypothyroidism	0.8592182378385456
-Lymphocyte count	Monocyte count	0.8320274790936276
-Lymphocyte count	White blood cell count	0.8681571467145455
-Lymphocyte count	Total protein	0.8464552506322104
-Mean corpuscular hemoglobin	Red blood cell distribution width	0.9318822946490118
-Mean corpuscular hemoglobin	Red blood cell count	0.8256618501878629
-Monocyte count	Neutrophil count	0.8784576994728935
-Monocyte count	White blood cell count	0.9568022377394363
-Platelet count	Red blood cell count	0.850610590961662
-Platelet count	White blood cell count	0.8349711814297796
-Platelet count	Total protein	0.8155750576035685
-Red blood cell count	Red blood cell distribution width	0.850045892979552
-Red blood cell count	Total bilirubin	0.872249423182591
-Crohn disease	UC	0.8921685651487562
-Crohn disease	IBD	0.9661801504563391
-Crohn disease	Multiple sclerosis	0.9009756390792031
-Crohn disease	Eczema	0.9028009465000105
-Celiac disease	UC	0.8345106444446887
-Celiac disease	Multiple sclerosis	0.8547392724548841
-Celiac disease	RA	0.8404399944008826
-IBD	UC	0.9301153916048747
-IBD	Multiple sclerosis	0.8769508812839353
-SLE	UC	0.8771834610741193
-Primary biliary cirrhosis	UC	0.8716321420280546
-Primary biliary cirrhosis	SLE	0.8876852911334812
-Primary biliary cirrhosis	RA	0.8508176158006971
-RA	SLE	0.871836451789205
-RA	Respiratory ENT	0.877776107337764
-Eczema	Multiple sclerosis	0.8707255412514099
-Eczema	Respiratory ENT	0.8901060033077703
-Hypothyroidism	Lymphocyte count	0.849663743682911
-Hypothyroidism	IBD	0.8464095498361642
-Fasting glucose	Type 2 diabetes	0.8718843316616576
-Alanine aminotransferase	Alkaline phosphatase	0.9062829940230992
-Alanine aminotransferase	Hemoglobin A1c	0.897670190746347
-Alanine aminotransferase	HDL cholesterol	0.8946263686491898
-Alanine aminotransferase	Sex hormone binding globulin	0.9346771837203299
-Alanine aminotransferase	Triglycerides	0.8884778436093952
-Alanine aminotransferase	Balding Type I	0.797857519443542
-Alkaline phosphatase	Total cholesterol	0.9049759357644852
-Alkaline phosphatase	LDL cholesterol	0.8891586608127028
-Alkaline phosphatase	Total bilirubin	0.9022036801759741
-Blood glucose	Fasting glucose	0.8783890392658036
-Blood glucose	Testosterone male	0.8315172415527936
-Hemoglobin A1c	Mean corpuscular hemoglobin	0.7608913975235713
-Hemoglobin A1c	Red blood cell distribution width	0.8199870476003194
-Hemoglobin A1c	Red blood cell count	0.8873323430467118
-Hemoglobin A1c	Sex hormone binding globulin	0.8899636636927153
-Hemoglobin A1c	Total bilirubin	0.924378589176298
-HDL cholesterol	Sex hormone binding globulin	0.8767265658933725
-HDL cholesterol	Triglycerides	0.9363760596174261
-LDL cholesterol	Total cholesterol	0.9852137006258082
-LDL cholesterol	Total bilirubin	0.8762860881228172
-Sex hormone binding globulin	Testosterone male	0.8964304633516229
-Sex hormone binding globulin	Triglycerides	0.8954564857656804
-Testosterone male	Vitamin D	0.849461976975328
-Total bilirubin	Total cholesterol	0.9040003965131104
-Total protein	White blood cell count	0.8662231765038892
-Basal metabolic rate	Schizophrenia	0.8216858795409838
-Basal metabolic rate	Lung FVC	0.8245956515272611
-BMI	Basal metabolic rate	0.876546856905463
-BMI	Neuroticism	0.9050438480724832
-BMI	Morning person	0.9015018875022417
-BMI	Smoking status	0.9133642026601543
-ASD	Fasting glucose	0.8833640703760969
-ASD	Blood glucose	0.8332793657214326
-ASD	Insomnia	0.9003450232468116
-ASD	Drinks per week	0.8901806280670247
-ASD	Heart failure	0.8656986425856593
-ADHD	Type 2 diabetes	0.8679999019729026
-ADHD	ASD	0.8977665456077654
-ADHD	General risk tolerance	0.8911832994878232
-ADHD	Sleep duration	0.8899739503571614
-ADHD	Number of children ever born	0.8880144921716802
-Alzheimer disease	Vitiligo	0.8121095719897014
-Alzheimer disease	IPF	0.7974666709542991
-Alzheimer disease	Melanoma	0.8384276149097811
-Bipolar disorder	Schizophrenia	0.8926667301492159
-Bipolar disorder	Sleep duration	0.9217283281232441
-Bipolar disorder	Verbal numeric reasoning	0.9126481936587852
-Bipolar disorder	Smoking status	0.9088504764543716
-General risk tolerance	Insomnia	0.8998907911454757
-General risk tolerance	Number of children ever born	0.8914095690635865
-Insomnia	Sleep duration	0.9049792427971012
-Insomnia	Number of children ever born	0.9027068805412646
-Intelligence	Schizophrenia	0.899384376603346
-Intelligence	Verbal numeric reasoning	0.9784361300646319
-Intelligence	Years of education	0.9442038558765278
-MDD	Subjective well being	0.7254634016413705
-MDD	Worry	0.9256612980982567
-MDD	Neuroticism	0.9346786051588887
-MDD	Morning person	0.9136181918838931
-Reaction time	Worry	0.9074210092015245
-Reaction time	Smoking status	0.9256644628528623
-Schizophrenia	Smoking status	0.9067990393998541
-Sleep duration	Smoking status	0.9164007346180125
-Subjective well being	Worry	0.7248383358454017
-Verbal numeric reasoning	Years of education	0.908963119113367
-Neuroticism	Reaction time	0.904647358680493
-Neuroticism	Subjective well being	0.7218494084606889
-Neuroticism	Worry	0.9716503152355735
-Neuroticism	Smoking status	0.9215407999236143
-Morning person	Worry	0.9097636847598151
-Morning person	Neuroticism	0.9352743160631712
-Drinks per week	General risk tolerance	0.8871966676855152
-Drinks per week	Insomnia	0.8936167860710856
-College education	Intelligence	0.9449677631470783
-College education	Verbal numeric reasoning	0.9234471662935262
-College education	Years of education	0.978520646100893
-Smoking status	Verbal numeric reasoning	0.9128608114889214
-Smoking status	Worry	0.9283797559670559
-Coronary atherosclerosis	HDL cholesterol	0.8445049297432472
-Coronary atherosclerosis	Triglycerides	0.8429581013125268
-Coronary atherosclerosis	Hypertension	0.8551383616115691
-Heart failure	IPF	0.8546169491447875
-Heart failure	Melanoma	0.8741078384134519
-Atrial fibrillation	Type 2 diabetes	0.840531340046647
-Atrial fibrillation	Coronary atherosclerosis	0.8379179249972771
-Atrial fibrillation	Heart failure	0.8508488396913152
-Coronary artery disease	Fasting glucose	0.8671285626221829
-Coronary artery disease	Vitamin D	0.8285958353707773
-Coronary artery disease	Heart failure	0.85491862328677
-Coronary artery disease	Prostate cancer	0.8672814818626626
-Diastolic blood pressure	WHRadjBMI	0.8418798266679507
-Diastolic blood pressure	Systolic blood pressure	0.9681678366788221
-Diastolic blood pressure	Hypertension	0.9129704510793976
-Systolic blood pressure	WHRadjBMI	0.8785242476111869
-Hypertension	Systolic blood pressure	0.891499203973348
-IPF	Type 2 diabetes	0.8560078011463225
-IPF	Melanoma	0.8938112276316567
-Asthma	RA	0.8734358066643596
-Asthma	Eczema	0.9076226641598184
-Asthma	Respiratory ENT	0.9900408184459399
-FEV1 FVC ratio	WHRadjBMI	0.8925673906323435
-FEV1 FVC ratio	Lung FVC	0.8983796078899969
-FEV1 FVC ratio	Heel T score	0.9107585079898495
-FEV1 FVC ratio	Height	0.8338250310858054
-Lung FVC	WHRadjBMI	0.8689061964861209
-Lung FVC	Systolic blood pressure	0.8593600845702232
-Hair color	Vitamin D	0.773060850614657
-Hair color	Hair pigmentation	0.9821659310691961
-Melanoma	Vitiligo	0.8912292251086471
-Melanoma	Prostate cancer	0.8670844856908034
-Prostate cancer	Vitiligo	0.8654739021290729
-Heel T score	WHRadjBMI	0.9126916667250797
-Heel T score	Height	0.8755155828616056
-Balding Type I	Coronary atherosclerosis	0.8165600589964193
-Balding Type I	Hair color	0.7914703830682158
-Balding Type I	Hair pigmentation	0.8151290634565236
-Height	WHRadjBMI	0.8255366758027276
-Breast cancer	Vitiligo	0.8673987882484059
-Breast cancer	Fasting glucose	0.8692573064765519
-Breast cancer	Type 2 diabetes	0.8760590285003601
-Breast cancer	Testosterone male	0.8598612404174286
-Breast cancer	Vitamin D	0.830809442135646
-Breast cancer	Coronary artery disease	0.8658121400421406
-Breast cancer	Prostate cancer	0.8913051437080106
-Hair pigmentation	Vitamin D	0.7734108410488014
-Age at menarche	Bipolar disorder	0.9034602407559535
-Age at menarche	General risk tolerance	0.9081775625789271
-Age at menarche	Smoking status	0.9082607320712383
-Age at menopause	Hemoglobin A1c	0.8283947327980369
-Age at menopause	Sex hormone binding globulin	0.849966477086917
-Age at menopause	Testosterone male	0.862593242163129
+Neutrophil count	White blood cell count	0.9027471393483253
+Neutrophil count	Total protein	0.7783935860797786
+Eosinophil count	Lymphocyte count	0.894664492980365
+Eosinophil count	White blood cell count	0.7601836027027523
+Eosinophil count	Hypothyroidism	0.8591206114439472
+Lymphocyte count	Monocyte count	0.8321071448266725
+Lymphocyte count	White blood cell count	0.8682466858339006
+Lymphocyte count	Total protein	0.8466951907783065
+Mean corpuscular hemoglobin	Red blood cell distribution width	0.9318933033941257
+Mean corpuscular hemoglobin	Red blood cell count	0.825575811218136
+Monocyte count	Neutrophil count	0.8783823966275628
+Monocyte count	White blood cell count	0.9567229701823785
+Platelet count	Red blood cell count	0.8505341448817773
+Platelet count	White blood cell count	0.8349012046709721
+Platelet count	Total protein	0.8155947268529974
+Red blood cell count	Red blood cell distribution width	0.8500558705260004
+Red blood cell count	Total bilirubin	0.8722149804057857
+Crohn disease	UC	0.8920153044659114
+Crohn disease	IBD	0.9661707625659333
+Crohn disease	Multiple sclerosis	0.901026851278282
+Crohn disease	Eczema	0.902849840875419
+Celiac disease	UC	0.8351380507397895
+Celiac disease	Multiple sclerosis	0.8547709826315297
+Celiac disease	RA	0.8404947401613063
+IBD	UC	0.9301092928582723
+IBD	Multiple sclerosis	0.8772013885402596
+SLE	UC	0.8772360400486235
+Primary biliary cirrhosis	UC	0.8716599959297539
+Primary biliary cirrhosis	SLE	0.8876113739158638
+Primary biliary cirrhosis	RA	0.8508401897216769
+RA	SLE	0.8718038023450778
+RA	Respiratory ENT	0.8777125176599082
+Eczema	Multiple sclerosis	0.8706603283546337
+Eczema	Respiratory ENT	0.8901377637689576
+Hypothyroidism	Lymphocyte count	0.8495242070025364
+Hypothyroidism	IBD	0.8462938374276485
+Fasting glucose	Type 2 diabetes	0.8720694961571582
+Alanine aminotransferase	Alkaline phosphatase	0.9067007868543284
+Alanine aminotransferase	Hemoglobin A1c	0.8977682916980294
+Alanine aminotransferase	HDL cholesterol	0.8947605803925018
+Alanine aminotransferase	Sex hormone binding globulin	0.934717300608273
+Alanine aminotransferase	Triglycerides	0.8884879325167047
+Alanine aminotransferase	Balding Type I	0.7975673970360142
+Alkaline phosphatase	Total cholesterol	0.9048519711934155
+Alkaline phosphatase	LDL cholesterol	0.8890128303996696
+Alkaline phosphatase	Total bilirubin	0.9021449179280725
+Blood glucose	Fasting glucose	0.8782713937736067
+Blood glucose	Testosterone male	0.8313590218800334
+Hemoglobin A1c	Mean corpuscular hemoglobin	0.7608966796821965
+Hemoglobin A1c	Red blood cell distribution width	0.8201017025474359
+Hemoglobin A1c	Red blood cell count	0.8874485190511088
+Hemoglobin A1c	Sex hormone binding globulin	0.8898774833893692
+Hemoglobin A1c	Total bilirubin	0.9244363641088444
+HDL cholesterol	Sex hormone binding globulin	0.8766455999725964
+HDL cholesterol	Triglycerides	0.9363515556046966
+LDL cholesterol	Total cholesterol	0.9852261662522497
+LDL cholesterol	Total bilirubin	0.8761623594213487
+Sex hormone binding globulin	Testosterone male	0.8964814987119134
+Sex hormone binding globulin	Triglycerides	0.8953925950759463
+Testosterone male	Vitamin D	0.8493906390904279
+Total bilirubin	Total cholesterol	0.9038998880983704
+Total protein	White blood cell count	0.8661874492211687
+Basal metabolic rate	Schizophrenia	0.8213858350746399
+Basal metabolic rate	Lung FVC	0.8243715488827071
+BMI	Basal metabolic rate	0.8768384445589814
+BMI	Neuroticism	0.9048309133515792
+BMI	Morning person	0.9014509105564593
+BMI	Smoking status	0.9133104156918008
+ASD	Fasting glucose	0.8831346704531041
+ASD	Blood glucose	0.8331740469263279
+ASD	Insomnia	0.9002999469104146
+ASD	Drinks per week	0.8904565272604281
+ASD	Heart failure	0.8656903808590246
+ADHD	Type 2 diabetes	0.8680612759893538
+ADHD	ASD	0.8977413835496334
+ADHD	General risk tolerance	0.8910819466089145
+ADHD	Sleep duration	0.889856281868102
+ADHD	Number of children ever born	0.8880289809187326
+Alzheimer disease	Vitiligo	0.8120494064362687
+Alzheimer disease	IPF	0.7976448617701373
+Alzheimer disease	Melanoma	0.8382074658930729
+Bipolar disorder	Schizophrenia	0.8926750614423068
+Bipolar disorder	Sleep duration	0.9215662477567277
+Bipolar disorder	Verbal numeric reasoning	0.9128625007890291
+Bipolar disorder	Smoking status	0.908600791665074
+General risk tolerance	Insomnia	0.8998941093239897
+General risk tolerance	Number of children ever born	0.8914357423474354
+Insomnia	Sleep duration	0.9046071337037528
+Insomnia	Number of children ever born	0.9026138494048968
+Intelligence	Schizophrenia	0.8994609478464473
+Intelligence	Verbal numeric reasoning	0.9784542666677168
+Intelligence	Years of education	0.9444296246842198
+MDD	Subjective well being	0.7253379732381592
+MDD	Worry	0.9255465095866635
+MDD	Neuroticism	0.9346949140097163
+MDD	Morning person	0.9136283923027967
+Reaction time	Worry	0.9072996028734405
+Reaction time	Smoking status	0.9256818570787045
+Schizophrenia	Smoking status	0.90667876917951
+Sleep duration	Smoking status	0.9164542514284639
+Subjective well being	Worry	0.7247327950610921
+Verbal numeric reasoning	Years of education	0.9093223110363996
+Neuroticism	Reaction time	0.9046534888797556
+Neuroticism	Subjective well being	0.7217943654671045
+Neuroticism	Worry	0.9716734818727447
+Neuroticism	Smoking status	0.9214933844087613
+Morning person	Worry	0.9096824295401635
+Morning person	Neuroticism	0.9353740355645225
+Drinks per week	General risk tolerance	0.8873606649045438
+Drinks per week	Insomnia	0.8936281662936658
+College education	Intelligence	0.9449747611335005
+College education	Verbal numeric reasoning	0.9235343124349535
+College education	Years of education	0.9785412209641823
+Smoking status	Worry	0.9282279922165365
+Coronary atherosclerosis	HDL cholesterol	0.8443102507392192
+Coronary atherosclerosis	Triglycerides	0.8427735756749637
+Coronary atherosclerosis	Hypertension	0.8550964281027653
+Heart failure	IPF	0.8544028919432415
+Heart failure	Melanoma	0.8740643284521608
+Atrial fibrillation	Type 2 diabetes	0.8403414744483383
+Atrial fibrillation	Coronary atherosclerosis	0.8378310360549099
+Atrial fibrillation	Heart failure	0.8508458730634041
+Coronary artery disease	Fasting glucose	0.8671188067732952
+Coronary artery disease	Vitamin D	0.8285312472479974
+Coronary artery disease	Heart failure	0.8548406817209903
+Coronary artery disease	Prostate cancer	0.8671984915417451
+Systolic blood pressure	WHRadjBMI	0.8787319967434251
+Diastolic blood pressure	WHRadjBMI	0.8421590775460441
+Diastolic blood pressure	Systolic blood pressure	0.9681659764685419
+Diastolic blood pressure	Hypertension	0.9127764056405661
+Hypertension	Systolic blood pressure	0.8911254191846236
+IPF	Type 2 diabetes	0.8559149639504201
+IPF	Melanoma	0.8937966742820347
+Asthma	RA	0.8734252541036843
+Asthma	Eczema	0.907712476017604
+Asthma	Respiratory ENT	0.9900399022513287
+FEV1 FVC ratio	WHRadjBMI	0.8926314865592421
+FEV1 FVC ratio	Lung FVC	0.898345213532395
+FEV1 FVC ratio	Heel T score	0.9107163858115487
+FEV1 FVC ratio	Height	0.8337947623161319
+Lung FVC	WHRadjBMI	0.8688707778188968
+Lung FVC	Systolic blood pressure	0.8594398579741238
+Hair color	Vitamin D	0.7730650291257721
+Hair color	Hair pigmentation	0.9821726638616413
+Melanoma	Vitiligo	0.8911158910361506
+Melanoma	Prostate cancer	0.8670273071953982
+Prostate cancer	Vitiligo	0.8652254084890517
+Heel T score	WHRadjBMI	0.9126046797882581
+Heel T score	Height	0.8755119866191067
+Balding Type I	Coronary atherosclerosis	0.8165399615373311
+Balding Type I	Hair color	0.791924423987738
+Balding Type I	Hair pigmentation	0.8154208678858773
+Height	WHRadjBMI	0.8255784825760583
+Breast cancer	Vitiligo	0.8669257138803127
+Breast cancer	Fasting glucose	0.8686952235870341
+Breast cancer	Type 2 diabetes	0.8759198184217304
+Breast cancer	Testosterone male	0.8598386053716193
+Breast cancer	Vitamin D	0.8306554428491917
+Breast cancer	Coronary artery disease	0.8656850268920364
+Breast cancer	Prostate cancer	0.8912622192887399
+Hair pigmentation	Vitamin D	0.77319324256513
+Age at menarche	Bipolar disorder	0.9036247757097593
+Age at menarche	General risk tolerance	0.9080264083509477
+Age at menarche	Smoking status	0.908425238016774
+Age at menopause	Hemoglobin A1c	0.82834464847382
+Age at menopause	Sex hormone binding globulin	0.8498824341745429
+Age at menopause	Testosterone male	0.8625386856038344

@@ -1,4 +1,5 @@
 Trait	Cell type	Pct. of sig. cells	ICePop discovery	Seismic discovery	scDRS discovery
+Hair pigmentation	Intestinal crypt stem cell	0.0	False	True	False
 Hair pigmentation	Valve cell	0.0	False	True	False
 Hair pigmentation	Respiratory basal cell	0.0	False	True	False
 Hair pigmentation	Non-classical monocyte	0.0	False	True	False
@@ -10,320 +11,320 @@ LDL cholesterol	Fenestrated cell	0.0	False	True	False
 LDL cholesterol	Vein endothelial cell	0.0	False	True	False
 LDL cholesterol	Intermediate monocyte	0.0	False	True	False
 LDL cholesterol	Pancreatic acinar cell	0.0	False	True	False
-LDL cholesterol	Endocardial cell	0.0	False	True	False
-Hair color	Basal cell	0.0	False	True	False
 Hair color	Keratinocyte stem cell	0.0	False	True	False
 Hair color	Respiratory basal cell	0.0	False	True	False
 Hair color	Non-classical monocyte	0.0	False	True	False
 Hair color	Classical monocyte	0.0	False	True	False
 Hair color	Type I pneumocyte	0.0	False	True	False
 Inflammatory bowel disease	Secretory cell	0.0	False	True	False
-Inflammatory bowel disease	Plasmacytoid dendritic cell	0.0	False	True	False
 Inflammatory bowel disease	Plasma cell	0.0	False	True	False
+Inflammatory bowel disease	Plasmacytoid dendritic cell	0.0	False	True	False
+Monocyte count	Vein endothelial cell	0.0	False	True	False
+Monocyte count	Plasma cell	0.0	False	True	False
 Monocyte count	Lung macrophage	0.0	False	True	False
 Monocyte count	Lymphoid progenitor cell	0.0	False	True	False
-Monocyte count	Plasma cell	0.0	False	True	False
-Monocyte count	Early pro-B cell	0.0	False	True	False
-Monocyte count	Pericyte cell	0.0	False	True	False
-Monocyte count	Endothelial cell of hepatic sinusoid	0.0	False	True	False
 Monocyte count	Megakaryocyte-erythroid progenitor cell	0.0	False	True	False
 Monocyte count	Endothelial cell of lymphatic vessel	0.0	False	True	False
-Coronary artery disease	Hematopoietic stem cell	0.0	False	True	False
+Monocyte count	Early pro-B cell	0.0	False	True	False
+Monocyte count	Endothelial cell of hepatic sinusoid	0.0	False	True	False
+Monocyte count	Pericyte cell	0.0	False	True	False
 Alzheimer disease	Immature B cell	0.0	False	True	False
 Alzheimer disease	Lung macrophage	0.0	False	True	False
 Alzheimer disease	Megakaryocyte-erythroid progenitor cell	0.0	False	True	False
 Basal metabolic rate	Respiratory basal cell	0.0	False	True	False
-Basal metabolic rate	Type I pneumocyte	0.0	False	True	False
 Basal metabolic rate	Late pro-B cell	0.0	False	True	False
-Basal metabolic rate	Pericyte cell	0.0	False	True	False
-Basal metabolic rate	Brain pericyte	0.0	False	True	False
-Basal metabolic rate	Astrocyte	0.0	False	True	False
-Basal metabolic rate	Smooth muscle cell	0.0	False	True	False
+Basal metabolic rate	Type I pneumocyte	0.0	False	True	False
 Basal metabolic rate	Medium spiny neuron	0.0	False	True	False
 Basal metabolic rate	Neuronal stem cell	0.0	False	True	False
-Atrial fibrillation	Valve cell	0.0	False	True	False
+Basal metabolic rate	Pericyte cell	0.0	False	True	False
+Basal metabolic rate	Brain pericyte	0.0	False	True	False
+Basal metabolic rate	Smooth muscle cell	0.0	False	True	False
+Basal metabolic rate	Astrocyte	0.0	False	True	False
 Atrial fibrillation	Pericyte cell	0.0	False	True	False
 Type 2 diabetes	Pancreatic ductal cell	0.0	False	True	False
-Type 2 diabetes	Pancreatic PP cell	0.0	False	True	False
 Type 2 diabetes	Pancreatic A cell	0.0	False	True	False
+Type 2 diabetes	Pancreatic PP cell	0.0	False	True	False
 Type 2 diabetes	Atrial myocyte	0.0	False	True	False
 Standing height	Respiratory basal cell	0.0	False	True	False
-Standing height	Type I pneumocyte	0.0	False	True	False
-Standing height	Lymphoid progenitor cell	0.0	False	True	False
-Standing height	Mucus secreting cell	0.0	False	True	False
 Standing height	Plasma cell	0.0	False	True	False
+Standing height	Lymphoid progenitor cell	0.0	False	True	False
 Standing height	Intermediate monocyte	0.0	False	True	False
-Standing height	Pancreatic PP cell	0.0	False	True	False
-Standing height	Brain pericyte	0.0	False	True	False
-Standing height	Pancreatic A cell	0.0	False	True	False
+Standing height	Type I pneumocyte	0.0	False	True	False
+Standing height	Mucus secreting cell	0.0	False	True	False
 Standing height	Fibroblast of lung	0.0	False	True	False
+Standing height	Pancreatic A cell	0.0	False	True	False
+Standing height	Pancreatic PP cell	0.0	False	True	False
 Standing height	Endothelial cell of lymphatic vessel	0.0	False	True	False
+Standing height	Brain pericyte	0.0	False	True	False
 Ulcerative colitis	Secretory cell	0.0	False	True	False
 Ulcerative colitis	Plasma cell	0.0	False	True	False
-Ulcerative colitis	Pericyte cell	0.0	False	True	False
 Ulcerative colitis	Large intestine goblet cell	0.0	False	True	False
-Balding Type I	Immature B cell	0.0	False	True	False
-Balding Type I	Hematopoietic stem cell	0.0	False	True	False
+Ulcerative colitis	Pericyte cell	0.0	False	True	False
 Balding Type I	Respiratory basal cell	0.0	False	True	False
 Balding Type I	Fenestrated cell	0.0	False	True	False
 Balding Type I	Chondrocyte	0.0	False	True	False
 Balding Type I	Pancreatic stellate cell	0.0	False	True	False
 Balding Type I	Endothelial cell of lymphatic vessel	0.0	False	True	False
-Celiac disease	Plasmacytoid dendritic cell	0.0	False	True	False
 Celiac disease	Pancreatic stellate cell	0.0	False	True	False
+Celiac disease	Plasmacytoid dendritic cell	0.0	False	True	False
 Celiac disease	Intermediate monocyte	0.0	False	True	False
 Celiac disease	Early pro-B cell	0.0	False	True	False
 Hemoglobin A1c	Luminal epithelial cell of mammary gland	0.0	False	True	False
 Hemoglobin A1c	Respiratory basal cell	0.0	False	True	False
-Hemoglobin A1c	Smooth muscle cell of the pulmonary artery	0.0	False	True	False
 Hemoglobin A1c	Fenestrated cell	0.0	False	True	False
-Hemoglobin A1c	Type I pneumocyte	0.0	False	True	False
-Hemoglobin A1c	Plasmacytoid dendritic cell	0.0	False	True	False
+Hemoglobin A1c	Smooth muscle cell of the pulmonary artery	0.0	False	True	False
 Hemoglobin A1c	Pancreatic ductal cell	0.0	False	True	False
+Hemoglobin A1c	Plasmacytoid dendritic cell	0.0	False	True	False
 Hemoglobin A1c	Intermediate monocyte	0.0	False	True	False
+Hemoglobin A1c	Type I pneumocyte	0.0	False	True	False
 Hemoglobin A1c	Pancreatic PP cell	0.0	False	True	False
 Hemoglobin A1c	Pericyte cell	0.0	False	True	False
-Hemoglobin A1c	Brain pericyte	0.0	False	True	False
 Hemoglobin A1c	Basophil	0.0	False	True	False
-Heel bone mineral density T score	Type I pneumocyte	0.0	False	True	False
+Hemoglobin A1c	Brain pericyte	0.0	False	True	False
 Heel bone mineral density T score	Intermediate monocyte	0.0	False	True	False
-Heel bone mineral density T score	Endothelial cell of hepatic sinusoid	0.0	False	True	False
+Heel bone mineral density T score	Type I pneumocyte	0.0	False	True	False
 Heel bone mineral density T score	Endothelial cell of lymphatic vessel	0.0	False	True	False
+Heel bone mineral density T score	Endothelial cell of hepatic sinusoid	0.0	False	True	False
 Red blood cell count	Luminal epithelial cell of mammary gland	0.0	False	True	False
 Red blood cell count	Valve cell	0.0	False	True	False
 Red blood cell count	Respiratory basal cell	0.0	False	True	False
 Red blood cell count	Lung macrophage	0.0	False	True	False
 Red blood cell count	Lymphoid progenitor cell	0.0	False	True	False
 Red blood cell count	Intermediate monocyte	0.0	False	True	False
-Red blood cell count	Endocardial cell	0.0	False	True	False
-Red blood cell count	Pericyte cell	0.0	False	True	False
-Red blood cell count	Basophil	0.0	False	True	False
-Red blood cell count	Endothelial cell of hepatic sinusoid	0.0	False	True	False
 Red blood cell count	Leukocyte	0.0	False	True	False
 Red blood cell count	Microglial cell	0.0	False	True	False
 Red blood cell count	Endothelial cell of lymphatic vessel	0.0	False	True	False
+Red blood cell count	Endocardial cell	0.0	False	True	False
+Red blood cell count	Endothelial cell of hepatic sinusoid	0.0	False	True	False
+Red blood cell count	Pericyte cell	0.0	False	True	False
+Red blood cell count	Basophil	0.0	False	True	False
+Attention deficit hyperactivity disorder	Neuronal stem cell	0.0	False	True	False
 Sex hormone binding globulin	Valve cell	0.0	False	True	False
-Sex hormone binding globulin	Type I pneumocyte	0.0	False	True	False
-Sex hormone binding globulin	Proerythroblast	0.0	False	True	False
+Sex hormone binding globulin	Myeloid leukocyte	0.0	False	True	False
 Sex hormone binding globulin	Pancreatic ductal cell	0.0	False	True	False
+Sex hormone binding globulin	Proerythroblast	0.0	False	True	False
 Sex hormone binding globulin	Intermediate monocyte	0.0	False	True	False
+Sex hormone binding globulin	Type I pneumocyte	0.0	False	True	False
 Mean corpuscular hemoglobin	Respiratory basal cell	0.0	False	True	False
-Mean corpuscular hemoglobin	Lung macrophage	0.0	False	True	False
-Mean corpuscular hemoglobin	Lymphocyte	0.0	False	True	False
-Mean corpuscular hemoglobin	Plasmacytoid dendritic cell	0.0	False	True	False
 Mean corpuscular hemoglobin	Plasma cell	0.0	False	True	False
 Mean corpuscular hemoglobin	Pancreatic ductal cell	0.0	False	True	False
+Mean corpuscular hemoglobin	Plasmacytoid dendritic cell	0.0	False	True	False
+Mean corpuscular hemoglobin	Lung macrophage	0.0	False	True	False
+Mean corpuscular hemoglobin	Lymphocyte	0.0	False	True	False
 Mean corpuscular hemoglobin	Intermediate monocyte	0.0	False	True	False
 Mean corpuscular hemoglobin	Basophil	0.0	False	True	False
 Triglycerides	Immature B cell	0.0	False	True	False
 Triglycerides	Respiratory basal cell	0.0	False	True	False
 Triglycerides	Plasma cell	0.0	False	True	False
 Triglycerides	Pancreatic ductal cell	0.0	False	True	False
-Triglycerides	Pericyte cell	0.0	False	True	False
-Triglycerides	Brain pericyte	0.0	False	True	False
 Triglycerides	Granulocytopoietic cell	0.0	False	True	False
+Triglycerides	Pericyte cell	0.0	False	True	False
 Bipolar disorder	Non-classical monocyte	0.0	False	True	False
 Reaction time	Lung neuroendocrine cell	0.0	False	True	False
 Total cholesterol	Respiratory basal cell	0.0	False	True	False
 Total cholesterol	Fenestrated cell	0.0	False	True	False
 Total cholesterol	Intermediate monocyte	0.0	False	True	False
-Total cholesterol	Basophil	0.0	False	True	False
 Total cholesterol	Leukocyte	0.0	False	True	False
+Total cholesterol	Basophil	0.0	False	True	False
 Number of children ever born	Type I pneumocyte	0.0	False	True	False
 Rheumatoid arthritis	Plasma cell	0.0	False	True	False
 Rheumatoid arthritis	Monocyte	0.0	False	True	False
-Lung FVC	Pancreatic A cell	0.0	False	True	False
+Lung FVC	Smooth muscle cell of trachea	0.0	False	True	False
 Lung FVC	Medium spiny neuron	0.0	False	True	False
 Lung FVC	Mesangial cell	0.0	False	True	False
+Lung FVC	Pancreatic A cell	0.0	False	True	False
 Systemic lupus erythematosus	Bulge keratinocyte	0.0	False	True	False
+Systemic lupus erythematosus	Plasma cell	0.0	False	True	False
 Systemic lupus erythematosus	Late pro-B cell	0.0	False	True	False
 Systemic lupus erythematosus	Lymphocyte	0.0	False	True	False
-Systemic lupus erythematosus	Plasma cell	0.0	False	True	False
 Systemic lupus erythematosus	Early pro-B cell	0.0	False	True	False
 Systemic lupus erythematosus	Basophil	0.0	False	True	False
 Systolic blood pressure	Keratinocyte stem cell	0.0	False	True	False
-Systolic blood pressure	Type I pneumocyte	0.0	False	True	False
 Systolic blood pressure	Intermediate monocyte	0.0	False	True	False
+Systolic blood pressure	Type I pneumocyte	0.0	False	True	False
 Systolic blood pressure	Endothelial cell of lymphatic vessel	0.0	False	True	False
-White blood cell count	Lung macrophage	0.0	False	True	False
-White blood cell count	Lymphoid progenitor cell	0.0	False	True	False
-White blood cell count	Lymphocyte	0.0	False	True	False
 White blood cell count	Plasmacytoid dendritic cell	0.0	False	True	False
+White blood cell count	Lung macrophage	0.0	False	True	False
+White blood cell count	Lymphocyte	0.0	False	True	False
+White blood cell count	Lymphoid progenitor cell	0.0	False	True	False
 White blood cell count	Kupffer cell	0.0	False	True	False
-White blood cell count	Pericyte cell	0.0	False	True	False
 White blood cell count	Megakaryocyte-erythroid progenitor cell	0.0	False	True	False
+White blood cell count	Pericyte cell	0.0	False	True	False
 Hypothyroidism	Lung macrophage	0.0	False	True	False
 Hypothyroidism	Lymphoid progenitor cell	0.0	False	True	False
 Hypothyroidism	Early pro-B cell	0.0	False	True	False
 HDL cholesterol	Respiratory basal cell	0.0	False	True	False
-HDL cholesterol	Type I pneumocyte	0.0	False	True	False
+HDL cholesterol	Plasma cell	0.0	False	True	False
 HDL cholesterol	Lung macrophage	0.0	False	True	False
 HDL cholesterol	Lymphoid progenitor cell	0.0	False	True	False
-HDL cholesterol	Plasma cell	0.0	False	True	False
 HDL cholesterol	Intermediate monocyte	0.0	False	True	False
-HDL cholesterol	Pulmonary interstitial fibroblast	0.0	False	True	False
-HDL cholesterol	Pancreatic B cell	0.0	False	True	False
-HDL cholesterol	Brain pericyte	0.0	False	True	False
-HDL cholesterol	Basophil	0.0	False	True	False
-HDL cholesterol	Smooth muscle cell	0.0	False	True	False
+HDL cholesterol	Type I pneumocyte	0.0	False	True	False
 HDL cholesterol	Leukocyte	0.0	False	True	False
+HDL cholesterol	Pancreatic B cell	0.0	False	True	False
 HDL cholesterol	Endothelial cell of lymphatic vessel	0.0	False	True	False
-Testosterone male	Mature alpha-beta T cell	0.0	False	True	False
+HDL cholesterol	Basophil	0.0	False	True	False
+HDL cholesterol	Brain pericyte	0.0	False	True	False
+HDL cholesterol	Pulmonary interstitial fibroblast	0.0	False	True	False
+HDL cholesterol	Smooth muscle cell	0.0	False	True	False
 Testosterone male	Respiratory basal cell	0.0	False	True	False
 Testosterone male	Pancreatic ductal cell	0.0	False	True	False
-Testosterone male	Pancreatic B cell	0.0	False	True	False
+Testosterone male	Neuronal stem cell	0.0	False	True	False
 Testosterone male	Pancreatic D cell	0.0	False	True	False
 Testosterone male	Pancreatic PP cell	0.0	False	True	False
-Testosterone male	Neuronal stem cell	0.0	False	True	False
 College education	Lung neuroendocrine cell	0.0	False	True	False
 Total bilirubin	Respiratory basal cell	0.0	False	True	False
 Total bilirubin	Fenestrated cell	0.0	False	True	False
+Total bilirubin	Chondrocyte	0.0	False	True	False
 Total bilirubin	Intermediate monocyte	0.0	False	True	False
-Total bilirubin	Pulmonary interstitial fibroblast	0.0	False	True	False
+Total bilirubin	Leukocyte	0.0	False	True	False
+Total bilirubin	Megakaryocyte-erythroid progenitor cell	0.0	False	True	False
+Total bilirubin	Endothelial cell of hepatic sinusoid	0.0	False	True	False
 Total bilirubin	Pericyte cell	0.0	False	True	False
 Total bilirubin	Basophil	0.0	False	True	False
-Total bilirubin	Leukocyte	0.0	False	True	False
+Total bilirubin	Pulmonary interstitial fibroblast	0.0	False	True	False
 Fasting glucose	Pancreatic PP cell	0.0	False	True	False
 Breast cancer	Respiratory basal cell	0.0	False	True	False
 Primary biliary cirrhosis	Basal cell	0.0	False	True	False
-Primary biliary cirrhosis	Lymphocyte	0.0	False	True	False
 Primary biliary cirrhosis	Plasmacytoid dendritic cell	0.0	False	True	False
+Primary biliary cirrhosis	Lymphocyte	0.0	False	True	False
 Primary biliary cirrhosis	Kupffer cell	0.0	False	True	False
 Subjective well being	Type I pneumocyte	0.0	False	True	False
 Subjective well being	Brush cell of epithelium proper of large intestine	0.0	False	True	False
-Subjective well being	Endothelial cell of lymphatic vessel	0.0	False	True	False
 Subjective well being	Mesenchymal stem cell	0.0	False	True	False
+Subjective well being	Endothelial cell of lymphatic vessel	0.0	False	True	False
 FEV1 FVC ratio	Endocardial cell	0.0	False	True	False
 Sleep duration	Lung neuroendocrine cell	0.0	False	True	False
 Eczema	Bulge keratinocyte	0.0	False	True	False
-Eczema	Lung macrophage	0.0	False	True	False
 Eczema	Plasmacytoid dendritic cell	0.0	False	True	False
+Eczema	Lung macrophage	0.0	False	True	False
 Eczema	Basophil	0.0	False	True	False
 Total protein	Respiratory basal cell	0.0	False	True	False
-Total protein	Type I pneumocyte	0.0	False	True	False
-Total protein	Lymphoid progenitor cell	0.0	False	True	False
-Total protein	Lymphocyte	0.0	False	True	False
 Total protein	Plasma cell	0.0	False	True	False
+Total protein	Lymphocyte	0.0	False	True	False
+Total protein	Lymphoid progenitor cell	0.0	False	True	False
 Total protein	Intermediate monocyte	0.0	False	True	False
-Total protein	Early pro-B cell	0.0	False	True	False
-Total protein	Smooth muscle cell	0.0	False	True	False
+Total protein	Type I pneumocyte	0.0	False	True	False
 Total protein	Megakaryocyte-erythroid progenitor cell	0.0	False	True	False
 Total protein	Endothelial cell of lymphatic vessel	0.0	False	True	False
-Total protein	Neutrophil	0.0	False	True	False
+Total protein	Early pro-B cell	0.0	False	True	False
+Total protein	Smooth muscle cell	0.0	False	True	False
 Respiratory ENT	Respiratory basal cell	0.0	False	True	False
 Respiratory ENT	Late pro-B cell	0.0	False	True	False
 Respiratory ENT	Plasmacytoid dendritic cell	0.0	False	True	False
 Respiratory ENT	Intermediate monocyte	0.0	False	True	False
-Respiratory ENT	Early pro-B cell	0.0	False	True	False
 Respiratory ENT	Neutrophil	0.0	False	True	False
+Respiratory ENT	Early pro-B cell	0.0	False	True	False
+Respiratory ENT	Bladder cell	0.0	False	True	False
 Autism spectrum disorder	Proerythroblast	0.0	False	True	False
 Red blood cell distribution width	Luminal epithelial cell of mammary gland	0.0	False	True	False
 Red blood cell distribution width	Respiratory basal cell	0.0	False	True	False
-Red blood cell distribution width	Lung macrophage	0.0	False	True	False
-Red blood cell distribution width	Lymphoid progenitor cell	0.0	False	True	False
-Red blood cell distribution width	Lymphocyte	0.0	False	True	False
 Red blood cell distribution width	Plasmacytoid dendritic cell	0.0	False	True	False
+Red blood cell distribution width	Lung macrophage	0.0	False	True	False
+Red blood cell distribution width	Lymphocyte	0.0	False	True	False
+Red blood cell distribution width	Lymphoid progenitor cell	0.0	False	True	False
 Red blood cell distribution width	Intermediate monocyte	0.0	False	True	False
 Red blood cell distribution width	Basophil	0.0	False	True	False
 Coronary atherosclerosis	Valve cell	0.0	False	True	False
 Coronary atherosclerosis	Classical monocyte	0.0	False	True	False
 Coronary atherosclerosis	Promonocyte	0.0	False	True	False
 Coronary atherosclerosis	Intermediate monocyte	0.0	False	True	False
+Coronary atherosclerosis	Fibroblast of lung	0.0	False	True	False
+Coronary atherosclerosis	Myeloid dendritic cell	0.0	False	True	False
 Coronary atherosclerosis	Endocardial cell	0.0	False	True	False
 Coronary atherosclerosis	Pericyte cell	0.0	False	True	False
 Coronary atherosclerosis	Adventitial cell	0.0	False	True	False
-Coronary atherosclerosis	Fibroblast of lung	0.0	False	True	False
-Coronary atherosclerosis	Myeloid dendritic cell	0.0	False	True	False
 Vitamin D	Luminal epithelial cell of mammary gland	0.0	False	True	False
 Vitamin D	Respiratory basal cell	0.0	False	True	False
-Vitamin D	Pancreatic PP cell	0.0	False	True	False
 Vitamin D	Pancreatic A cell	0.0	False	True	False
+Vitamin D	Pancreatic PP cell	0.0	False	True	False
 Neutrophil count	Luminal epithelial cell of mammary gland	0.0	False	True	False
-Neutrophil count	Lymphoid progenitor cell	0.0	False	True	False
-Neutrophil count	Plasmacytoid dendritic cell	0.0	False	True	False
 Neutrophil count	Plasma cell	0.0	False	True	False
+Neutrophil count	Plasmacytoid dendritic cell	0.0	False	True	False
+Neutrophil count	Lymphoid progenitor cell	0.0	False	True	False
+Neutrophil count	Intermediate monocyte	0.0	False	True	False
 Neutrophil count	Kidney interstitial fibroblast	0.0	False	True	False
 Neutrophil count	Dendritic cell	0.0	False	True	False
-Neutrophil count	Intermediate monocyte	0.0	False	True	False
-Neutrophil count	Endocardial cell	0.0	False	True	False
 Neutrophil count	Early pro-B cell	0.0	False	True	False
+Neutrophil count	Endocardial cell	0.0	False	True	False
+Age at menopause	Proerythroblast	0.0	False	True	False
+Age at menopause	Megakaryocyte-erythroid progenitor cell	0.0	False	True	False
 Platelet count	Keratinocyte stem cell	0.0	False	True	False
+Platelet count	Luminal epithelial cell of mammary gland	0.0	False	True	False
 Platelet count	Respiratory basal cell	0.0	False	True	False
-Platelet count	Type I pneumocyte	0.0	False	True	False
-Platelet count	Lung macrophage	0.0	False	True	False
-Platelet count	Lymphoid progenitor cell	0.0	False	True	False
-Platelet count	Lymphocyte	0.0	False	True	False
 Platelet count	Plasmacytoid dendritic cell	0.0	False	True	False
+Platelet count	Lung macrophage	0.0	False	True	False
+Platelet count	Lymphocyte	0.0	False	True	False
+Platelet count	Lymphoid progenitor cell	0.0	False	True	False
 Platelet count	Intermediate monocyte	0.0	False	True	False
-Platelet count	Pulmonary interstitial fibroblast	0.0	False	True	False
+Platelet count	Type I pneumocyte	0.0	False	True	False
+Platelet count	Endothelial cell of lymphatic vessel	0.0	False	True	False
 Platelet count	Endocardial cell	0.0	False	True	False
 Platelet count	Pericyte cell	0.0	False	True	False
-Platelet count	Brain pericyte	0.0	False	True	False
 Platelet count	Basophil	0.0	False	True	False
+Platelet count	Brain pericyte	0.0	False	True	False
+Platelet count	Pulmonary interstitial fibroblast	0.0	False	True	False
 Platelet count	Smooth muscle cell	0.0	False	True	False
-Platelet count	Endothelial cell of lymphatic vessel	0.0	False	True	False
 Alkaline phosphatase	Respiratory basal cell	0.0	False	True	False
+Alkaline phosphatase	Plasma cell	0.0	False	True	False
 Alkaline phosphatase	Lung macrophage	0.0	False	True	False
 Alkaline phosphatase	Lymphoid progenitor cell	0.0	False	True	False
-Alkaline phosphatase	Plasma cell	0.0	False	True	False
 Alkaline phosphatase	Intermediate monocyte	0.0	False	True	False
-Alkaline phosphatase	Pulmonary interstitial fibroblast	0.0	False	True	False
+Alkaline phosphatase	Myeloid dendritic cell	0.0	False	True	False
 Alkaline phosphatase	Pericyte cell	0.0	False	True	False
 Alkaline phosphatase	Basophil	0.0	False	True	False
-Alkaline phosphatase	Myeloid dendritic cell	0.0	False	True	False
+Alkaline phosphatase	Pulmonary interstitial fibroblast	0.0	False	True	False
+Insomnia	Bergmann glial cell	0.0	False	True	False
 Insomnia	Pancreatic D cell	0.0	False	True	False
 Insomnia	Pancreatic PP cell	0.0	False	True	False
-Insomnia	Bergmann glial cell	0.0	False	True	False
 Insomnia	Astrocyte	0.0	False	True	False
 Asthma	Respiratory basal cell	0.0	False	True	False
 Asthma	Late pro-B cell	0.0	False	True	False
 Asthma	Intermediate monocyte	0.0	False	True	False
 Morning person	Type I pneumocyte	0.0	False	True	False
 Blood glucose	Pancreatic ductal cell	0.0	False	True	False
-Body mass index	Valve cell	0.0	False	True	False
 Body mass index	Lung neuroendocrine cell	0.0	False	True	False
-Body mass index	Pulmonary interstitial fibroblast	0.0	False	True	False
 Body mass index	Brain pericyte	0.0	False	True	False
+Body mass index	Pulmonary interstitial fibroblast	0.0	False	True	False
+Lymphocyte count	Plasma cell	0.0	False	True	False
 Lymphocyte count	Lung macrophage	0.0	False	True	False
 Lymphocyte count	Lymphoid progenitor cell	0.0	False	True	False
-Lymphocyte count	Plasma cell	0.0	False	True	False
-Lymphocyte count	Pericyte cell	0.0	False	True	False
 Lymphocyte count	Endothelial cell of lymphatic vessel	0.0	False	True	False
+Lymphocyte count	Pericyte cell	0.0	False	True	False
 Diastolic blood pressure	Pancreatic ductal cell	0.0	False	True	False
 Diastolic blood pressure	Intermediate monocyte	0.0	False	True	False
 Diastolic blood pressure	Pancreatic PP cell	0.0	False	True	False
 Eosinophil count	Keratinocyte stem cell	0.0	False	True	False
 Eosinophil count	Fenestrated cell	0.0	False	True	False
-Eosinophil count	Lung macrophage	0.0	False	True	False
 Eosinophil count	Plasma cell	0.0	False	True	False
-Eosinophil count	Early pro-B cell	0.0	False	True	False
+Eosinophil count	Lung macrophage	0.0	False	True	False
 Eosinophil count	Megakaryocyte-erythroid progenitor cell	0.0	False	True	False
-Hypertension	Type I pneumocyte	0.0	False	True	False
-Hypertension	Late pro-B cell	0.0	False	True	False
+Eosinophil count	Early pro-B cell	0.0	False	True	False
 Hypertension	Pancreatic ductal cell	0.0	False	True	False
+Hypertension	Late pro-B cell	0.0	False	True	False
 Hypertension	Intermediate monocyte	0.0	False	True	False
+Hypertension	Type I pneumocyte	0.0	False	True	False
 Hypertension	Pancreatic PP cell	0.0	False	True	False
-Hypertension	Endocardial cell	0.0	False	True	False
 Hypertension	Endothelial cell of lymphatic vessel	0.0	False	True	False
-Crohn disease	Lung macrophage	0.0	False	True	False
-Crohn disease	Plasmacytoid dendritic cell	0.0	False	True	False
+Hypertension	Endocardial cell	0.0	False	True	False
 Crohn disease	Plasma cell	0.0	False	True	False
+Crohn disease	Plasmacytoid dendritic cell	0.0	False	True	False
+Crohn disease	Lung macrophage	0.0	False	True	False
 Alanine aminotransferase	Luminal epithelial cell of mammary gland	0.0	False	True	False
 Alanine aminotransferase	Valve cell	0.0	False	True	False
 Alanine aminotransferase	Respiratory basal cell	0.0	False	True	False
-Alanine aminotransferase	Type I pneumocyte	0.0	False	True	False
 Alanine aminotransferase	Late pro-B cell	0.0	False	True	False
 Alanine aminotransferase	Lymphocyte	0.0	False	True	False
 Alanine aminotransferase	Intermediate monocyte	0.0	False	True	False
+Alanine aminotransferase	Type I pneumocyte	0.0	False	True	False
 Alanine aminotransferase	Kupffer cell	0.0	False	True	False
+Alanine aminotransferase	Myeloid dendritic cell	0.0	False	True	False
 Alanine aminotransferase	Brain pericyte	0.0	False	True	False
 Alanine aminotransferase	Smooth muscle cell	0.0	False	True	False
-Alanine aminotransferase	Myeloid dendritic cell	0.0	False	True	False
-Multiple sclerosis	Plasmacytoid dendritic cell	0.0	False	True	False
 Multiple sclerosis	Plasma cell	0.0	False	True	False
+Multiple sclerosis	Plasmacytoid dendritic cell	0.0	False	True	False
 Multiple sclerosis	Intermediate monocyte	0.0	False	True	False
-Multiple sclerosis	Early pro-B cell	0.0	False	True	False
 Waist hip ratio adjusted BMI	Keratinocyte stem cell	0.0	False	True	False
 Waist hip ratio adjusted BMI	Respiratory basal cell	0.0	False	True	False
-Waist hip ratio adjusted BMI	Kidney interstitial fibroblast	0.0	False	True	False
 Waist hip ratio adjusted BMI	Intermediate monocyte	0.0	False	True	False
+Waist hip ratio adjusted BMI	Kidney interstitial fibroblast	0.0	False	True	False
+Waist hip ratio adjusted BMI	Pericyte cell	0.0	False	True	False
