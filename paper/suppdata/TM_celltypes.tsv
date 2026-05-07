@@ -72,12 +72,12 @@ brain pericyte	Brain pericyte	Brain	No
 endothelial cell of coronary artery	Endothelial cell of coronary artery	Heart	Yes
 endocardial cell	Endocardial cell	Heart	No
 atrial myocyte	Atrial myocyte	Heart	Yes
-ventricular myocyte	Ventricular myocyte	Heart	Yes
+ventricular myocyte	Ventricular myocyte	Heart	No
 valve cell	Valve cell	Heart	No
 fibroblast of cardiac tissue	Fibroblast of cardiac tissue	Heart	No
+aortic endothelial cell	Aortic endothelial cell	Heart	Yes
 endothelial cell	Endothelial cell	Vascular	No
 vein endothelial cell	Vein endothelial cell	Vascular	No
-aortic endothelial cell	Aortic endothelial cell	Vascular	No
 pericyte cell	Pericyte cell	Vascular	No
 adventitial cell	Adventitial cell	Vascular	No
 fenestrated cell	Fenestrated cell	Vascular	No
