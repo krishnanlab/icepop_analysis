@@ -13,7 +13,7 @@ notebook/
 run/ (working directory for running scripts)
 ```
 
-All data required to reproduce the analyses are available on [Zenodo](https://doi.org/10.5281/zenodo.14629276).
+All data required to reproduce the analyses are available on [Zenodo](https://doi.org/10.5281/zenodo.20146708).
 
 We assume all data have been downloaded and extracted under `data/`.
 
